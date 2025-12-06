@@ -1,0 +1,1335 @@
+src_person_id,dst_university_id,src_person,dst_university
+3,501,Abiy Ahmed,Đại học Greenwich
+10,540,Abdullah Gül,Đại học Istanbul
+10,470,Abdullah Gül,Đại học Exeter
+11,406,Adly Mansour,Đại học Cairo
+11,336,Adly Mansour,École nationale d'administration
+12,53,Abhisit Vejjajiva,Eton College
+12,751,Abhisit Vejjajiva,Đại học Thammasat
+13,511,Ahmad Massoud,Đại học Hoàng đế Luân Đôn
+13,579,Ahmad Massoud,Đại học London
+16,348,Alain Poher,École nationale supérieure des mines de Paris
+16,148,Alain Poher,Sciences Po
+17,745,Alar Karis,Đại học Tartu
+19,731,Abe Shinzō,Đại học Seikei
+19,640,Abe Shinzō,Đại học Nam California
+20,148,Alain Juppé,Sciences Po
+20,336,Alain Juppé,École nationale d'administration
+22,22,Alan García,Complutense University of Madrid
+22,654,Alan García,Đại học Pantheon-Sorbonne
+23,458,Alassane Ouattara,Đại học Drexel
+23,690,Alassane Ouattara,Đại học Pennsylvania
+24,310,Alben W. Barkley,University of Virginia
+26,581,Alenka Bratušek,Đại học Ljubljana
+27,482,Aleksander Kwaśniewski,Đại học Gdańsk
+28,729,Alex Salmond,Đại học St Andrews
+29,798,Alcide De Gasperi,Đại học Viên
+30,401,Alberto Fernández,Đại học Buenos Aires
+31,561,Albert Speer,Đại học Kỹ thuật Berlin
+31,566,Albert Speer,Đại học Kỹ thuật München
+33,659,Alexander Schallenberg,Đại học Panthéon-Assas
+34,477,Albert Gallatin,Đại học Geneva
+35,665,Alexander Stubb,Đại học Paris-Sorbonne
+35,188,Alexander Stubb,Trường Kinh tế London
+36,743,Alberto Fujimori,Đại học Strasbourg
+37,664,Alexandre Millerand,Đại học Paris
+38,798,Alexander Van der Bellen,Đại học Viên
+39,53,Alec Douglas-Home,Eton College
+41,572,Alfred Rosenberg,Đại học Kỹ thuật Quốc gia Moskva Bauman
+42,364,Anders Fogh Rasmussen,Đại học Aarhus
+43,645,Amy Coney Barrett,Đại học Notre Dame
+44,614,Alfred Deakin,Đại học Melbourne
+45,736,Andreas Norlén,Đại học Stockholm
+45,576,Andreas Norlén,Đại học Linköping
+47,26,Andrew Giuliani,Duke University
+47,484,Andrew Giuliani,Đại học Duke
+49,745,Andrus Ansip,Đại học Tartu
+53,683,Allen Dulles,Đại học Princeton
+53,35,Allen Dulles,Cử nhân Nghệ thuật
+53,480,Allen Dulles,Đại học George Washington
+54,188,Amartya Sen,Trường Kinh tế London
+54,433,Amartya Sen,Đại học Cornell
+54,405,Amartya Sen,Đại học Calcutta
+54,399,Amartya Sen,"Đại học California, Berkeley"
+56,786,Andrés Manuel López Obrador,Đại học Tự trị Quốc gia México
+58,393,Alexandria Ocasio-Cortez,Đại học Boston
+58,35,Alexandria Ocasio-Cortez,Cử nhân Nghệ thuật
+59,508,Anneli Jäätteenmäki,Đại học Helsinki
+60,840,Andy Beshear,Đại học Virginia
+62,53,Anthony Eden,Eton College
+63,741,Anthony Albanese,Đại học Sydney
+64,631,Antonio Salandra,Đại học Napoli Federico II
+68,567,Angela Merkel,Đại học Leipzig
+69,508,Antti Tulenheimo,Đại học Helsinki
+70,440,Antony Blinken,Đại học Columbia
+71,518,Antonin Scalia,Đại học Georgetown
+71,205,Antonin Scalia,Trường Luật Harvard
+71,840,Antonin Scalia,Đại học Virginia
+71,426,Antonin Scalia,Đại học Chicago
+72,585,António Costa,Đại học Lisboa
+74,585,António Guterres,Đại học Lisboa
+75,664,Armand Fallières,Đại học Paris
+80,440,Ashraf Ghani,Đại học Columbia
+80,537,Ashraf Ghani,Đại học Johns Hopkins
+81,509,Ariel Sharon,Đại học Hebrew của Jerusalem
+83,53,"Arthur Wellesley, Công tước thứ 1 xứ Wellington",Eton College
+85,417,Ardem Patapoutian,"Đại học California, Los Angeles"
+85,334,Ardem Patapoutian,Viện Công nghệ California
+86,433,Anthony Fauci,Đại học Cornell
+86,429,Anthony Fauci,Đại học Colgate
+87,837,Aung San,Đại học Yangon
+88,639,Arthur C. Clarke,Đại học Nhà vua Luân Đôn
+90,189,Asō Tarō,Trường Kinh tế và Khoa học Chính trị London
+90,224,Asō Tarō,Trường Kinh tế và Khoa học Chính trị Luân Đôn
+91,366,Asa Hutchinson,Đại học Arkansas
+94,690,Beau Biden,Đại học Pennsylvania
+95,531,Beata Szydło,Đại học Jagiellonia
+96,205,Barney Frank,Trường Luật Harvard
+97,35,Ben Carson,Cử nhân Nghệ thuật
+97,632,Ben Carson,Đại học Michigan
+98,434,Bayanqolu,Đại học Cát Lâm
+99,678,"Benigno Aquino, Jr.",Đại học Philippines
+100,712,Ban Ki-moon,Đại học Quốc gia Seoul
+101,508,Bengt Holmström,Đại học Helsinki
+102,454,Bashar al-Assad,Đại học Damascus
+103,579,Aung San Suu Kyi,Đại học London
+103,560,Aung San Suu Kyi,Đại học Kyoto
+108,604,Benjamin Harrison,Đại học Miami
+109,668,Bill de Blasio,Đại học New York
+109,440,Bill de Blasio,Đại học Columbia
+110,440,Bhimrao Ambedkar,Đại học Columbia
+110,224,Bhimrao Ambedkar,Trường Kinh tế và Khoa học Chính trị Luân Đôn
+112,598,Bertil Ohlin,Đại học Lund
+112,736,Bertil Ohlin,Đại học Stockholm
+112,430,Bertil Ohlin,Đại học Copenhagen
+113,605,Bettino Craxi,Đại học Milan
+115,291,Bernie Sanders,University of Chicago
+117,35,Bob Woodward,Cử nhân Nghệ thuật
+118,600,Bohuslav Sobotka,Đại học Masaryk
+119,518,Bill Clinton,Đại học Georgetown
+119,208,Bill Clinton,Trường Dịch vụ Đối ngoại
+119,366,Bill Clinton,Đại học Arkansas
+120,778,Bob Hawke,Đại học Tây Úc
+121,433,Bill Gates,Đại học Cornell
+121,834,Bill Gates,Đại học Waseda
+121,764,Bill Gates,Đại học Thanh Hoa
+121,416,Bill Gates,Đại học Bắc Kinh
+122,690,Bongbong Marcos,Đại học Pennsylvania
+123,683,Bob Taft,Đại học Princeton
+125,391,Boris Tadić,Đại học Beograd
+126,581,Borut Pahor,Đại học Ljubljana
+127,406,Boutros Boutros-Ghali,Đại học Cairo
+127,654,Boutros Boutros-Ghali,Đại học Pantheon-Sorbonne
+130,798,Brigitte Bierlein,Đại học Viên
+132,802,Bronisław Komorowski,Đại học Warszawa
+133,433,Benjamin Netanyahu,Đại học Cornell
+133,23,Benjamin Netanyahu,Cornell University
+136,416,Bạc Hy Lai,Đại học Bắc Kinh
+136,202,Bạc Hy Lai,Trường Harrow
+136,440,Bạc Hy Lai,Đại học Columbia
+137,53,Boris Johnson,Eton College
+137,440,Boris Johnson,Đại học Columbia
+142,519,Brian Kemp,Đại học Georgia
+143,368,Calvin Coolidge,Đại học Amherst
+143,791,Calvin Coolidge,Đại học Vermont
+144,267,Bùi Kim Giai,Trường Đảng Trung ương Đảng Cộng sản Trung Quốc
+145,736,Carl Bildt,Đại học Stockholm
+148,579,Chaim Herzog,Đại học London
+149,499,Carlos Prío Socarrás,Đại học Havana
+154,664,Carole Bouquet,Đại học Paris
+156,440,Barack Obama,Đại học Columbia
+156,35,Barack Obama,Cử nhân Nghệ thuật
+156,205,Barack Obama,Trường Luật Harvard
+156,426,Barack Obama,Đại học Chicago
+157,148,Chandrika Kumaratunga,Sciences Po
+157,590,Chandrika Kumaratunga,Đại học Luân Đôn
+158,35,Charles Joseph Bonaparte,Cử nhân Nghệ thuật
+158,205,Charles Joseph Bonaparte,Trường Luật Harvard
+158,441,Charles Joseph Bonaparte,Đại học Công giáo Hoa Kỳ
+158,645,Charles Joseph Bonaparte,Đại học Notre Dame
+159,369,Charles Michel,Đại học Amsterdam
+162,751,Chavarat Charnvirakul,Đại học Thammasat
+163,712,Cho Kuk,Đại học Quốc gia Seoul
+163,399,Cho Kuk,"Đại học California, Berkeley"
+164,798,Christian Stocker,Đại học Viên
+166,766,Choi Kyu-hah,Đại học Tsukuba
+167,664,Charles-Maurice de Talleyrand-Périgord,Đại học Paris
+168,803,Christian Kern,Đại học Wien
+171,343,Charles de Gaulle,École spéciale militaire de Saint-Cyr
+172,224,Christopher A. Pissarides,Trường Kinh tế và Khoa học Chính trị Luân Đôn
+173,35,Charlie Baker,Cử nhân Nghệ thuật
+174,683,Christopher A. Sims,Đại học Princeton
+174,408,Christopher A. Sims,Đại học California tại Berkeley
+174,606,Christopher A. Sims,Đại học Minnesota
+175,408,Christopher Stevens (đại sứ),Đại học California tại Berkeley
+175,411,Christopher Stevens (đại sứ),Đại học California
+176,764,Chu Tiểu Xuyên,Đại học Thanh Hoa
+178,401,Che Guevara,Đại học Buenos Aires
+178,786,Che Guevara,Đại học Tự trị Quốc gia México
+179,627,Chuck Hagel,Đại học Nebraska tại Omaha
+180,764,Chu Dung Cơ,Đại học Thanh Hoa
+185,751,Chuan Leekpai,Đại học Thammasat
+186,779,Claudia Sheinbaum,Đại học Tự chủ Quốc gia Mexico
+187,224,Clement Attlee,Trường Kinh tế và Khoa học Chính trị Luân Đôn
+188,480,Colin Powell,Đại học George Washington
+190,649,D. H. Lawrence,Đại học Nottingham
+191,800,Dag Hammarskjöld,Đại học Uppsala
+191,736,Dag Hammarskjöld,Đại học Stockholm
+194,649,Clive Granger,Đại học Nottingham
+196,224,Daron Acemoğlu,Trường Kinh tế và Khoa học Chính trị Luân Đôn
+198,393,Corazon Aquino,Đại học Boston
+198,834,Corazon Aquino,Đại học Waseda
+198,678,Corazon Aquino,Đại học Philippines
+199,481,Chu Ân Lai,Đại học Edinburgh
+199,249,Chu Ân Lai,Trường quân sự Hoàng Phố
+200,645,Condoleezza Rice,Đại học Notre Dame
+200,440,Condoleezza Rice,Đại học Columbia
+204,312,Dean Heller,University of Southern California
+205,635,David Lloyd Johnston,Đại học McGill
+206,35,Dean Acheson,Cử nhân Nghệ thuật
+209,408,David Card,Đại học California tại Berkeley
+209,683,David Card,Đại học Princeton
+210,281,David Petraeus,United States Military Academy
+210,683,David Petraeus,Đại học Princeton
+210,518,David Petraeus,Đại học Georgetown
+211,822,Dick Cheney,Đại học Wyoming
+212,205,Deval Patrick,Trường Luật Harvard
+214,678,Diosdado Macapagal,Đại học Philippines
+215,148,Dominique Strauss-Kahn,Sciences Po
+215,667,Dominique Strauss-Kahn,Đại học Paris Nanterre
+216,683,Donald Rumsfeld,Đại học Princeton
+216,35,Donald Rumsfeld,Cử nhân Nghệ thuật
+216,518,Donald Rumsfeld,Đại học Georgetown
+217,336,Dominique de Villepin,École nationale d'administration
+218,249,Diệp Kiếm Anh,Trường quân sự Hoàng Phố
+219,482,Donald Tusk,Đại học Gdańsk
+220,35,Doug Burgum,Cử nhân Nghệ thuật
+221,804,Douglass North,Đại học Washington
+221,399,Douglass North,"Đại học California, Berkeley"
+222,522,Dr. Seuss,Đại học Dartmouth
+223,35,Droupadi Murmu,Cử nhân Nghệ thuật
+224,267,Dương Chấn Vũ,Trường Đảng Trung ương Đảng Cộng sản Trung Quốc
+225,35,Doug Emhoff,Cử nhân Nghệ thuật
+225,640,Doug Emhoff,Đại học Nam California
+227,780,Dmitry Anatolyevich Medvedev,Đại học Tổng hợp Sankt-Peterburg
+228,440,Dwight D. Eisenhower,Đại học Columbia
+228,89,Dwight D. Eisenhower,Học viện Quân sự Hoa Kỳ
+228,73,Dwight D. Eisenhower,Học viện Hải quân Hoa Kỳ
+229,233,Dương Văn Minh,Trường Trung học phổ thông Nguyễn Đình Chiểu (Tiền Giang)
+230,399,Earl Warren,"Đại học California, Berkeley"
+232,427,Dịch Hội Mãn,Đại học Chiết Giang
+232,416,Dịch Hội Mãn,Đại học Bắc Kinh
+232,636,Dịch Hội Mãn,Đại học Nam Kinh
+233,508,Edwin Linkomies,Đại học Helsinki
+234,568,Edgars Rinkēvičs,Đại học Latvia
+234,491,Edgars Rinkēvičs,Đại học Groningen
+235,741,Edmund Barton,Đại học Sydney
+236,741,Earle Page,Đại học Sydney
+237,664,Edvard Beneš,Đại học Paris
+238,690,Ed Rendell,Đại học Pennsylvania
+239,319,Doãn Lực,Viện Hàn lâm Khoa học Liên Xô
+239,267,Doãn Lực,Trường Đảng Trung ương Đảng Cộng sản Trung Quốc
+240,509,Ehud Barak,Đại học Hebrew của Jerusalem
+243,815,Ellen Johnson Sirleaf,Đại học Wisconsin–Madison
+245,599,Elio Di Rupo,Đại học Leeds
+247,798,Elias Canetti,Đại học Viên
+247,803,Elias Canetti,Đại học Wien
+248,531,Elżbieta Bieńkowska,Đại học Jagiellonia
+249,509,Ehud Olmert,Đại học Hebrew của Jerusalem
+250,480,Elizabeth Warren,Đại học George Washington
+252,678,Emilio Aguinaldo,Đại học Philippines
+254,590,Emmerson Mnangagwa,Đại học Luân Đôn
+254,830,Emmerson Mnangagwa,Đại học Zambia
+254,579,Emmerson Mnangagwa,Đại học London
+255,672,Enrico Letta,Đại học Pisa
+258,35,Eric Holcomb,Cử nhân Nghệ thuật
+259,783,Eugenia Charles,Đại học Toronto
+259,189,Eugenia Charles,Trường Kinh tế và Khoa học Chính trị London
+261,490,Ernst Kaltenbrunner,Đại học Graz
+262,344,Esther Duflo,École normale supérieure
+263,606,Ernest Lawrence,Đại học Minnesota
+263,399,Ernest Lawrence,"Đại học California, Berkeley"
+263,408,Ernest Lawrence,Đại học California tại Berkeley
+264,568,Evika Siliņa,Đại học Latvia
+267,667,Emmanuel Macron,Đại học Paris Nanterre
+267,148,Emmanuel Macron,Sciences Po
+267,336,Emmanuel Macron,École nationale d'administration
+267,345,Emmanuel Macron,Viện Nghiên cứu Chính trị Paris
+267,194,Emmanuel Macron,Trường Hành chính quốc gia (Pháp)
+267,344,Emmanuel Macron,École normale supérieure
+268,690,Elon Musk,Đại học Pennsylvania
+268,35,Elon Musk,Cử nhân Nghệ thuật
+269,480,Faure Gnassingbé,Đại học George Washington
+271,678,Ferdinand Marcos,Đại học Philippines
+273,421,Finn E. Kydland,Đại học Carnegie Mellon
+274,653,Francesco Crispi,Đại học Palermo
+276,399,Francisco I. Madero,"Đại học California, Berkeley"
+277,89,Fidel Ramos,Học viện Quân sự Hoa Kỳ
+277,281,Fidel Ramos,United States Military Academy
+278,683,F. Scott Fitzgerald,Đại học Princeton
+278,310,F. Scott Fitzgerald,University of Virginia
+279,829,Franjo Tuđman,Đại học Zagreb
+281,173,Franco Modigliani,The New School
+281,440,Franco Modigliani,Đại học Columbia
+281,421,Franco Modigliani,Đại học Carnegie Mellon
+281,484,Franco Modigliani,Đại học Duke
+283,548,Franz Oppenheimer,Đại học Keio
+287,335,François Arago,École Polytechnique
+288,562,Fidel Castro,Đại học La Habana
+291,659,François Hollande,Đại học Panthéon-Assas
+291,148,François Hollande,Sciences Po
+291,336,François Hollande,École nationale d'administration
+292,35,Franklin D. Roosevelt,Cử nhân Nghệ thuật
+292,840,Franklin D. Roosevelt,Đại học Virginia
+293,736,Fredrik Reinfeldt,Đại học Stockholm
+295,479,Friedrich Hayek,Đại học Freiburg
+295,426,Friedrich Hayek,Đại học Chicago
+295,798,Friedrich Hayek,Đại học Viên
+295,803,Friedrich Hayek,Đại học Wien
+295,668,Friedrich Hayek,Đại học New York
+295,224,Friedrich Hayek,Trường Kinh tế và Khoa học Chính trị Luân Đôn
+296,364,Frederik X của Đan Mạch,Đại học Aarhus
+297,589,Franz Kafka,Đại học Ludwig Maximilian München
+298,690,Donald Trump,Đại học Pennsylvania
+299,664,François Mitterrand,Đại học Paris
+299,148,François Mitterrand,Sciences Po
+300,834,Furukawa Shuntaro,Đại học Waseda
+301,397,Friedrich Merz,Đại học Bonn
+301,591,Friedrich Merz,Đại học Marburg
+303,834,Fukuda Yasuo,Đại học Waseda
+305,664,Gaston Doumergue,Đại học Paris
+306,775,Fukuda Takeo,Đại học Tokyo
+308,53,George Canning,Eton College
+310,399,George Akerlof,"Đại học California, Berkeley"
+310,518,George Akerlof,Đại học Georgetown
+310,408,George Akerlof,Đại học California tại Berkeley
+310,224,George Akerlof,Trường Kinh tế và Khoa học Chính trị Luân Đôn
+310,290,George Akerlof,"University of California, Berkeley"
+311,659,Gabriel Attal,Đại học Panthéon-Assas
+311,148,Gabriel Attal,Sciences Po
+312,53,George Grenville,Eton College
+317,30,George Tenet,Georgetown University
+317,518,George Tenet,Đại học Georgetown
+320,440,George Stigler,Đại học Columbia
+320,398,George Stigler,Đại học Brown
+320,426,George Stigler,Đại học Chicago
+320,804,George Stigler,Đại học Washington
+324,572,Georgy Maksimilianovich Malenkov,Đại học Kỹ thuật Quốc gia Moskva Bauman
+326,426,Gary Becker,Đại học Chicago
+326,440,Gary Becker,Đại học Columbia
+326,683,Gary Becker,Đại học Princeton
+326,291,Gary Becker,University of Chicago
+329,148,Georges Pompidou,Sciences Po
+331,408,Gavin Newsom,Đại học California tại Berkeley
+333,631,Giorgio Napolitano,Đại học Napoli Federico II
+334,473,Giovanni Spadolini,Đại học Firenze
+336,672,Giuliano Amato,Đại học Pisa
+337,715,Giulio Andreotti,Đại học Roma La Sapienza
+340,632,Gerald Ford,Đại học Michigan
+342,485,Giang Trạch Dân,Đại học Giao thông Thượng Hải
+342,267,Giang Trạch Dân,Trường Đảng Trung ương Đảng Cộng sản Trung Quốc
+342,337,Giang Trạch Dân,Viện Khoa học Trung Quốc
+343,764,Giả Xuân Vượng,Đại học Thanh Hoa
+347,721,Giuseppe Conte,Đại học Roma Sapienza
+348,741,Gough Whitlam,Đại học Sydney
+349,518,Gloria Macapagal Arroyo,Đại học Georgetown
+349,678,Gloria Macapagal Arroyo,Đại học Philippines
+350,480,Glenn Greenwald,Đại học George Washington
+350,668,Glenn Greenwald,Đại học New York
+352,775,Gotō Fumio,Đại học Tokyo
+353,571,Gordon Brown,Đại học Leiden
+353,481,Gordon Brown,Đại học Edinburgh
+355,440,Gray Davis,Đại học Columbia
+356,683,Golda Meir,Đại học Princeton
+358,825,Grzegorz Schetyna,Đại học Wrocław
+359,650,Gro Harlem Brundtland,Đại học Oslo
+359,310,Gro Harlem Brundtland,University of Virginia
+361,397,Guido Westerwelle,Đại học Bonn
+362,493,Gustav Holst,Đại học Glasgow
+362,152,Gustav Holst,Somerville College
+364,399,Gérard Debreu,"Đại học California, Berkeley"
+365,755,Greg Abbott,Đại học Texas tại Austin
+366,798,Gustav Mahler,Đại học Viên
+367,35,Gretchen Whitmer,Cử nhân Nghệ thuật
+368,664,Habib Bourguiba,Đại học Paris
+371,411,H3h3Productions,Đại học California
+374,696,Halimah Yacob,Đại học Quốc gia Singapore
+375,775,Hara Takashi,Đại học Tokyo
+376,202,Harold Alexander,Trường Harrow
+377,614,Harold Holt,Đại học Melbourne
+378,712,Han Duck-soo,Đại học Quốc gia Seoul
+379,810,Giáo hoàng Lêô XIV,Đại học Villanova
+382,508,Harri Holkeri,Đại học Helsinki
+383,426,Harry Markowitz,Đại học Chicago
+386,775,Hayashi Yoshimasa,Đại học Tokyo
+390,775,Hatoyama Yukio,Đại học Tokyo
+390,521,Hatoyama Yukio,Đại học Hồng Kông
+391,480,Harry Reid,Đại học George Washington
+393,430,Helle Thorning-Schmidt,Đại học Copenhagen
+394,344,Henri Bergson,École normale supérieure
+394,664,Henri Bergson,Đại học Paris
+395,481,"Henry John Temple, Tử tước Palmerston thứ 3",Đại học Edinburgh
+398,500,Helmut Schmidt,Đại học Hamburg
+401,35,Henry L. Stimson,Cử nhân Nghệ thuật
+401,205,Henry L. Stimson,Trường Luật Harvard
+404,748,Henry McMaster,Đại học South Carolina
+406,505,Helmut Kohl,Đại học Heidelberg
+408,35,Henry Kissinger,Cử nhân Nghệ thuật
+410,775,Hiranuma Kiichirō,Đại học Tokyo
+412,566,Heinrich Himmler,Đại học Kỹ thuật München
+413,782,Horst Köhler,Đại học Tübingen
+415,35,Hope Hicks,Cử nhân Nghệ thuật
+416,764,Hoàng Cúc,Đại học Thanh Hoa
+417,79,Hosni Mubarak,Học viện Quân sự Frunze
+418,579,Htin Kyaw,Đại học London
+418,837,Htin Kyaw,Đại học Yangon
+419,606,Hubert Humphrey,Đại học Minnesota
+421,449,Hoài Tiến Bằng,Đại học Công nghiệp Cáp Nhĩ Tân
+421,337,Hoài Tiến Bằng,Viện Khoa học Trung Quốc
+421,434,Hoài Tiến Bằng,Đại học Cát Lâm
+421,267,Hoài Tiến Bằng,Trường Đảng Trung ương Đảng Cộng sản Trung Quốc
+421,440,Hoài Tiến Bằng,Đại học Columbia
+422,366,Hillary Clinton,Đại học Arkansas
+422,440,Hillary Clinton,Đại học Columbia
+422,683,Hillary Clinton,Đại học Princeton
+423,815,Hoàng Tuần Tài,Đại học Wisconsin–Madison
+423,632,Hoàng Tuần Tài,Đại học Michigan
+424,754,Hwang Kyo-ahn,Đại học Sungkyunkwan
+425,518,Hunter Biden,Đại học Georgetown
+427,707,Hà Vệ Đông,Đại học Quốc phòng Trung Quốc
+427,267,Hà Vệ Đông,Trường Đảng Trung ương Đảng Cộng sản Trung Quốc
+430,416,Hạ Bảo Long,Đại học Bắc Kinh
+432,253,Hạ Quân Khoa,Trường Đại học Công nghệ Quốc phòng Trung Quốc
+433,744,Hàn Chính (chính khách),Đại học Sư phạm Hoa Đông
+434,440,Hugo Chávez,Đại học Columbia
+435,346,Ian Brossat,École normale supérieure de Lyon
+436,81,Ilya Yefimovich Repin,Học viện Nghệ thuật Hoàng gia Nga
+437,560,Ikeda Hayato,Đại học Kyoto
+438,598,Ingvar Carlsson,Đại học Lund
+439,267,Hạ Vinh,Trường Đảng Trung ương Đảng Cộng sản Trung Quốc
+441,548,Inukai Tsuyoshi,Đại học Keio
+442,440,Isaac Asimov,Đại học Columbia
+442,393,Isaac Asimov,Đại học Boston
+443,433,Isaac Herzog,Đại học Cornell
+443,668,Isaac Herzog,Đại học New York
+444,548,Ishiba Yoshiko,Đại học Keio
+447,775,Itō Masayoshi,Đại học Tokyo
+449,834,Ishibashi Tanzan,Đại học Waseda
+452,719,Izumi Kenta,Đại học Ritsumeikan
+453,490,Ivo Andrić,Đại học Graz
+453,798,Ivo Andrić,Đại học Viên
+454,518,Iván Duque Márquez,Đại học Georgetown
+455,690,Ivanka Trump,Đại học Pennsylvania
+455,518,Ivanka Trump,Đại học Georgetown
+456,493,J. M. Barrie,Đại học Glasgow
+456,481,J. M. Barrie,Đại học Edinburgh
+457,764,Hồ Cẩm Đào,Đại học Thanh Hoa
+457,267,Hồ Cẩm Đào,Trường Đảng Trung ương Đảng Cộng sản Trung Quốc
+457,337,Hồ Cẩm Đào,Viện Khoa học Trung Quốc
+458,366,J. William Fulbright,Đại học Arkansas
+458,480,J. William Fulbright,Đại học George Washington
+459,548,Ishiba Shigeru,Đại học Keio
+461,148,Jacques Chaban-Delmas,Sciences Po
+462,579,Itō Hirobumi,Đại học London
+463,579,Jacek Rostowski,Đại học London
+463,188,Jacek Rostowski,Trường Kinh tế London
+463,224,Jacek Rostowski,Trường Kinh tế và Khoa học Chính trị Luân Đôn
+463,590,Jacek Rostowski,Đại học Luân Đôn
+466,379,JD Vance,Đại học Bang Ohio
+468,664,Jacques-Louis David,Đại học Paris
+469,466,James Buchanan,Đại học Dickinson
+471,291,James Comey,University of Chicago
+472,426,James Heckman,Đại học Chicago
+472,683,James Heckman,Đại học Princeton
+472,440,James Heckman,Đại học Columbia
+473,643,James K. Polk,Đại học North Carolina ở Chapel Hill
+474,336,Jacques Chirac,École nationale d'administration
+474,148,Jacques Chirac,Sciences Po
+476,481,James Mirrlees,Đại học Edinburgh
+476,614,James Mirrlees,Đại học Melbourne
+478,840,James R. Schlesinger,Đại học Virginia
+479,840,James M. Buchanan,Đại học Virginia
+479,426,James M. Buchanan,Đại học Chicago
+480,484,J. B. Pritzker,Đại học Duke
+480,35,J. B. Pritzker,Cử nhân Nghệ thuật
+480,426,J. B. Pritzker,Đại học Chicago
+482,808,James Monroe,Đại học William & Mary
+483,683,James Madison,Đại học Princeton
+483,35,James Madison,Cử nhân Nghệ thuật
+486,75,Jan Matejko,Học viện Mỹ thuật Jan Matejko
+486,531,Jan Matejko,Đại học Jagiellonia
+487,581,Janez Drnovšek,Đại học Ljubljana
+488,264,Hồ Chí Minh,Trường Đại học Lao động Cộng sản Phương Đông
+488,234,Hồ Chí Minh,Trường Trung học phổ thông chuyên Quốc Học
+489,433,Janet Reno,Đại học Cornell
+490,494,Jan Eliasson,Đại học Gothenburg
+490,800,Jan Eliasson,Đại học Uppsala
+491,398,Janet Yellen,Đại học Brown
+491,408,Janet Yellen,Đại học California tại Berkeley
+491,188,Janet Yellen,Trường Kinh tế London
+492,470,J. K. Rowling,Đại học Exeter
+492,481,J. K. Rowling,Đại học Edinburgh
+495,125,Jared Kushner,New York University
+496,581,Janez Janša,Đại học Ljubljana
+500,565,Jean Chrétien,Đại học Laval
+501,664,Jean Casimir-Perier,Đại học Paris
+502,683,Jared Polis,Đại học Princeton
+504,392,Javier Milei,Đại học Belgrano
+504,35,Javier Milei,Cử nhân Nghệ thuật
+505,35,Janet Mills,Cử nhân Nghệ thuật
+506,804,Jay Inslee,Đại học Washington
+507,339,Jean Tirole,École nationale des ponts et chaussées
+507,335,Jean Tirole,École Polytechnique
+507,664,Jean Tirole,Đại học Paris
+508,664,Jean-Luc Godard,Đại học Paris
+510,795,Jarosław Kaczyński,Đại học Warsaw
+510,802,Jarosław Kaczyński,Đại học Warszawa
+512,808,Jen Psaki,Đại học William & Mary
+512,812,Jen Psaki,Đại học William và Mary
+513,755,Jeb Bush,Đại học Texas tại Austin
+515,683,Jeff Bezos,Đại học Princeton
+517,743,Jean-Claude Juncker,Đại học Strasbourg
+518,650,Jens Stoltenberg,Đại học Oslo
+520,290,Jerry Brown,"University of California, Berkeley"
+522,312,Jim Webb,University of Southern California
+522,30,Jim Webb,Georgetown University
+522,73,Jim Webb,Học viện Hải quân Hoa Kỳ
+522,640,Jim Webb,Đại học Nam California
+522,518,Jim Webb,Đại học Georgetown
+524,441,Jim McGreevey,Đại học Công giáo Hoa Kỳ
+524,440,Jim McGreevey,Đại học Columbia
+524,518,Jim McGreevey,Đại học Georgetown
+527,508,Johan Wilhelm Rangell,Đại học Helsinki
+528,460,Jill Biden,Đại học Delaware
+528,35,Jill Biden,Cử nhân Nghệ thuật
+528,810,Jill Biden,Đại học Villanova
+529,224,John Atta Mills,Trường Kinh tế và Khoa học Chính trị Luân Đôn
+529,189,John Atta Mills,Trường Kinh tế và Khoa học Chính trị London
+531,635,John Abbott,Đại học McGill
+532,430,Johannes Vilhelm Jensen,Đại học Copenhagen
+534,35,Jim Justice,Cử nhân Nghệ thuật
+535,683,John C. Breckinridge,Đại học Princeton
+536,89,John Bel Edwards,Học viện Quân sự Hoa Kỳ
+538,310,John C. Calhoun,University of Virginia
+540,399,Jerome Adams,"Đại học California, Berkeley"
+541,683,John Foster Dulles,Đại học Princeton
+541,480,John Foster Dulles,Đại học George Washington
+546,805,John Hickenlooper,Đại học Wesleyan
+547,741,John Howard,Đại học Sydney
+548,62,Jimmy Carter,Học viện Công nghệ Georgia
+548,73,Jimmy Carter,Học viện Hải quân Hoa Kỳ
+549,224,John F. Kennedy,Trường Kinh tế và Khoa học Chính trị Luân Đôn
+549,683,John F. Kennedy,Đại học Princeton
+549,35,John F. Kennedy,Cử nhân Nghệ thuật
+550,440,John Jay,Đại học Columbia
+551,224,John Hicks,Trường Kinh tế và Khoa học Chính trị Luân Đôn
+552,753,John Kasich,Đại học Tiểu bang Ohio
+554,35,John Carney,Cử nhân Nghệ thuật
+554,522,John Carney,Đại học Dartmouth
+554,460,John Carney,Đại học Delaware
+557,805,John Lipsky,Đại học Wesleyan
+558,683,John Kenneth Galbraith,Đại học Princeton
+558,399,John Kenneth Galbraith,"Đại học California, Berkeley"
+558,783,John Kenneth Galbraith,Đại học Toronto
+562,571,John Quincy Adams,Đại học Leiden
+563,755,John O. Brennan,Đại học Texas tại Austin
+565,460,Joe Biden,Đại học Delaware
+565,35,Joe Biden,Cử nhân Nghệ thuật
+565,73,Joe Biden,Học viện Hải quân Hoa Kỳ
+565,690,Joe Biden,Đại học Pennsylvania
+565,645,Joe Biden,Đại học Notre Dame
+567,664,John Turner,Đại học Paris
+568,808,John Tyler,Đại học William & Mary
+570,475,Joko Widodo,Đại học Gadjah Mada
+571,518,Jon Ossoff,Đại học Georgetown
+571,187,Jon Ossoff,Trường Kinh tế Luân Đôn
+571,208,Jon Ossoff,Trường Dịch vụ Đối ngoại
+571,224,Jon Ossoff,Trường Kinh tế và Khoa học Chính trị Luân Đôn
+572,683,Jonathan Dayton,Đại học Princeton
+573,773,Joseph Boakai,Đại học Tiểu bang Kansas
+577,397,Joseph Schumpeter,Đại học Bonn
+577,490,Joseph Schumpeter,Đại học Graz
+577,798,Joseph Schumpeter,Đại học Viên
+580,683,Joshua Angrist,Đại học Princeton
+581,397,Josef Mengele,Đại học Bonn
+581,589,Josef Mengele,Đại học Ludwig Maximilian München
+581,492,Josef Mengele,Đại học Goethe Frankfurt
+581,567,Josef Mengele,Đại học Leipzig
+582,518,Josh Shapiro,Đại học Georgetown
+584,477,José Manuel Barroso,Đại học Geneva
+585,397,Joseph Goebbels,Đại học Bonn
+585,479,Joseph Goebbels,Đại học Freiburg
+585,505,Joseph Goebbels,Đại học Heidelberg
+585,589,Joseph Goebbels,Đại học Ludwig Maximilian München
+587,440,Joseph Stiglitz,Đại học Columbia
+590,635,Julie Payette,Đại học McGill
+590,783,Julie Payette,Đại học Toronto
+591,73,John McCain,Học viện Hải quân Hoa Kỳ
+591,840,John McCain,Đại học Virginia
+591,440,John McCain,Đại học Columbia
+592,741,Jørn Utzon,Đại học Sydney
+593,508,Juho Kusti Paasikivi,Đại học Helsinki
+595,552,Juan Manuel Santos,Đại học Kansas
+595,224,Juan Manuel Santos,Trường Kinh tế và Khoa học Chính trị Luân Đôn
+596,187,K. R. Narayanan,Trường Kinh tế Luân Đôn
+597,358,Julia Gillard,Đại học Adelaide
+597,614,Julia Gillard,Đại học Melbourne
+598,745,Kaja Kallas,Đại học Tartu
+598,35,Kaja Kallas,Cử nhân Nghệ thuật
+599,661,Juha Sipilä,Đại học Oulu
+600,609,Karolos Papoulias,Đại học Milano
+600,365,Karolos Papoulias,Đại học Athena
+604,775,Katayama Tetsu,Đại học Tokyo
+605,490,Karl Böhm,Đại học Graz
+606,834,Kaifu Toshiki,Đại học Waseda
+607,413,Karel Čapek,Đại học Charles ở Praha
+608,508,Keijo Liinamaa,Đại học Helsinki
+609,775,Katō Takaaki,Đại học Tokyo
+610,35,Kazuo Ishiguro,Cử nhân Nghệ thuật
+611,56,Katō Tomosaburō,Học viện Hải quân Đế quốc Nhật Bản
+612,35,Kate Brown,Cử nhân Nghệ thuật
+614,35,Kay Ivey,Cử nhân Nghệ thuật
+615,224,Kim Campbell,Trường Kinh tế và Khoa học Chính trị Luân Đôn
+617,775,Katō Katsunobu,Đại học Tokyo
+618,599,Keir Starmer,Đại học Leeds
+620,703,Kevin Rudd,Đại học Quốc gia Úc
+621,440,Kenneth Arrow,Đại học Columbia
+622,712,Kim Myeong-soo,Đại học Quốc gia Seoul
+623,712,Kim Young-sam,Đại học Quốc gia Seoul
+625,775,Kishi Nobusuke,Đại học Tokyo
+628,515,Kamala Harris,Đại học Howard
+628,35,Kamala Harris,Cử nhân Nghệ thuật
+628,196,Kamala Harris,Trường Luật Hastings
+628,408,Kamala Harris,Đại học California tại Berkeley
+628,635,Kamala Harris,Đại học McGill
+629,440,Koizumi Shinjirō,Đại học Columbia
+630,670,Kim Tráng Long,Đại học Phục Đán
+630,267,Kim Tráng Long,Trường Đảng Trung ương Đảng Cộng sản Trung Quốc
+631,574,Kim Dae-jung,Đại học Kyung Hee
+632,743,Klemens von Metternich,Đại học Strasbourg
+633,224,Kristalina Georgieva,Trường Kinh tế và Khoa học Chính trị Luân Đôn
+633,703,Kristalina Georgieva,Đại học Quốc gia Úc
+633,764,Kristalina Georgieva,Đại học Thanh Hoa
+634,479,Konrad Adenauer,Đại học Freiburg
+634,589,Konrad Adenauer,Đại học Ludwig Maximilian München
+634,397,Konrad Adenauer,Đại học Bonn
+635,370,Konstantinos Karamanlis,Đại học Athens
+637,751,Kukrit Pramoj,Đại học Thammasat
+638,548,Koizumi Junichirō,Đại học Keio
+638,579,Koizumi Junichirō,Đại học London
+639,834,Kishida Fumio,Đại học Waseda
+639,775,Kishida Fumio,Đại học Tokyo
+640,784,Kim Jong-un,Đại học Tổng hợp Kim Nhật Thành
+640,688,Kim Jong-un,Đại học Quân sự Kim Nhật Thành
+641,834,Kōno Yōhei,Đại học Waseda
+643,433,Kurt Vonnegut,Đại học Cornell
+643,421,Kurt Vonnegut,Đại học Carnegie Mellon
+643,426,Kurt Vonnegut,Đại học Chicago
+645,606,Lamberto Dini,Đại học Minnesota
+645,632,Lamberto Dini,Đại học Michigan
+646,430,Lars Løkke Rasmussen,Đại học Copenhagen
+647,518,Laura Chinchilla,Đại học Georgetown
+649,568,Laimdota Straujuma,Đại học Latvia
+650,461,Larry Hogan,Đại học Bang Florida
+651,267,Lam Phật An,Trường Đảng Trung ương Đảng Cộng sản Trung Quốc
+652,148,Laurent Fabius,Sciences Po
+652,194,Laurent Fabius,Trường Hành chính quốc gia (Pháp)
+655,690,Lawrence Klein,Đại học Pennsylvania
+655,632,Lawrence Klein,Đại học Michigan
+655,399,Lawrence Klein,"Đại học California, Berkeley"
+656,802,Lech Kaczyński,Đại học Warszawa
+656,482,Lech Kaczyński,Đại học Gdańsk
+657,712,Lee Sang-min (chính khách),Đại học Quốc gia Seoul
+657,410,Lee Sang-min (chính khách),Đại học Cao Ly
+658,712,Lee Hae-chan,Đại học Quốc gia Seoul
+660,104,Leonard Bernstein,Học viện âm nhạc Curtis
+661,445,Lee Jae-myung,Đại học Chung-Ang
+666,813,Lucy Webb Hayes,Đại học Wesley (Ohio)
+668,755,Laura Bush,Đại học Texas tại Austin
+669,89,Lloyd Austin,Học viện Quân sự Hoa Kỳ
+670,385,Lluís Domènech i Montaner,Đại học Barcelona
+672,389,Luigi Einaudi,Đại học Bocconi
+674,510,Lee Myung-bak,Đại học Hàn Quốc
+674,410,Lee Myung-bak,Đại học Cao Ly
+675,647,Lev Davidovich Trotsky,Đại học Odessa
+676,648,Luigi Luzzatti,Đại học Padua
+677,780,Lyudmila Aleksandrovna Putina,Đại học Tổng hợp Sankt-Peterburg
+678,401,Luis Arce,Đại học Buenos Aires
+681,278,Lê Văn Kim,Trường Võ bị Quốc gia Đà Lạt
+682,397,Luigi Pirandello,Đại học Bonn
+682,653,Luigi Pirandello,Đại học Palermo
+683,543,Lâu Cần Kiệm,Đại học Khoa học và Kỹ thuật Hoa Trung
+683,267,Lâu Cần Kiệm,Trường Đảng Trung ương Đảng Cộng sản Trung Quốc
+684,764,Lý Cán Kiệt,Đại học Thanh Hoa
+685,599,Liz Truss,Đại học Leeds
+685,35,Liz Truss,Cử nhân Nghệ thuật
+685,224,Liz Truss,Trường Kinh tế và Khoa học Chính trị Luân Đôn
+686,427,Lý Cường,Đại học Chiết Giang
+686,400,Lý Cường,Đại học Bách khoa Hồng Kông
+686,267,Lý Cường,Trường Đảng Trung ương Đảng Cộng sản Trung Quốc
+686,416,Lý Cường,Đại học Bắc Kinh
+687,801,Lý Hiểu Hồng,Đại học Vũ Hán
+687,408,Lý Hiểu Hồng,Đại học California tại Berkeley
+688,840,Lyndon B. Johnson,Đại học Virginia
+689,267,Lý Quốc Anh,Trường Đảng Trung ương Đảng Cộng sản Trung Quốc
+690,744,Lý Nguyên Triều,Đại học Sư phạm Hoa Đông
+690,670,Lý Nguyên Triều,Đại học Phục Đán
+690,416,Lý Nguyên Triều,Đại học Bắc Kinh
+690,267,Lý Nguyên Triều,Trường Đảng Trung ương Đảng Cộng sản Trung Quốc
+691,267,Lý Thư Lỗi,Trường Đảng Trung ương Đảng Cộng sản Trung Quốc
+691,416,Lý Thư Lỗi,Đại học Bắc Kinh
+692,764,Lý Hi,Đại học Thanh Hoa
+693,841,Lý Đăng Huy,Đại học quốc lập Đài Loan
+693,433,Lý Đăng Huy,Đại học Cornell
+694,260,Lưu Kết Nhất,Trường sau đại học
+696,682,Lạc Thụ Cương,Đại học Nhân dân Trung Quốc
+696,267,Lạc Thụ Cương,Trường Đảng Trung ương Đảng Cộng sản Trung Quốc
+697,434,Lý Hồng Trung,Đại học Cát Lâm
+698,427,Lưu Kỳ (sinh năm 1957),Đại học Chiết Giang
+698,488,Lưu Kỳ (sinh năm 1957),Đại học Giao thông Tây An
+699,521,Lý Gia Siêu,Đại học Hồng Kông
+700,804,Lý Thừa Vãn,Đại học Washington
+700,683,Lý Thừa Vãn,Đại học Princeton
+700,480,Lý Thừa Vãn,Đại học George Washington
+701,267,Lưu Kim Quốc,Trường Đảng Trung ương Đảng Cộng sản Trung Quốc
+702,416,Lý Khắc Cường,Đại học Bắc Kinh
+703,488,Lục Trị Nguyên,Đại học Giao thông Tây An
+704,560,Maehara Seiji,Đại học Kyoto
+705,775,Machimura Nobutaka,Đại học Tokyo
+705,805,Machimura Nobutaka,Đại học Wesleyan
+707,454,Mahmoud Abbas,Đại học Damascus
+708,192,Magdalena Andersson,Trường Kinh tế Stockholm
+709,449,Lưu Quốc Trung,Đại học Công nghiệp Cáp Nhĩ Tân
+710,696,Mahathir Mohamad,Đại học Quốc gia Singapore
+710,649,Mahathir Mohamad,Đại học Nottingham
+712,801,Lộc Tâm Xã,Đại học Vũ Hán
+713,841,Lại Thanh Đức,Đại học quốc lập Đài Loan
+713,702,Lại Thanh Đức,Đại học Quốc lập Thành Công
+715,449,Lật Chiến Thư,Đại học Công nghiệp Cáp Nhĩ Tân
+715,267,Lật Chiến Thư,Trường Đảng Trung ương Đảng Cộng sản Trung Quốc
+717,741,Malcolm Turnbull,Đại học Sydney
+719,440,Mahmud Ahmadinezhad,Đại học Columbia
+722,219,Lương Cường,Trường Sĩ quan Chính trị
+722,90,Lương Cường,Học viện Chính trị Quốc gia Hồ Chí Minh
+724,430,Margrethe Vestager,Đại học Copenhagen
+725,508,Mari Kiviniemi,Đại học Helsinki
+726,256,Manuel Valls,Trường Đại học Paris I
+731,193,Marin Alsop,Trường Juilliard
+732,261,Marine Le Pen,Trường Đại học Paris II
+733,389,Mario Monti,Đại học Bocconi
+734,35,Mark Leno,Cử nhân Nghệ thuật
+735,152,Margaret Thatcher,Somerville College
+735,812,Margaret Thatcher,Đại học William và Mary
+736,617,Mark Gordon (chính trị gia),Đại học Middlebury
+738,683,Maria Ressa,Đại học Princeton
+741,571,Mark Rutte,Đại học Leiden
+742,661,Martti Ahtisaari,Đại học Oulu
+743,537,Mark Zuckerberg,Đại học Johns Hopkins
+743,411,Mark Zuckerberg,Đại học California
+744,508,Matti Vanhanen,Đại học Helsinki
+745,825,Mateusz Morawiecki,Đại học Wrocław
+745,500,Mateusz Morawiecki,Đại học Hamburg
+745,390,Mateusz Morawiecki,Đại học Basel
+746,397,Max Bruch,Đại học Bonn
+747,795,Małgorzata Kidawa-Błońska,Đại học Warsaw
+747,802,Małgorzata Kidawa-Błońska,Đại học Warszawa
+749,335,Maurice Allais,École Polytechnique
+750,530,Megawati Sukarnoputri,Đại học Indonesia
+752,473,Matteo Renzi,Đại học Firenze
+754,537,Michael Bloomberg,Đại học Johns Hopkins
+758,795,Menachem Begin,Đại học Warsaw
+759,421,Merton Miller,Đại học Carnegie Mellon
+759,426,Merton Miller,Đại học Chicago
+759,537,Merton Miller,Đại học Johns Hopkins
+759,188,Merton Miller,Trường Kinh tế London
+760,668,Michael Spence,Đại học New York
+760,683,Michael Spence,Đại học Princeton
+760,783,Michael Spence,Đại học Toronto
+761,416,Mao Trạch Đông,Đại học Bắc Kinh
+762,148,Michel Debré,Sciences Po
+762,664,Michel Debré,Đại học Paris
+763,683,Michael Froman,Đại học Princeton
+763,205,Michael Froman,Trường Luật Harvard
+764,148,Michel Rocard,Sciences Po
+764,336,Michel Rocard,École nationale d'administration
+768,664,Miguel Ángel Asturias,Đại học Paris
+769,366,Mike Beebe,Đại học Arkansas
+774,549,Mikhail Andreyevich Suslov,Đại học Kinh tế Quốc dân Plekhanov
+774,705,Mikhail Andreyevich Suslov,Đại học Quốc gia Moskva
+774,319,Mikhail Andreyevich Suslov,Viện Hàn lâm Khoa học Liên Xô
+776,89,Mike Pompeo,Học viện Quân sự Hoa Kỳ
+777,683,Michelle Obama,Đại học Princeton
+777,426,Michelle Obama,Đại học Chicago
+778,428,Miroslav Lajčák,Đại học Comenius
+780,775,Miyazawa Kiichi,Đại học Tokyo
+781,640,Miki Takeo,Đại học Nam California
+782,668,Mitch McConnell,Đại học New York
+783,406,Mohamed Morsi,Đại học Cairo
+783,640,Mohamed Morsi,Đại học Nam California
+784,837,Min Aung Hlaing,Đại học Yangon
+786,406,Mohamed ElBaradei,Đại học Cairo
+786,668,Mohamed ElBaradei,Đại học New York
+787,35,Michelle Lujan Grisham,Cử nhân Nghệ thuật
+790,372,Mohammed Shia' Al Sudani,Đại học Bagdad
+794,426,Milton Friedman,Đại học Chicago
+794,440,Milton Friedman,Đại học Columbia
+794,606,Milton Friedman,Đại học Minnesota
+794,291,Milton Friedman,University of Chicago
+796,834,Mori Yoshirō,Đại học Waseda
+797,540,Moshe Sharett,Đại học Istanbul
+797,187,Moshe Sharett,Trường Kinh tế Luân Đôn
+801,406,Mostafa Madbouly,Đại học Cairo
+803,705,Mikhail Sergeyevich Gorbachyov,Đại học Quốc gia Moskva
+805,426,Myron Scholes,Đại học Chicago
+805,603,Myron Scholes,Đại học McMaster
+806,35,Muhammad Yunus,Cử nhân Nghệ thuật
+811,337,Mã Hiểu Vĩ,Viện Khoa học Trung Quốc
+811,521,Mã Hiểu Vĩ,Đại học Hồng Kông
+812,604,Mike DeWine,Đại học Miami
+812,35,Mike DeWine,Cử nhân Nghệ thuật
+813,574,Moon Jae-in,Đại học Kyung Hee
+813,416,Moon Jae-in,Đại học Bắc Kinh
+815,80,Nakatani Gen,Học viện Phòng vệ Nhật Bản
+820,440,Neil Gorsuch,Đại học Columbia
+825,263,Nguyễn Hữu Có,Trường Trung học phổ thông chuyên Quốc Học – Huế
+826,764,Nghê Nhạc Phong,Đại học Thanh Hoa
+828,449,Nghê Hồng,Đại học Công nghiệp Cáp Nhĩ Tân
+828,764,Nghê Hồng,Đại học Thanh Hoa
+829,764,Ngô Bang Quốc,Đại học Thanh Hoa
+830,777,Nguyễn Phú Trọng,Đại học Tổng hợp Hà Nội
+830,90,Nguyễn Phú Trọng,Học viện Chính trị Quốc gia Hồ Chí Minh
+830,316,Nguyễn Phú Trọng,Viện Hàn lâm Khoa học xã hội thuộc Trung ương Đảng Cộng sản Liên Xô
+832,522,Nelson Rockefeller,Đại học Dartmouth
+832,440,Nelson Rockefeller,Đại học Columbia
+832,683,Nelson Rockefeller,Đại học Princeton
+833,259,Nguyễn Minh Triết,Trường Đại học Khoa học Sài Gòn
+833,90,Nguyễn Minh Triết,Học viện Chính trị Quốc gia Hồ Chí Minh
+834,764,Ngô Chính Long,Đại học Thanh Hoa
+834,267,Ngô Chính Long,Trường Đảng Trung ương Đảng Cộng sản Trung Quốc
+835,142,Ngô Đình Nhu,PSL Research University
+836,696,Ngô Tác Đống,Đại học Quốc gia Singapore
+837,579,Nelson Mandela,Đại học London
+837,818,Nelson Mandela,Đại học Witwatersrand
+838,740,Niwatthamrong Boonsongpaisan,Đại học Srinakharinwirot
+838,425,Niwatthamrong Boonsongpaisan,Đại học Chulalongkorn
+839,667,Nicolas Sarkozy,Đại học Paris Nanterre
+839,148,Nicolas Sarkozy,Sciences Po
+841,834,Noda Yoshihiko,Đại học Waseda
+842,234,Ngô Đình Diệm,Trường Trung học phổ thông chuyên Quốc Học
+842,191,Ngô Đình Diệm,Trường Hậu bổ (Hà Nội)
+842,632,Ngô Đình Diệm,Đại học Michigan
+843,613,Nikolai Ivanovich Bukharin,Đại học Moskva
+844,254,Nguyễn Xuân Phúc,Trường Đại học Kinh tế Quốc dân
+844,48,Nguyễn Xuân Phúc,Học viện Hành chính Quốc gia
+844,696,Nguyễn Xuân Phúc,Đại học Quốc gia Singapore
+844,90,Nguyễn Xuân Phúc,Học viện Chính trị Quốc gia Hồ Chí Minh
+844,834,Nguyễn Xuân Phúc,Đại học Waseda
+848,540,Numan Kurtulmuş,Đại học Istanbul
+849,834,Nukaga Fukushirō,Đại học Waseda
+850,834,Obuchi Keizō,Đại học Waseda
+851,255,Nguyễn Tấn Dũng,Trường Đại học Luật Thành phố Hồ Chí Minh
+851,90,Nguyễn Tấn Dũng,Học viện Chính trị Quốc gia Hồ Chí Minh
+851,254,Nguyễn Tấn Dũng,Trường Đại học Kinh tế Quốc dân
+852,500,Ole von Beust,Đại học Hamburg
+853,288,Odysseas Elytis,University of Athens
+853,365,Odysseas Elytis,Đại học Athena
+856,278,Nguyễn Văn Thiệu,Trường Võ bị Quốc gia Đà Lạt
+856,53,Nguyễn Văn Thiệu,Eton College
+856,479,Nguyễn Văn Thiệu,Đại học Freiburg
+856,603,Nguyễn Văn Thiệu,Đại học McMaster
+856,411,Nguyễn Văn Thiệu,Đại học California
+856,500,Nguyễn Văn Thiệu,Đại học Hamburg
+859,472,Orbán Viktor,Đại học Eötvös Loránd
+860,562,Osvaldo Dorticós Torrado,Đại học La Habana
+861,655,P. V. Narasimha Rao,Đại học Osmania
+862,500,Olaf Scholz,Đại học Hamburg
+864,736,Olof Palme,Đại học Stockholm
+865,522,Paavo Lipponen,Đại học Dartmouth
+865,508,Paavo Lipponen,Đại học Helsinki
+866,514,Otto von Bismarck,Đại học Göttingen
+869,734,Pakalitha Mosisili,Đại học Simon Fraser
+870,721,Paolo Gentiloni,Đại học Roma Sapienza
+871,664,Paul Deschanel,Đại học Paris
+872,733,Park Geun-hye,Đại học Sogang
+872,664,Park Geun-hye,Đại học Paris
+873,425,Paetongtarn Shinawatra,Đại học Chulalongkorn
+873,35,Paetongtarn Shinawatra,Cử nhân Nghệ thuật
+874,664,Paul Doumer,Đại học Paris
+875,604,Paul Ryan,Đại học Miami
+877,343,Patrice de Mac Mahon,École spéciale militaire de Saint-Cyr
+879,783,Paul Martin,Đại học Toronto
+880,240,Park Chung-hee,Trường Sĩ quan Lục quân (Đế quốc Nhật Bản)
+880,712,Park Chung-hee,Đại học Quốc gia Seoul
+881,585,Pedro Passos Coelho,Đại học Lisboa
+882,408,Peter A. Diamond,Đại học California tại Berkeley
+883,426,Paul Samuelson,Đại học Chicago
+885,508,Pehr Evind Svinhufvud,Đại học Helsinki
+886,645,Pete Buttigieg,Đại học Notre Dame
+886,755,Pete Buttigieg,Đại học Texas tại Austin
+886,35,Pete Buttigieg,Cử nhân Nghệ thuật
+887,435,Pedro Sánchez,Đại học Complutense Madrid
+889,639,Petr Pavel,Đại học Nhà vua Luân Đôn
+890,600,Petr Fiala,Đại học Masaryk
+890,413,Petr Fiala,Đại học Charles ở Praha
+893,682,Phan Công Thắng,Đại học Nhân dân Trung Quốc
+893,267,Phan Công Thắng,Trường Đảng Trung ương Đảng Cộng sản Trung Quốc
+898,791,Phil Scott,Đại học Vermont
+899,682,Phan Nhạc (chính khách),Đại học Nhân dân Trung Quốc
+899,427,Phan Nhạc (chính khách),Đại học Chiết Giang
+899,739,Phan Nhạc (chính khách),Đại học Sư phạm Hoa Trung
+899,267,Phan Nhạc (chính khách),Trường Đảng Trung ương Đảng Cộng sản Trung Quốc
+899,707,Phan Nhạc (chính khách),Đại học Quốc phòng Trung Quốc
+900,425,Phumtham Wechayachai,Đại học Chulalongkorn
+902,345,Pierre Trudeau,Viện Nghiên cứu Chính trị Paris
+902,188,Pierre Trudeau,Trường Kinh tế London
+903,426,Pete Ricketts,Đại học Chicago
+909,405,Pranab Mukherjee,Đại học Calcutta
+912,683,Pete Hegseth,Đại học Princeton
+912,35,Pete Hegseth,Cử nhân Nghệ thuật
+913,690,Phil Murphy,Đại học Pennsylvania
+913,35,Phil Murphy,Cử nhân Nghệ thuật
+914,365,Prokopis Pavlopoulos,Đại học Athena
+914,257,Prokopis Pavlopoulos,Trường Đại học Panthéon-Assas
+915,664,Pierre Mendès France,Đại học Paris
+918,508,Rafael Erich,Đại học Helsinki
+919,399,Rafael Mandelman,"Đại học California, Berkeley"
+921,690,Noam Chomsky,Đại học Pennsylvania
+921,426,Noam Chomsky,Đại học Chicago
+921,440,Noam Chomsky,Đại học Columbia
+921,579,Noam Chomsky,Đại học London
+922,72,Phạm Minh Chính,Học viện Quan hệ Quốc tế
+922,258,Phạm Minh Chính,Trường Đại học Hà Nội
+922,821,Phạm Minh Chính,Đại học Xây dựng Bucarest
+922,90,Phạm Minh Chính,Học viện Chính trị Quốc gia Hồ Chí Minh
+922,764,Phạm Minh Chính,Đại học Thanh Hoa
+925,405,Rajendra Prasad,Đại học Calcutta
+927,484,Rand Paul,Đại học Duke
+928,596,Recep Tayyip Erdoğan,Đại học Marmara
+929,562,Ramón Grau,Đại học La Habana
+931,664,Raymond Poincaré,Đại học Paris
+935,509,Reuven Rivlin,Đại học Hebrew của Jerusalem
+937,683,Richard Rush,Đại học Princeton
+940,632,Ricardo Rosselló,Đại học Michigan
+942,571,René Descartes,Đại học Leiden
+942,797,René Descartes,Đại học Utrecht
+943,567,Richard Wagner,Đại học Leipzig
+944,514,Richard von Weizsäcker,Đại học Göttingen
+947,755,Rex Tillerson,Đại học Texas tại Austin
+949,73,Robert A. Heinlein,Học viện Hải quân Hoa Kỳ
+950,53,Robert Bridges,Eton College
+952,840,Robert F. Kennedy,Đại học Virginia
+953,595,Robert Abela,Đại học Malta
+954,668,Robert F. Engle,Đại học New York
+954,433,Robert F. Engle,Đại học Cornell
+955,290,Robert McNamara,"University of California, Berkeley"
+956,421,"Robert Lucas, Jr.",Đại học Carnegie Mellon
+956,426,"Robert Lucas, Jr.",Đại học Chicago
+956,291,"Robert Lucas, Jr.",University of Chicago
+957,433,Robert Fogel,Đại học Cornell
+957,440,Robert Fogel,Đại học Columbia
+957,537,Robert Fogel,Đại học Johns Hopkins
+957,426,Robert Fogel,Đại học Chicago
+957,291,Robert Fogel,University of Chicago
+958,683,Robert Mueller,Đại học Princeton
+958,668,Robert Mueller,Đại học New York
+958,840,Robert Mueller,Đại học Virginia
+960,614,Robert Menzies,Đại học Melbourne
+962,537,Robert Mundell,Đại học Johns Hopkins
+962,426,Robert Mundell,Đại học Chicago
+962,635,Robert Mundell,Đại học McGill
+962,188,Robert Mundell,Trường Kinh tế London
+962,804,Robert Mundell,Đại học Washington
+962,440,Robert Mundell,Đại học Columbia
+963,579,Robert Mugabe,Đại học London
+965,567,Robert Schumann,Đại học Leipzig
+965,505,Robert Schumann,Đại học Heidelberg
+968,35,Richard Nixon,Cử nhân Nghệ thuật
+968,484,Richard Nixon,Đại học Duke
+969,580,Roman Herzog,Đại học Ludwig Maximilian Munich
+970,340,Roger Martin du Gard,École du Louvre
+971,426,Roger Ebert,Đại học Chicago
+973,484,Ron Paul,Đại học Duke
+974,317,Romano Prodi,Università Cattolica del Sacro Cuore
+974,188,Romano Prodi,Trường Kinh tế London
+976,518,Robert R. Redfield,Đại học Georgetown
+977,840,Ronald Coase,Đại học Virginia
+977,426,Ronald Coase,Đại học Chicago
+977,188,Ronald Coase,Trường Kinh tế London
+978,125,Rudy Giuliani,New York University
+979,35,Ron DeSantis,Cử nhân Nghệ thuật
+979,205,Ron DeSantis,Trường Luật Harvard
+980,73,Roscoe H. Hillenkoetter,Học viện Hải quân Hoa Kỳ
+981,618,Rudolf Hess,Đại học Munich
+984,23,Ruth Bader Ginsburg,Cornell University
+986,756,Sali Berisha,Đại học Tirana
+987,224,Saif al-Islam Gaddafi,Trường Kinh tế và Khoa học Chính trị Luân Đôn
+988,108,Sam Brownback,Kansas State University
+989,311,Sam Nunn,Viện Công nghệ Georgia
+990,173,Sam Lansky,The New School
+991,664,Saionji Kinmochi,Đại học Paris
+992,56,Saitō Makoto,Học viện Hải quân Đế quốc Nhật Bản
+995,751,Samak Sundaravej,Đại học Thammasat
+996,668,Salman Rushdie,Đại học New York
+1002,597,Sellapan Ramanathan,Đại học Malaya
+1003,637,Scott Morrison,Đại học New South Wales
+1005,426,Satya Nadella,Đại học Chicago
+1005,291,Satya Nadella,University of Chicago
+1007,798,Sebastian Kurz,Đại học Viên
+1008,642,Roy Cooper,Đại học North Carolina tại Chapel Hill
+1008,484,Roy Cooper,Đại học Duke
+1011,775,Satō Eisaku,Đại học Tokyo
+1012,720,Sergio Mattarella,Đại học Sapienza của Rome
+1016,751,Somchai Wongsawat,Đại học Thammasat
+1019,391,Slobodan Milošević,Đại học Beograd
+1021,537,Simon Kuznets,Đại học Johns Hopkins
+1021,690,Simon Kuznets,Đại học Pennsylvania
+1021,440,Simon Kuznets,Đại học Columbia
+1022,514,Sigmar Gabriel,Đại học Göttingen
+1024,173,Shimon Peres,The New School
+1024,668,Shimon Peres,Đại học New York
+1026,609,Silvio Berlusconi,Đại học Milano
+1027,792,Stefan Löfven,Đại học Umeå
+1028,399,Stephen Kotkin,"Đại học California, Berkeley"
+1030,205,Spencer Cox,Trường Luật Harvard
+1031,425,Srettha Thavisin,Đại học Chulalongkorn
+1036,35,Ronald Reagan,Cử nhân Nghệ thuật
+1036,408,Ronald Reagan,Đại học California tại Berkeley
+1036,705,Ronald Reagan,Đại học Quốc gia Moskva
+1036,89,Ronald Reagan,Học viện Quân sự Hoa Kỳ
+1037,391,Sukarno,Đại học Beograd
+1038,419,Suthep Thaugsuban,Đại học Chiang Mai
+1039,659,Sébastien Lecornu,Đại học Panthéon-Assas
+1046,408,Steven Chu,Đại học California tại Berkeley
+1046,433,Steven Chu,Đại học Cornell
+1048,598,Tage Erlander,Đại học Lund
+1049,775,Tanigaki Sadakazu,Đại học Tokyo
+1051,508,Tarja Halonen,Đại học Helsinki
+1052,310,Ted Kennedy,University of Virginia
+1053,683,Ted Cruz,Đại học Princeton
+1054,508,Teuvo Aura,Đại học Helsinki
+1055,834,Takeshita Noboru,Đại học Waseda
+1055,783,Takeshita Noboru,Đại học Toronto
+1056,302,Thabo Mbeki,University of London
+1057,564,Takaichi Sanae,Đại học Kobe
+1059,188,Tharman Shanmugaratnam,Trường Kinh tế London
+1061,35,Tate Reeves,Cử nhân Nghệ thuật
+1062,426,Theodore Schultz,Đại học Chicago
+1062,815,Theodore Schultz,Đại học Wisconsin–Madison
+1063,567,Theodor Mommsen,Đại học Leipzig
+1064,580,Theodor Heuss,Đại học Ludwig Maximilian Munich
+1067,751,Thaksin Shinawatra,Đại học Thammasat
+1068,408,Thomas J. Sargent,Đại học California tại Berkeley
+1068,690,Thomas J. Sargent,Đại học Pennsylvania
+1068,606,Thomas J. Sargent,Đại học Minnesota
+1068,426,Thomas J. Sargent,Đại học Chicago
+1068,683,Thomas J. Sargent,Đại học Princeton
+1068,668,Thomas J. Sargent,Đại học New York
+1069,639,Thomas Hardy,Đại học Nhà vua Luân Đôn
+1070,344,Thomas Piketty,École normale supérieure
+1073,589,Thomas Mann,Đại học Ludwig Maximilian München
+1073,566,Thomas Mann,Đại học Kỹ thuật München
+1074,89,Theodore Roosevelt Jr.,Học viện Quân sự Hoa Kỳ
+1074,73,Theodore Roosevelt Jr.,Học viện Hải quân Hoa Kỳ
+1075,595,Thomas More,Đại học Malta
+1076,485,Thận Hải Hùng,Đại học Giao thông Thượng Hải
+1077,267,Thẩm Dược Dược,Trường Đảng Trung ương Đảng Cộng sản Trung Quốc
+1078,841,Thái Anh Văn,Đại học quốc lập Đài Loan
+1078,433,Thái Anh Văn,Đại học Cornell
+1078,579,Thái Anh Văn,Đại học London
+1078,224,Thái Anh Văn,Trường Kinh tế và Khoa học Chính trị Luân Đôn
+1079,522,Thaddeus Stevens,Đại học Dartmouth
+1079,791,Thaddeus Stevens,Đại học Vermont
+1080,73,Theodore Roosevelt,Học viện Hải quân Hoa Kỳ
+1081,416,Thạch Thái Phong,Đại học Bắc Kinh
+1081,267,Thạch Thái Phong,Trường Đảng Trung ương Đảng Cộng sản Trung Quốc
+1081,369,Thạch Thái Phong,Đại học Amsterdam
+1082,267,Thái Kỳ,Trường Đảng Trung ương Đảng Cộng sản Trung Quốc
+1083,812,Thomas Jefferson,Đại học William và Mary
+1083,808,Thomas Jefferson,Đại học William & Mary
+1083,840,Thomas Jefferson,Đại học Virginia
+1084,741,Tony Abbott,Đại học Sydney
+1087,484,Tim Cook,Đại học Duke
+1087,26,Tim Cook,Duke University
+1087,764,Tim Cook,Đại học Thanh Hoa
+1088,267,Triệu Hồng Chúc,Trường Đảng Trung ương Đảng Cộng sản Trung Quốc
+1090,690,Toomas Hendrik Ilves,Đại học Pennsylvania
+1091,809,Tony Evers,Đại học Wisconsin-Madison
+1091,35,Tony Evers,Cử nhân Nghệ thuật
+1092,364,Trygve Haavelmo,Đại học Aarhus
+1092,426,Trygve Haavelmo,Đại học Chicago
+1092,650,Trygve Haavelmo,Đại học Oslo
+1094,416,Triệu Lạc Tế,Đại học Bắc Kinh
+1094,267,Triệu Lạc Tế,Trường Đảng Trung ương Đảng Cộng sản Trung Quốc
+1095,267,Triệu Khắc Chí,Trường Đảng Trung ương Đảng Cộng sản Trung Quốc
+1096,434,Trương Quân,Đại học Cát Lâm
+1096,682,Trương Quân,Đại học Nhân dân Trung Quốc
+1096,801,Trương Quân,Đại học Vũ Hán
+1096,267,Trương Quân,Trường Đảng Trung ương Đảng Cộng sản Trung Quốc
+1096,416,Trương Quân,Đại học Bắc Kinh
+1097,187,Tony Atkinson,Trường Kinh tế Luân Đôn
+1097,224,Tony Atkinson,Trường Kinh tế và Khoa học Chính trị Luân Đôn
+1098,784,Trương Đức Giang,Đại học Tổng hợp Kim Nhật Thành
+1100,696,Trần Khánh Viêm,Đại học Quốc gia Singapore
+1100,358,Trần Khánh Viêm,Đại học Adelaide
+1101,696,Trần Phùng Phú Trân,Đại học Quốc gia Singapore
+1102,244,Trần Lệ Xuân,Trường Trung học Albert Sarraut
+1103,267,Trần Nhất Tân,Trường Đảng Trung ương Đảng Cộng sản Trung Quốc
+1103,764,Trần Nhất Tân,Đại học Thanh Hoa
+1104,267,Thầm Di Cầm,Trường Đảng Trung ương Đảng Cộng sản Trung Quốc
+1105,834,Trần Độc Tú,Đại học Waseda
+1106,266,Trần Mẫn Nhĩ,Trường Đảng Trung ương
+1106,267,Trần Mẫn Nhĩ,Trường Đảng Trung ương Đảng Cộng sản Trung Quốc
+1107,522,Tom Wolf,Đại học Dartmouth
+1107,579,Tom Wolf,Đại học London
+1107,35,Tom Wolf,Cử nhân Nghệ thuật
+1107,590,Tom Wolf,Đại học Luân Đôn
+1108,781,Trần Văn Thanh (chính khách Trung Quốc),Đại học Tứ Xuyên
+1110,268,Trần Đức Lương,Trường Đại học Mỏ – Địa chất
+1110,90,Trần Đức Lương,Học viện Chính trị Quốc gia Hồ Chí Minh
+1111,841,Trần Thủy Biển,Đại học quốc lập Đài Loan
+1111,408,Trần Thủy Biển,Đại học California tại Berkeley
+1112,764,Tào Ngu,Đại học Thanh Hoa
+1113,416,Tôn Nghiệp Lễ,Đại học Bắc Kinh
+1115,267,Tăng Khánh Hồng,Trường Đảng Trung ương Đảng Cộng sản Trung Quốc
+1116,267,Tề Tâm,Trường Đảng Trung ương Đảng Cộng sản Trung Quốc
+1117,775,Ueda Kazuo,Đại học Tokyo
+1119,266,Trịnh Sách Khiết,Trường Đảng Trung ương
+1120,776,Tưởng Kinh Quốc,Đại học Tôn Trung Sơn Moskva
+1120,264,Tưởng Kinh Quốc,Trường Đại học Lao động Cộng sản Phương Đông
+1121,800,Ulf Kristersson,Đại học Uppsala
+1122,508,Urho Kekkonen,Đại học Helsinki
+1126,775,Uchibori Masao,Đại học Tokyo
+1127,89,Ulysses S. Grant,Học viện Quân sự Hoa Kỳ
+1130,299,Ursula von der Leyen,University of Göttingen
+1132,267,Uông Dương,Trường Đảng Trung ương Đảng Cộng sản Trung Quốc
+1133,568,Valdis Dombrovskis,Đại học Latvia
+1140,764,Trương Quốc Thanh,Đại học Thanh Hoa
+1140,267,Trương Quốc Thanh,Trường Đảng Trung ương Đảng Cộng sản Trung Quốc
+1141,558,Viktor Fedorovych Yanukovych,Đại học Kỹ thuật Quốc gia Donetsk
+1143,370,Vassiliki Thanou-Christophilou,Đại học Athens
+1143,660,Vassiliki Thanou-Christophilou,Đại học Paris II
+1143,261,Vassiliki Thanou-Christophilou,Trường Đại học Paris II
+1144,639,Virginia Woolf,Đại học Nhà vua Luân Đôn
+1145,210,Valéry Giscard d'Estaing,Trường Bách khoa Paris
+1145,194,Valéry Giscard d'Estaing,Trường Hành chính quốc gia (Pháp)
+1146,682,Vu Vĩ Quốc,Đại học Nhân dân Trung Quốc
+1149,232,Vũ Văn Mẫu,"Trường Trung học phổ thông Chu Văn An, Hà Nội"
+1149,244,Vũ Văn Mẫu,Trường Trung học Albert Sarraut
+1149,347,Vũ Văn Mẫu,Viện Đại học Đông Dương
+1150,291,Viện Công nghệ Massachusetts,University of Chicago
+1150,411,Viện Công nghệ Massachusetts,Đại học California
+1150,408,Viện Công nghệ Massachusetts,Đại học California tại Berkeley
+1150,311,Viện Công nghệ Massachusetts,Viện Công nghệ Georgia
+1150,552,Viện Công nghệ Massachusetts,Đại học Kansas
+1150,632,Viện Công nghệ Massachusetts,Đại học Michigan
+1150,606,Viện Công nghệ Massachusetts,Đại học Minnesota
+1150,642,Viện Công nghệ Massachusetts,Đại học North Carolina tại Chapel Hill
+1150,755,Viện Công nghệ Massachusetts,Đại học Texas tại Austin
+1150,840,Viện Công nghệ Massachusetts,Đại học Virginia
+1150,804,Viện Công nghệ Massachusetts,Đại học Washington
+1150,815,Viện Công nghệ Massachusetts,Đại học Wisconsin–Madison
+1150,398,Viện Công nghệ Massachusetts,Đại học Brown
+1150,334,Viện Công nghệ Massachusetts,Viện Công nghệ California
+1150,421,Viện Công nghệ Massachusetts,Đại học Carnegie Mellon
+1150,426,Viện Công nghệ Massachusetts,Đại học Chicago
+1150,440,Viện Công nghệ Massachusetts,Đại học Columbia
+1150,433,Viện Công nghệ Massachusetts,Đại học Cornell
+1150,484,Viện Công nghệ Massachusetts,Đại học Duke
+1150,537,Viện Công nghệ Massachusetts,Đại học Johns Hopkins
+1150,668,Viện Công nghệ Massachusetts,Đại học New York
+1150,690,Viện Công nghệ Massachusetts,Đại học Pennsylvania
+1150,683,Viện Công nghệ Massachusetts,Đại học Princeton
+1150,640,Viện Công nghệ Massachusetts,Đại học Nam California
+1150,635,Viện Công nghệ Massachusetts,Đại học McGill
+1150,783,Viện Công nghệ Massachusetts,Đại học Toronto
+1150,518,Viện Công nghệ Massachusetts,Đại học Georgetown
+1150,389,Viện Công nghệ Massachusetts,Đại học Bocconi
+1150,590,Viện Công nghệ Massachusetts,Đại học Luân Đôn
+1150,764,Viện Công nghệ Massachusetts,Đại học Thanh Hoa
+1150,416,Viện Công nghệ Massachusetts,Đại học Bắc Kinh
+1150,775,Viện Công nghệ Massachusetts,Đại học Tokyo
+1150,548,Viện Công nghệ Massachusetts,Đại học Keio
+1150,427,Viện Công nghệ Massachusetts,Đại học Chiết Giang
+1150,696,Viện Công nghệ Massachusetts,Đại học Quốc gia Singapore
+1151,271,Võ Văn Thưởng,Trường Đại học Tổng hợp Thành phố Hồ Chí Minh
+1151,276,Võ Văn Thưởng,"Trường Đại học Khoa học Xã hội và Nhân văn, Đại học Quốc gia Thành phố Hồ Chí Minh"
+1151,48,Võ Văn Thưởng,Học viện Hành chính Quốc gia
+1151,90,Võ Văn Thưởng,Học viện Chính trị Quốc gia Hồ Chí Minh
+1152,571,Vincent van Gogh,Đại học Leiden
+1153,780,Vladimir Vladimirovich Putin,Đại học Tổng hợp Sankt-Peterburg
+1155,48,Võ Thị Ánh Xuân,Học viện Hành chính Quốc gia
+1155,465,Võ Thị Ánh Xuân,Đại học Cần Thơ
+1157,416,Vương Quân (sinh năm 1958),Đại học Bắc Kinh
+1158,764,Vương Hy Cần,Đại học Thanh Hoa
+1159,347,Võ Nguyên Giáp,Viện Đại học Đông Dương
+1159,234,Võ Nguyên Giáp,Trường Trung học phổ thông chuyên Quốc Học
+1159,244,Võ Nguyên Giáp,Trường Trung học Albert Sarraut
+1159,433,Võ Nguyên Giáp,Đại học Cornell
+1160,780,Vladimir Ilyich Lenin,Đại học Tổng hợp Sankt-Peterburg
+1160,531,Vladimir Ilyich Lenin,Đại học Jagiellonia
+1161,53,Vương tôn William xứ Gloucester,Eton College
+1163,775,Wakatsuki Reijirō,Đại học Tokyo
+1164,454,Wael Nader al-Halqi,Đại học Damascus
+1165,416,Vương Quảng Hoa,Đại học Bắc Kinh
+1165,267,Vương Quảng Hoa,Trường Đảng Trung ương Đảng Cộng sản Trung Quốc
+1166,670,Vương Văn Đào,Đại học Phục Đán
+1166,267,Vương Văn Đào,Trường Đảng Trung ương Đảng Cộng sản Trung Quốc
+1167,267,Tập Cận Bình,Trường Đảng Trung ương Đảng Cộng sản Trung Quốc
+1167,764,Tập Cận Bình,Đại học Thanh Hoa
+1167,337,Tập Cận Bình,Viện Khoa học Trung Quốc
+1168,670,Vương Hỗ Ninh,Đại học Phục Đán
+1168,744,Vương Hỗ Ninh,Đại học Sư phạm Hoa Đông
+1168,408,Vương Hỗ Ninh,Đại học California tại Berkeley
+1169,606,Walter Mondale,Đại học Minnesota
+1171,635,Wilfrid Laurier,Đại học McGill
+1172,267,Vương Tường Hỉ,Trường Đảng Trung ương Đảng Cộng sản Trung Quốc
+1173,619,Wilhelm Frick,Đại học München
+1173,514,Wilhelm Frick,Đại học Göttingen
+1173,387,Wilhelm Frick,Đại học Berlin
+1173,505,Wilhelm Frick,Đại học Heidelberg
+1174,267,Vương Tiểu Hồng,Trường Đảng Trung ương Đảng Cộng sản Trung Quốc
+1175,668,Taylor Swift,Đại học New York
+1176,798,Werner Faymann,Đại học Viên
+1178,267,Vương Đông Minh,Trường Đảng Trung ương Đảng Cộng sản Trung Quốc
+1179,791,William A. Wheeler,Đại học Vermont
+1181,783,William Lyon Mackenzie King,Đại học Toronto
+1181,426,William Lyon Mackenzie King,Đại học Chicago
+1184,741,William McMahon,Đại học Sydney
+1186,429,William P. Rogers,Đại học Colgate
+1186,433,William P. Rogers,Đại học Cornell
+1187,306,William R. King,University of North Carolina at Chapel Hill
+1190,690,William Henry Harrison,Đại học Pennsylvania
+1191,440,William Vickrey,Đại học Columbia
+1192,837,Win Myint,Đại học Yangon
+1194,479,Wolfgang Schäuble,Đại học Freiburg
+1194,500,Wolfgang Schäuble,Đại học Hamburg
+1196,834,Yamauchi Hiroshi,Đại học Waseda
+1198,408,Yegor Timurovich Gaidar,Đại học California tại Berkeley
+1198,484,Yegor Timurovich Gaidar,Đại học Duke
+1200,802,Włodzimierz Cimoszewicz,Đại học Warszawa
+1201,683,Woodrow Wilson,Đại học Princeton
+1201,537,Woodrow Wilson,Đại học Johns Hopkins
+1207,705,Yevgeny Maksimovich Primakov,Đại học Quốc gia Moskva
+1208,481,Yun Bo-seon,Đại học Edinburgh
+1210,635,Zbigniew Brzezinski,Đại học McGill
+1211,470,Zara Tindall,Đại học Exeter
+1212,337,Âm Hòa Tuấn,Viện Khoa học Trung Quốc
+1214,775,Yoshida Shigeru,Đại học Tokyo
+1214,548,Yoshida Shigeru,Đại học Keio
+1215,764,Ân Dũng,Đại học Thanh Hoa
+1216,712,Yoon Suk-yeol,Đại học Quốc gia Seoul
+1217,664,Émile Loubet,Đại học Paris
+1220,419,Yingluck Shinawatra,Đại học Chiang Mai
+1220,378,Yingluck Shinawatra,Đại học Bang Kentucky
+1221,829,Zoran Milanović,Đại học Zagreb
+1223,202,Winston Churchill,Trường Harrow
+1224,148,Édouard Philippe,Sciences Po
+1224,216,Édouard Philippe,Trường Quốc gia Hành chính Pháp
+1225,399,Zulfikar Ali Bhutto,"Đại học California, Berkeley"
+1226,543,Đường Lương Trí,Đại học Khoa học và Kỹ thuật Hoa Trung
+1226,267,Đường Lương Trí,Trường Đảng Trung ương Đảng Cộng sản Trung Quốc
+1227,744,Đỗ Gia Hào,Đại học Sư phạm Hoa Đông
+1227,267,Đỗ Gia Hào,Trường Đảng Trung ương Đảng Cộng sản Trung Quốc
+1228,683,Đại học Stanford,Đại học Princeton
+1228,433,Đại học Stanford,Đại học Cornell
+1228,411,Đại học Stanford,Đại học California
+1228,408,Đại học Stanford,Đại học California tại Berkeley
+1228,311,Đại học Stanford,Viện Công nghệ Georgia
+1228,552,Đại học Stanford,Đại học Kansas
+1228,632,Đại học Stanford,Đại học Michigan
+1228,606,Đại học Stanford,Đại học Minnesota
+1228,642,Đại học Stanford,Đại học North Carolina tại Chapel Hill
+1228,755,Đại học Stanford,Đại học Texas tại Austin
+1228,840,Đại học Stanford,Đại học Virginia
+1228,804,Đại học Stanford,Đại học Washington
+1228,815,Đại học Stanford,Đại học Wisconsin–Madison
+1228,398,Đại học Stanford,Đại học Brown
+1228,334,Đại học Stanford,Viện Công nghệ California
+1228,421,Đại học Stanford,Đại học Carnegie Mellon
+1228,426,Đại học Stanford,Đại học Chicago
+1228,440,Đại học Stanford,Đại học Columbia
+1228,484,Đại học Stanford,Đại học Duke
+1228,537,Đại học Stanford,Đại học Johns Hopkins
+1228,668,Đại học Stanford,Đại học New York
+1228,690,Đại học Stanford,Đại học Pennsylvania
+1228,640,Đại học Stanford,Đại học Nam California
+1228,635,Đại học Stanford,Đại học McGill
+1228,783,Đại học Stanford,Đại học Toronto
+1229,55,Đổng Quân,Học viện Hải quân Đại Liên
+1229,707,Đổng Quân,Đại học Quốc phòng Trung Quốc
+1230,260,Đại học Harvard,Trường sau đại học
+1230,440,Đại học Harvard,Đại học Columbia
+1230,205,Đại học Harvard,Trường Luật Harvard
+1230,433,Đại học Harvard,Đại học Cornell
+1230,640,Đại học Harvard,Đại học Nam California
+1230,411,Đại học Harvard,Đại học California
+1230,408,Đại học Harvard,Đại học California tại Berkeley
+1230,311,Đại học Harvard,Viện Công nghệ Georgia
+1230,552,Đại học Harvard,Đại học Kansas
+1230,632,Đại học Harvard,Đại học Michigan
+1230,606,Đại học Harvard,Đại học Minnesota
+1230,642,Đại học Harvard,Đại học North Carolina tại Chapel Hill
+1230,755,Đại học Harvard,Đại học Texas tại Austin
+1230,840,Đại học Harvard,Đại học Virginia
+1230,804,Đại học Harvard,Đại học Washington
+1230,815,Đại học Harvard,Đại học Wisconsin–Madison
+1230,398,Đại học Harvard,Đại học Brown
+1230,334,Đại học Harvard,Viện Công nghệ California
+1230,421,Đại học Harvard,Đại học Carnegie Mellon
+1230,426,Đại học Harvard,Đại học Chicago
+1230,484,Đại học Harvard,Đại học Duke
+1230,537,Đại học Harvard,Đại học Johns Hopkins
+1230,668,Đại học Harvard,Đại học New York
+1230,690,Đại học Harvard,Đại học Pennsylvania
+1230,683,Đại học Harvard,Đại học Princeton
+1230,635,Đại học Harvard,Đại học McGill
+1230,783,Đại học Harvard,Đại học Toronto
+1231,670,Đinh Tiết Tường,Đại học Phục Đán
+1232,808,Đại học Yale,Đại học William & Mary
+1232,683,Đại học Yale,Đại học Princeton
+1232,696,Đại học Yale,Đại học Quốc gia Singapore
+1232,426,Đại học Yale,Đại học Chicago
+1232,690,Đại học Yale,Đại học Pennsylvania
+1232,484,Đại học Yale,Đại học Duke
+1232,411,Đại học Yale,Đại học California
+1232,408,Đại học Yale,Đại học California tại Berkeley
+1232,311,Đại học Yale,Viện Công nghệ Georgia
+1232,552,Đại học Yale,Đại học Kansas
+1232,632,Đại học Yale,Đại học Michigan
+1232,606,Đại học Yale,Đại học Minnesota
+1232,642,Đại học Yale,Đại học North Carolina tại Chapel Hill
+1232,755,Đại học Yale,Đại học Texas tại Austin
+1232,840,Đại học Yale,Đại học Virginia
+1232,804,Đại học Yale,Đại học Washington
+1232,815,Đại học Yale,Đại học Wisconsin–Madison
+1232,398,Đại học Yale,Đại học Brown
+1232,334,Đại học Yale,Viện Công nghệ California
+1232,421,Đại học Yale,Đại học Carnegie Mellon
+1232,440,Đại học Yale,Đại học Columbia
+1232,433,Đại học Yale,Đại học Cornell
+1232,537,Đại học Yale,Đại học Johns Hopkins
+1232,668,Đại học Yale,Đại học New York
+1232,640,Đại học Yale,Đại học Nam California
+1232,635,Đại học Yale,Đại học McGill
+1232,783,Đại học Yale,Đại học Toronto
+1233,152,Đại học Oxford,Somerville College
+1233,334,Đại học Oxford,Viện Công nghệ California
+1233,481,Đại học Oxford,Đại học Edinburgh
+1233,470,Đại học Oxford,Đại học Exeter
+1233,493,Đại học Oxford,Đại học Glasgow
+1233,639,Đại học Oxford,Đại học Nhà vua Luân Đôn
+1233,599,Đại học Oxford,Đại học Leeds
+1233,224,Đại học Oxford,Trường Kinh tế và Khoa học Chính trị Luân Đôn
+1233,649,Đại học Oxford,Đại học Nottingham
+1234,590,Đại học Cambridge,Đại học Luân Đôn
+1234,579,Đại học Cambridge,Đại học London
+1234,481,Đại học Cambridge,Đại học Edinburgh
+1234,470,Đại học Cambridge,Đại học Exeter
+1234,493,Đại học Cambridge,Đại học Glasgow
+1234,639,Đại học Cambridge,Đại học Nhà vua Luân Đôn
+1234,599,Đại học Cambridge,Đại học Leeds
+1234,224,Đại học Cambridge,Trường Kinh tế và Khoa học Chính trị Luân Đôn
+1234,649,Đại học Cambridge,Đại học Nottingham
+1235,776,Đặng Tiểu Bình,Đại học Tôn Trung Sơn Moskva
+1235,267,Đặng Tiểu Bình,Trường Đảng Trung ương Đảng Cộng sản Trung Quốc
+1235,337,Đặng Tiểu Bình,Viện Khoa học Trung Quốc

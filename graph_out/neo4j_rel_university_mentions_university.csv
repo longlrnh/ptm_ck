@@ -1,0 +1,1204 @@
+src_university_id,dst_university_id,src_university,dst_university
+22,435,Complutense University of Madrid,Đại học Complutense Madrid
+23,433,Cornell University,Đại học Cornell
+26,484,Duke University,Đại học Duke
+30,518,Georgetown University,Đại học Georgetown
+53,202,Eton College,Trường Harrow
+56,240,Học viện Hải quân Đế quốc Nhật Bản,Trường Sĩ quan Lục quân (Đế quốc Nhật Bản)
+62,334,Học viện Công nghệ Georgia,Viện Công nghệ California
+62,73,Học viện Công nghệ Georgia,Học viện Hải quân Hoa Kỳ
+67,81,Học viện Nghệ thuật Hoàng gia,Học viện Nghệ thuật Hoàng gia Nga
+75,531,Học viện Mỹ thuật Jan Matejko,Đại học Jagiellonia
+89,73,Học viện Quân sự Hoa Kỳ,Học viện Hải quân Hoa Kỳ
+108,773,Kansas State University,Đại học Tiểu bang Kansas
+125,668,New York University,Đại học New York
+148,345,Sciences Po,Viện Nghiên cứu Chính trị Paris
+187,224,Trường Kinh tế Luân Đôn,Trường Kinh tế và Khoa học Chính trị Luân Đôn
+188,224,Trường Kinh tế London,Trường Kinh tế và Khoa học Chính trị Luân Đôn
+189,224,Trường Kinh tế và Khoa học Chính trị London,Trường Kinh tế và Khoa học Chính trị Luân Đôn
+202,53,Trường Harrow,Eton College
+208,518,Trường Dịch vụ Đối ngoại,Đại học Georgetown
+208,62,Trường Dịch vụ Đối ngoại,Học viện Công nghệ Georgia
+208,440,Trường Dịch vụ Đối ngoại,Đại học Columbia
+210,344,Trường Bách khoa Paris,École normale supérieure
+210,348,Trường Bách khoa Paris,École nationale supérieure des mines de Paris
+210,339,Trường Bách khoa Paris,École nationale des ponts et chaussées
+216,194,Trường Quốc gia Hành chính Pháp,Trường Hành chính quốc gia (Pháp)
+224,579,Trường Kinh tế và Khoa học Chính trị Luân Đôn,Đại học London
+224,668,Trường Kinh tế và Khoa học Chính trị Luân Đôn,Đại học New York
+224,481,Trường Kinh tế và Khoa học Chính trị Luân Đôn,Đại học Edinburgh
+224,470,Trường Kinh tế và Khoa học Chính trị Luân Đôn,Đại học Exeter
+224,493,Trường Kinh tế và Khoa học Chính trị Luân Đôn,Đại học Glasgow
+224,639,Trường Kinh tế và Khoa học Chính trị Luân Đôn,Đại học Nhà vua Luân Đôn
+224,599,Trường Kinh tế và Khoa học Chính trị Luân Đôn,Đại học Leeds
+224,649,Trường Kinh tế và Khoa học Chính trị Luân Đôn,Đại học Nottingham
+234,263,Trường Trung học phổ thông chuyên Quốc Học,Trường Trung học phổ thông chuyên Quốc Học – Huế
+244,232,Trường Trung học Albert Sarraut,"Trường Trung học phổ thông Chu Văn An, Hà Nội"
+244,347,Trường Trung học Albert Sarraut,Viện Đại học Đông Dương
+257,261,Trường Đại học Panthéon-Assas,Trường Đại học Paris II
+259,271,Trường Đại học Khoa học Sài Gòn,Trường Đại học Tổng hợp Thành phố Hồ Chí Minh
+261,664,Trường Đại học Paris II,Đại học Paris
+263,311,Trường Trung học phổ thông chuyên Quốc Học – Huế,Viện Công nghệ Georgia
+263,234,Trường Trung học phổ thông chuyên Quốc Học – Huế,Trường Trung học phổ thông chuyên Quốc Học
+263,232,Trường Trung học phổ thông chuyên Quốc Học – Huế,"Trường Trung học phổ thông Chu Văn An, Hà Nội"
+263,347,Trường Trung học phổ thông chuyên Quốc Học – Huế,Viện Đại học Đông Dương
+266,267,Trường Đảng Trung ương,Trường Đảng Trung ương Đảng Cộng sản Trung Quốc
+271,259,Trường Đại học Tổng hợp Thành phố Hồ Chí Minh,Trường Đại học Khoa học Sài Gòn
+271,276,Trường Đại học Tổng hợp Thành phố Hồ Chí Minh,"Trường Đại học Khoa học Xã hội và Nhân văn, Đại học Quốc gia Thành phố Hồ Chí Minh"
+271,347,Trường Đại học Tổng hợp Thành phố Hồ Chí Minh,Viện Đại học Đông Dương
+276,347,"Trường Đại học Khoa học Xã hội và Nhân văn, Đại học Quốc gia Thành phố Hồ Chí Minh",Viện Đại học Đông Dương
+276,271,"Trường Đại học Khoa học Xã hội và Nhân văn, Đại học Quốc gia Thành phố Hồ Chí Minh",Trường Đại học Tổng hợp Thành phố Hồ Chí Minh
+281,89,United States Military Academy,Học viện Quân sự Hoa Kỳ
+288,370,University of Athens,Đại học Athens
+290,408,"University of California, Berkeley",Đại học California tại Berkeley
+291,426,University of Chicago,Đại học Chicago
+299,514,University of Göttingen,Đại học Göttingen
+302,590,University of London,Đại học Luân Đôn
+306,642,University of North Carolina at Chapel Hill,Đại học North Carolina tại Chapel Hill
+310,840,University of Virginia,Đại học Virginia
+311,62,Viện Công nghệ Georgia,Học viện Công nghệ Georgia
+312,640,University of Southern California,Đại học Nam California
+317,609,Università Cattolica del Sacro Cuore,Đại học Milano
+317,648,Università Cattolica del Sacro Cuore,Đại học Padua
+317,653,Università Cattolica del Sacro Cuore,Đại học Palermo
+317,672,Università Cattolica del Sacro Cuore,Đại học Pisa
+334,260,Viện Công nghệ California,Trường sau đại học
+334,411,Viện Công nghệ California,Đại học California
+334,408,Viện Công nghệ California,Đại học California tại Berkeley
+334,311,Viện Công nghệ California,Viện Công nghệ Georgia
+334,552,Viện Công nghệ California,Đại học Kansas
+334,632,Viện Công nghệ California,Đại học Michigan
+334,606,Viện Công nghệ California,Đại học Minnesota
+334,642,Viện Công nghệ California,Đại học North Carolina tại Chapel Hill
+334,755,Viện Công nghệ California,Đại học Texas tại Austin
+334,840,Viện Công nghệ California,Đại học Virginia
+334,804,Viện Công nghệ California,Đại học Washington
+334,815,Viện Công nghệ California,Đại học Wisconsin–Madison
+334,398,Viện Công nghệ California,Đại học Brown
+334,421,Viện Công nghệ California,Đại học Carnegie Mellon
+334,426,Viện Công nghệ California,Đại học Chicago
+334,440,Viện Công nghệ California,Đại học Columbia
+334,433,Viện Công nghệ California,Đại học Cornell
+334,484,Viện Công nghệ California,Đại học Duke
+334,537,Viện Công nghệ California,Đại học Johns Hopkins
+334,668,Viện Công nghệ California,Đại học New York
+334,690,Viện Công nghệ California,Đại học Pennsylvania
+334,683,Viện Công nghệ California,Đại học Princeton
+334,640,Viện Công nghệ California,Đại học Nam California
+334,635,Viện Công nghệ California,Đại học McGill
+334,783,Viện Công nghệ California,Đại học Toronto
+334,518,Viện Công nghệ California,Đại học Georgetown
+334,389,Viện Công nghệ California,Đại học Bocconi
+334,590,Viện Công nghệ California,Đại học Luân Đôn
+334,764,Viện Công nghệ California,Đại học Thanh Hoa
+334,416,Viện Công nghệ California,Đại học Bắc Kinh
+334,775,Viện Công nghệ California,Đại học Tokyo
+334,548,Viện Công nghệ California,Đại học Keio
+334,427,Viện Công nghệ California,Đại học Chiết Giang
+334,696,Viện Công nghệ California,Đại học Quốc gia Singapore
+335,210,École Polytechnique,Trường Bách khoa Paris
+336,194,École nationale d'administration,Trường Hành chính quốc gia (Pháp)
+339,348,École nationale des ponts et chaussées,École nationale supérieure des mines de Paris
+339,210,École nationale des ponts et chaussées,Trường Bách khoa Paris
+345,148,Viện Nghiên cứu Chính trị Paris,Sciences Po
+345,142,Viện Nghiên cứu Chính trị Paris,PSL Research University
+345,664,Viện Nghiên cứu Chính trị Paris,Đại học Paris
+347,777,Viện Đại học Đông Dương,Đại học Tổng hợp Hà Nội
+347,191,Viện Đại học Đông Dương,Trường Hậu bổ (Hà Nội)
+347,664,Viện Đại học Đông Dương,Đại học Paris
+347,271,Viện Đại học Đông Dương,Trường Đại học Tổng hợp Thành phố Hồ Chí Minh
+347,232,Viện Đại học Đông Dương,"Trường Trung học phổ thông Chu Văn An, Hà Nội"
+348,142,École nationale supérieure des mines de Paris,PSL Research University
+348,339,École nationale supérieure des mines de Paris,École nationale des ponts et chaussées
+348,210,École nationale supérieure des mines de Paris,Trường Bách khoa Paris
+362,291,Viện Công nghệ Massachusetts,University of Chicago
+362,411,Viện Công nghệ Massachusetts,Đại học California
+362,408,Viện Công nghệ Massachusetts,Đại học California tại Berkeley
+362,311,Viện Công nghệ Massachusetts,Viện Công nghệ Georgia
+362,552,Viện Công nghệ Massachusetts,Đại học Kansas
+362,632,Viện Công nghệ Massachusetts,Đại học Michigan
+362,606,Viện Công nghệ Massachusetts,Đại học Minnesota
+362,642,Viện Công nghệ Massachusetts,Đại học North Carolina tại Chapel Hill
+362,755,Viện Công nghệ Massachusetts,Đại học Texas tại Austin
+362,840,Viện Công nghệ Massachusetts,Đại học Virginia
+362,804,Viện Công nghệ Massachusetts,Đại học Washington
+362,815,Viện Công nghệ Massachusetts,Đại học Wisconsin–Madison
+362,398,Viện Công nghệ Massachusetts,Đại học Brown
+362,334,Viện Công nghệ Massachusetts,Viện Công nghệ California
+362,421,Viện Công nghệ Massachusetts,Đại học Carnegie Mellon
+362,426,Viện Công nghệ Massachusetts,Đại học Chicago
+362,440,Viện Công nghệ Massachusetts,Đại học Columbia
+362,433,Viện Công nghệ Massachusetts,Đại học Cornell
+362,484,Viện Công nghệ Massachusetts,Đại học Duke
+362,537,Viện Công nghệ Massachusetts,Đại học Johns Hopkins
+362,668,Viện Công nghệ Massachusetts,Đại học New York
+362,690,Viện Công nghệ Massachusetts,Đại học Pennsylvania
+362,683,Viện Công nghệ Massachusetts,Đại học Princeton
+362,640,Viện Công nghệ Massachusetts,Đại học Nam California
+362,635,Viện Công nghệ Massachusetts,Đại học McGill
+362,783,Viện Công nghệ Massachusetts,Đại học Toronto
+362,518,Viện Công nghệ Massachusetts,Đại học Georgetown
+362,389,Viện Công nghệ Massachusetts,Đại học Bocconi
+362,590,Viện Công nghệ Massachusetts,Đại học Luân Đôn
+362,764,Viện Công nghệ Massachusetts,Đại học Thanh Hoa
+362,416,Viện Công nghệ Massachusetts,Đại học Bắc Kinh
+362,775,Viện Công nghệ Massachusetts,Đại học Tokyo
+362,548,Viện Công nghệ Massachusetts,Đại học Keio
+362,427,Viện Công nghệ Massachusetts,Đại học Chiết Giang
+362,696,Viện Công nghệ Massachusetts,Đại học Quốc gia Singapore
+364,430,Đại học Aarhus,Đại học Copenhagen
+365,370,Đại học Athena,Đại học Athens
+368,805,Đại học Amherst,Đại học Wesleyan
+368,393,Đại học Amherst,Đại học Boston
+368,334,Đại học Amherst,Viện Công nghệ California
+368,440,Đại học Amherst,Đại học Columbia
+368,433,Đại học Amherst,Đại học Cornell
+368,522,Đại học Amherst,Đại học Dartmouth
+368,518,Đại học Amherst,Đại học Georgetown
+368,537,Đại học Amherst,Đại học Johns Hopkins
+368,617,Đại học Amherst,Đại học Middlebury
+368,645,Đại học Amherst,Đại học Notre Dame
+392,401,Đại học Belgrano,Đại học Buenos Aires
+393,368,Đại học Boston,Đại học Amherst
+393,334,Đại học Boston,Viện Công nghệ California
+393,440,Đại học Boston,Đại học Columbia
+393,433,Đại học Boston,Đại học Cornell
+393,522,Đại học Boston,Đại học Dartmouth
+393,518,Đại học Boston,Đại học Georgetown
+393,537,Đại học Boston,Đại học Johns Hopkins
+393,617,Đại học Boston,Đại học Middlebury
+393,645,Đại học Boston,Đại học Notre Dame
+397,500,Đại học Bonn,Đại học Hamburg
+397,514,Đại học Bonn,Đại học Göttingen
+398,411,Đại học Brown,Đại học California
+398,408,Đại học Brown,Đại học California tại Berkeley
+398,311,Đại học Brown,Viện Công nghệ Georgia
+398,552,Đại học Brown,Đại học Kansas
+398,632,Đại học Brown,Đại học Michigan
+398,606,Đại học Brown,Đại học Minnesota
+398,642,Đại học Brown,Đại học North Carolina tại Chapel Hill
+398,755,Đại học Brown,Đại học Texas tại Austin
+398,840,Đại học Brown,Đại học Virginia
+398,804,Đại học Brown,Đại học Washington
+398,815,Đại học Brown,Đại học Wisconsin–Madison
+398,334,Đại học Brown,Viện Công nghệ California
+398,421,Đại học Brown,Đại học Carnegie Mellon
+398,426,Đại học Brown,Đại học Chicago
+398,440,Đại học Brown,Đại học Columbia
+398,433,Đại học Brown,Đại học Cornell
+398,484,Đại học Brown,Đại học Duke
+398,537,Đại học Brown,Đại học Johns Hopkins
+398,668,Đại học Brown,Đại học New York
+398,690,Đại học Brown,Đại học Pennsylvania
+398,683,Đại học Brown,Đại học Princeton
+398,640,Đại học Brown,Đại học Nam California
+398,635,Đại học Brown,Đại học McGill
+398,783,Đại học Brown,Đại học Toronto
+399,408,"Đại học California, Berkeley",Đại học California tại Berkeley
+401,392,Đại học Buenos Aires,Đại học Belgrano
+408,411,Đại học California tại Berkeley,Đại học California
+408,311,Đại học California tại Berkeley,Viện Công nghệ Georgia
+408,552,Đại học California tại Berkeley,Đại học Kansas
+408,632,Đại học California tại Berkeley,Đại học Michigan
+408,606,Đại học California tại Berkeley,Đại học Minnesota
+408,642,Đại học California tại Berkeley,Đại học North Carolina tại Chapel Hill
+408,755,Đại học California tại Berkeley,Đại học Texas tại Austin
+408,840,Đại học California tại Berkeley,Đại học Virginia
+408,804,Đại học California tại Berkeley,Đại học Washington
+408,815,Đại học California tại Berkeley,Đại học Wisconsin–Madison
+408,398,Đại học California tại Berkeley,Đại học Brown
+408,334,Đại học California tại Berkeley,Viện Công nghệ California
+408,421,Đại học California tại Berkeley,Đại học Carnegie Mellon
+408,426,Đại học California tại Berkeley,Đại học Chicago
+408,440,Đại học California tại Berkeley,Đại học Columbia
+408,433,Đại học California tại Berkeley,Đại học Cornell
+408,484,Đại học California tại Berkeley,Đại học Duke
+408,537,Đại học California tại Berkeley,Đại học Johns Hopkins
+408,668,Đại học California tại Berkeley,Đại học New York
+408,690,Đại học California tại Berkeley,Đại học Pennsylvania
+408,683,Đại học California tại Berkeley,Đại học Princeton
+408,640,Đại học California tại Berkeley,Đại học Nam California
+408,635,Đại học California tại Berkeley,Đại học McGill
+408,783,Đại học California tại Berkeley,Đại học Toronto
+410,712,Đại học Cao Ly,Đại học Quốc gia Seoul
+411,408,Đại học California,Đại học California tại Berkeley
+411,311,Đại học California,Viện Công nghệ Georgia
+411,552,Đại học California,Đại học Kansas
+411,632,Đại học California,Đại học Michigan
+411,606,Đại học California,Đại học Minnesota
+411,642,Đại học California,Đại học North Carolina tại Chapel Hill
+411,755,Đại học California,Đại học Texas tại Austin
+411,840,Đại học California,Đại học Virginia
+411,804,Đại học California,Đại học Washington
+411,815,Đại học California,Đại học Wisconsin–Madison
+411,398,Đại học California,Đại học Brown
+411,334,Đại học California,Viện Công nghệ California
+411,421,Đại học California,Đại học Carnegie Mellon
+411,426,Đại học California,Đại học Chicago
+411,440,Đại học California,Đại học Columbia
+411,433,Đại học California,Đại học Cornell
+411,484,Đại học California,Đại học Duke
+411,537,Đại học California,Đại học Johns Hopkins
+411,668,Đại học California,Đại học New York
+411,690,Đại học California,Đại học Pennsylvania
+411,683,Đại học California,Đại học Princeton
+411,640,Đại học California,Đại học Nam California
+411,635,Đại học California,Đại học McGill
+411,783,Đại học California,Đại học Toronto
+416,764,Đại học Bắc Kinh,Đại học Thanh Hoa
+416,636,Đại học Bắc Kinh,Đại học Nam Kinh
+416,712,Đại học Bắc Kinh,Đại học Quốc gia Seoul
+416,775,Đại học Bắc Kinh,Đại học Tokyo
+416,334,Đại học Bắc Kinh,Viện Công nghệ California
+416,421,Đại học Bắc Kinh,Đại học Carnegie Mellon
+416,440,Đại học Bắc Kinh,Đại học Columbia
+416,518,Đại học Bắc Kinh,Đại học Georgetown
+416,635,Đại học Bắc Kinh,Đại học McGill
+416,683,Đại học Bắc Kinh,Đại học Princeton
+416,408,Đại học Bắc Kinh,Đại học California tại Berkeley
+416,426,Đại học Bắc Kinh,Đại học Chicago
+416,690,Đại học Bắc Kinh,Đại học Pennsylvania
+416,389,Đại học Bắc Kinh,Đại học Bocconi
+416,590,Đại học Bắc Kinh,Đại học Luân Đôn
+416,548,Đại học Bắc Kinh,Đại học Keio
+416,427,Đại học Bắc Kinh,Đại học Chiết Giang
+416,696,Đại học Bắc Kinh,Đại học Quốc gia Singapore
+416,670,Đại học Bắc Kinh,Đại học Phục Đán
+416,485,Đại học Bắc Kinh,Đại học Giao thông Thượng Hải
+416,488,Đại học Bắc Kinh,Đại học Giao thông Tây An
+417,411,"Đại học California, Los Angeles",Đại học California
+417,522,"Đại học California, Los Angeles",Đại học Dartmouth
+417,334,"Đại học California, Los Angeles",Viện Công nghệ California
+417,775,"Đại học California, Los Angeles",Đại học Tokyo
+417,640,"Đại học California, Los Angeles",Đại học Nam California
+417,408,"Đại học California, Los Angeles",Đại học California tại Berkeley
+417,311,"Đại học California, Los Angeles",Viện Công nghệ Georgia
+417,552,"Đại học California, Los Angeles",Đại học Kansas
+417,632,"Đại học California, Los Angeles",Đại học Michigan
+417,606,"Đại học California, Los Angeles",Đại học Minnesota
+417,642,"Đại học California, Los Angeles",Đại học North Carolina tại Chapel Hill
+417,755,"Đại học California, Los Angeles",Đại học Texas tại Austin
+417,840,"Đại học California, Los Angeles",Đại học Virginia
+417,804,"Đại học California, Los Angeles",Đại học Washington
+417,815,"Đại học California, Los Angeles",Đại học Wisconsin–Madison
+417,398,"Đại học California, Los Angeles",Đại học Brown
+417,421,"Đại học California, Los Angeles",Đại học Carnegie Mellon
+417,426,"Đại học California, Los Angeles",Đại học Chicago
+417,440,"Đại học California, Los Angeles",Đại học Columbia
+417,433,"Đại học California, Los Angeles",Đại học Cornell
+417,484,"Đại học California, Los Angeles",Đại học Duke
+417,537,"Đại học California, Los Angeles",Đại học Johns Hopkins
+417,668,"Đại học California, Los Angeles",Đại học New York
+417,690,"Đại học California, Los Angeles",Đại học Pennsylvania
+417,683,"Đại học California, Los Angeles",Đại học Princeton
+417,635,"Đại học California, Los Angeles",Đại học McGill
+417,783,"Đại học California, Los Angeles",Đại học Toronto
+419,425,Đại học Chiang Mai,Đại học Chulalongkorn
+419,740,Đại học Chiang Mai,Đại học Srinakharinwirot
+419,751,Đại học Chiang Mai,Đại học Thammasat
+421,334,Đại học Carnegie Mellon,Viện Công nghệ California
+421,440,Đại học Carnegie Mellon,Đại học Columbia
+421,518,Đại học Carnegie Mellon,Đại học Georgetown
+421,635,Đại học Carnegie Mellon,Đại học McGill
+421,683,Đại học Carnegie Mellon,Đại học Princeton
+421,408,Đại học Carnegie Mellon,Đại học California tại Berkeley
+421,426,Đại học Carnegie Mellon,Đại học Chicago
+421,690,Đại học Carnegie Mellon,Đại học Pennsylvania
+421,389,Đại học Carnegie Mellon,Đại học Bocconi
+421,590,Đại học Carnegie Mellon,Đại học Luân Đôn
+421,764,Đại học Carnegie Mellon,Đại học Thanh Hoa
+421,416,Đại học Carnegie Mellon,Đại học Bắc Kinh
+421,775,Đại học Carnegie Mellon,Đại học Tokyo
+421,548,Đại học Carnegie Mellon,Đại học Keio
+421,427,Đại học Carnegie Mellon,Đại học Chiết Giang
+421,696,Đại học Carnegie Mellon,Đại học Quốc gia Singapore
+425,530,Đại học Chulalongkorn,Đại học Indonesia
+425,475,Đại học Chulalongkorn,Đại học Gadjah Mada
+425,597,Đại học Chulalongkorn,Đại học Malaya
+425,678,Đại học Chulalongkorn,Đại học Philippines
+425,837,Đại học Chulalongkorn,Đại học Yangon
+425,696,Đại học Chulalongkorn,Đại học Quốc gia Singapore
+425,419,Đại học Chulalongkorn,Đại học Chiang Mai
+425,465,Đại học Chulalongkorn,Đại học Cần Thơ
+425,740,Đại học Chulalongkorn,Đại học Srinakharinwirot
+425,751,Đại học Chulalongkorn,Đại học Thammasat
+426,411,Đại học Chicago,Đại học California
+426,408,Đại học Chicago,Đại học California tại Berkeley
+426,311,Đại học Chicago,Viện Công nghệ Georgia
+426,552,Đại học Chicago,Đại học Kansas
+426,632,Đại học Chicago,Đại học Michigan
+426,606,Đại học Chicago,Đại học Minnesota
+426,642,Đại học Chicago,Đại học North Carolina tại Chapel Hill
+426,755,Đại học Chicago,Đại học Texas tại Austin
+426,840,Đại học Chicago,Đại học Virginia
+426,804,Đại học Chicago,Đại học Washington
+426,815,Đại học Chicago,Đại học Wisconsin–Madison
+426,398,Đại học Chicago,Đại học Brown
+426,334,Đại học Chicago,Viện Công nghệ California
+426,421,Đại học Chicago,Đại học Carnegie Mellon
+426,440,Đại học Chicago,Đại học Columbia
+426,433,Đại học Chicago,Đại học Cornell
+426,484,Đại học Chicago,Đại học Duke
+426,537,Đại học Chicago,Đại học Johns Hopkins
+426,668,Đại học Chicago,Đại học New York
+426,690,Đại học Chicago,Đại học Pennsylvania
+426,683,Đại học Chicago,Đại học Princeton
+426,640,Đại học Chicago,Đại học Nam California
+426,635,Đại học Chicago,Đại học McGill
+426,783,Đại học Chicago,Đại học Toronto
+427,337,Đại học Chiết Giang,Viện Khoa học Trung Quốc
+427,801,Đại học Chiết Giang,Đại học Vũ Hán
+427,670,Đại học Chiết Giang,Đại học Phục Đán
+427,744,Đại học Chiết Giang,Đại học Sư phạm Hoa Đông
+427,636,Đại học Chiết Giang,Đại học Nam Kinh
+427,334,Đại học Chiết Giang,Viện Công nghệ California
+427,421,Đại học Chiết Giang,Đại học Carnegie Mellon
+427,440,Đại học Chiết Giang,Đại học Columbia
+427,518,Đại học Chiết Giang,Đại học Georgetown
+427,635,Đại học Chiết Giang,Đại học McGill
+427,683,Đại học Chiết Giang,Đại học Princeton
+427,408,Đại học Chiết Giang,Đại học California tại Berkeley
+427,426,Đại học Chiết Giang,Đại học Chicago
+427,690,Đại học Chiết Giang,Đại học Pennsylvania
+427,389,Đại học Chiết Giang,Đại học Bocconi
+427,590,Đại học Chiết Giang,Đại học Luân Đôn
+427,764,Đại học Chiết Giang,Đại học Thanh Hoa
+427,416,Đại học Chiết Giang,Đại học Bắc Kinh
+427,775,Đại học Chiết Giang,Đại học Tokyo
+427,548,Đại học Chiết Giang,Đại học Keio
+427,696,Đại học Chiết Giang,Đại học Quốc gia Singapore
+429,433,Đại học Colgate,Đại học Cornell
+430,703,Đại học Copenhagen,Đại học Quốc gia Úc
+430,696,Đại học Copenhagen,Đại học Quốc gia Singapore
+430,416,Đại học Copenhagen,Đại học Bắc Kinh
+430,408,Đại học Copenhagen,Đại học California tại Berkeley
+430,775,Đại học Copenhagen,Đại học Tokyo
+430,485,Đại học Copenhagen,Đại học Giao thông Thượng Hải
+433,411,Đại học Cornell,Đại học California
+433,408,Đại học Cornell,Đại học California tại Berkeley
+433,311,Đại học Cornell,Viện Công nghệ Georgia
+433,552,Đại học Cornell,Đại học Kansas
+433,632,Đại học Cornell,Đại học Michigan
+433,606,Đại học Cornell,Đại học Minnesota
+433,642,Đại học Cornell,Đại học North Carolina tại Chapel Hill
+433,755,Đại học Cornell,Đại học Texas tại Austin
+433,840,Đại học Cornell,Đại học Virginia
+433,804,Đại học Cornell,Đại học Washington
+433,815,Đại học Cornell,Đại học Wisconsin–Madison
+433,398,Đại học Cornell,Đại học Brown
+433,334,Đại học Cornell,Viện Công nghệ California
+433,421,Đại học Cornell,Đại học Carnegie Mellon
+433,426,Đại học Cornell,Đại học Chicago
+433,440,Đại học Cornell,Đại học Columbia
+433,484,Đại học Cornell,Đại học Duke
+433,537,Đại học Cornell,Đại học Johns Hopkins
+433,668,Đại học Cornell,Đại học New York
+433,690,Đại học Cornell,Đại học Pennsylvania
+433,683,Đại học Cornell,Đại học Princeton
+433,640,Đại học Cornell,Đại học Nam California
+433,635,Đại học Cornell,Đại học McGill
+433,783,Đại học Cornell,Đại học Toronto
+440,433,Đại học Columbia,Đại học Cornell
+440,345,Đại học Columbia,Viện Nghiên cứu Chính trị Paris
+440,485,Đại học Columbia,Đại học Giao thông Thượng Hải
+440,348,Đại học Columbia,École nationale supérieure des mines de Paris
+440,411,Đại học Columbia,Đại học California
+440,408,Đại học Columbia,Đại học California tại Berkeley
+440,311,Đại học Columbia,Viện Công nghệ Georgia
+440,552,Đại học Columbia,Đại học Kansas
+440,632,Đại học Columbia,Đại học Michigan
+440,606,Đại học Columbia,Đại học Minnesota
+440,642,Đại học Columbia,Đại học North Carolina tại Chapel Hill
+440,755,Đại học Columbia,Đại học Texas tại Austin
+440,840,Đại học Columbia,Đại học Virginia
+440,804,Đại học Columbia,Đại học Washington
+440,815,Đại học Columbia,Đại học Wisconsin–Madison
+440,398,Đại học Columbia,Đại học Brown
+440,334,Đại học Columbia,Viện Công nghệ California
+440,421,Đại học Columbia,Đại học Carnegie Mellon
+440,426,Đại học Columbia,Đại học Chicago
+440,484,Đại học Columbia,Đại học Duke
+440,537,Đại học Columbia,Đại học Johns Hopkins
+440,668,Đại học Columbia,Đại học New York
+440,690,Đại học Columbia,Đại học Pennsylvania
+440,683,Đại học Columbia,Đại học Princeton
+440,640,Đại học Columbia,Đại học Nam California
+440,635,Đại học Columbia,Đại học McGill
+440,783,Đại học Columbia,Đại học Toronto
+440,518,Đại học Columbia,Đại học Georgetown
+440,389,Đại học Columbia,Đại học Bocconi
+440,590,Đại học Columbia,Đại học Luân Đôn
+440,764,Đại học Columbia,Đại học Thanh Hoa
+440,416,Đại học Columbia,Đại học Bắc Kinh
+440,775,Đại học Columbia,Đại học Tokyo
+440,548,Đại học Columbia,Đại học Keio
+440,427,Đại học Columbia,Đại học Chiết Giang
+440,696,Đại học Columbia,Đại học Quốc gia Singapore
+446,590,Đại học Cambridge,Đại học Luân Đôn
+446,579,Đại học Cambridge,Đại học London
+446,481,Đại học Cambridge,Đại học Edinburgh
+446,470,Đại học Cambridge,Đại học Exeter
+446,493,Đại học Cambridge,Đại học Glasgow
+446,639,Đại học Cambridge,Đại học Nhà vua Luân Đôn
+446,599,Đại học Cambridge,Đại học Leeds
+446,224,Đại học Cambridge,Trường Kinh tế và Khoa học Chính trị Luân Đôn
+446,649,Đại học Cambridge,Đại học Nottingham
+449,705,Đại học Công nghiệp Cáp Nhĩ Tân,Đại học Quốc gia Moskva
+449,670,Đại học Công nghiệp Cáp Nhĩ Tân,Đại học Phục Đán
+449,636,Đại học Công nghiệp Cáp Nhĩ Tân,Đại học Nam Kinh
+449,416,Đại học Công nghiệp Cáp Nhĩ Tân,Đại học Bắc Kinh
+449,485,Đại học Công nghiệp Cáp Nhĩ Tân,Đại học Giao thông Thượng Hải
+449,764,Đại học Công nghiệp Cáp Nhĩ Tân,Đại học Thanh Hoa
+449,488,Đại học Công nghiệp Cáp Nhĩ Tân,Đại học Giao thông Tây An
+449,427,Đại học Công nghiệp Cáp Nhĩ Tân,Đại học Chiết Giang
+465,530,Đại học Cần Thơ,Đại học Indonesia
+465,475,Đại học Cần Thơ,Đại học Gadjah Mada
+465,597,Đại học Cần Thơ,Đại học Malaya
+465,678,Đại học Cần Thơ,Đại học Philippines
+465,837,Đại học Cần Thơ,Đại học Yangon
+465,696,Đại học Cần Thơ,Đại học Quốc gia Singapore
+465,425,Đại học Cần Thơ,Đại học Chulalongkorn
+465,419,Đại học Cần Thơ,Đại học Chiang Mai
+473,672,Đại học Firenze,Đại học Pisa
+479,803,Đại học Freiburg,Đại học Wien
+480,518,Đại học George Washington,Đại học Georgetown
+481,470,Đại học Edinburgh,Đại học Exeter
+481,493,Đại học Edinburgh,Đại học Glasgow
+481,639,Đại học Edinburgh,Đại học Nhà vua Luân Đôn
+481,599,Đại học Edinburgh,Đại học Leeds
+481,224,Đại học Edinburgh,Trường Kinh tế và Khoa học Chính trị Luân Đôn
+481,649,Đại học Edinburgh,Đại học Nottingham
+482,576,Đại học Gdańsk,Đại học Linköping
+482,804,Đại học Gdańsk,Đại học Washington
+484,683,Đại học Duke,Đại học Princeton
+484,411,Đại học Duke,Đại học California
+484,408,Đại học Duke,Đại học California tại Berkeley
+484,311,Đại học Duke,Viện Công nghệ Georgia
+484,552,Đại học Duke,Đại học Kansas
+484,632,Đại học Duke,Đại học Michigan
+484,606,Đại học Duke,Đại học Minnesota
+484,642,Đại học Duke,Đại học North Carolina tại Chapel Hill
+484,755,Đại học Duke,Đại học Texas tại Austin
+484,840,Đại học Duke,Đại học Virginia
+484,804,Đại học Duke,Đại học Washington
+484,815,Đại học Duke,Đại học Wisconsin–Madison
+484,398,Đại học Duke,Đại học Brown
+484,334,Đại học Duke,Viện Công nghệ California
+484,421,Đại học Duke,Đại học Carnegie Mellon
+484,426,Đại học Duke,Đại học Chicago
+484,440,Đại học Duke,Đại học Columbia
+484,433,Đại học Duke,Đại học Cornell
+484,537,Đại học Duke,Đại học Johns Hopkins
+484,668,Đại học Duke,Đại học New York
+484,690,Đại học Duke,Đại học Pennsylvania
+484,640,Đại học Duke,Đại học Nam California
+484,635,Đại học Duke,Đại học McGill
+484,783,Đại học Duke,Đại học Toronto
+485,670,Đại học Giao thông Thượng Hải,Đại học Phục Đán
+485,636,Đại học Giao thông Thượng Hải,Đại học Nam Kinh
+485,416,Đại học Giao thông Thượng Hải,Đại học Bắc Kinh
+485,764,Đại học Giao thông Thượng Hải,Đại học Thanh Hoa
+485,488,Đại học Giao thông Thượng Hải,Đại học Giao thông Tây An
+485,427,Đại học Giao thông Thượng Hải,Đại học Chiết Giang
+488,670,Đại học Giao thông Tây An,Đại học Phục Đán
+488,636,Đại học Giao thông Tây An,Đại học Nam Kinh
+488,416,Đại học Giao thông Tây An,Đại học Bắc Kinh
+488,485,Đại học Giao thông Tây An,Đại học Giao thông Thượng Hải
+488,764,Đại học Giao thông Tây An,Đại học Thanh Hoa
+488,427,Đại học Giao thông Tây An,Đại học Chiết Giang
+491,571,Đại học Groningen,Đại học Leiden
+493,481,Đại học Glasgow,Đại học Edinburgh
+493,470,Đại học Glasgow,Đại học Exeter
+493,639,Đại học Glasgow,Đại học Nhà vua Luân Đôn
+493,599,Đại học Glasgow,Đại học Leeds
+493,224,Đại học Glasgow,Trường Kinh tế và Khoa học Chính trị Luân Đôn
+493,649,Đại học Glasgow,Đại học Nottingham
+499,562,Đại học Havana,Đại học La Habana
+505,798,Đại học Heidelberg,Đại học Viên
+505,397,Đại học Heidelberg,Đại học Bonn
+505,500,Đại học Heidelberg,Đại học Hamburg
+510,410,Đại học Hàn Quốc,Đại học Cao Ly
+511,639,Đại học Hoàng đế Luân Đôn,Đại học Nhà vua Luân Đôn
+514,387,Đại học Göttingen,Đại học Berlin
+516,260,Đại học Harvard,Trường sau đại học
+516,440,Đại học Harvard,Đại học Columbia
+516,205,Đại học Harvard,Trường Luật Harvard
+516,433,Đại học Harvard,Đại học Cornell
+516,640,Đại học Harvard,Đại học Nam California
+516,411,Đại học Harvard,Đại học California
+516,408,Đại học Harvard,Đại học California tại Berkeley
+516,311,Đại học Harvard,Viện Công nghệ Georgia
+516,552,Đại học Harvard,Đại học Kansas
+516,632,Đại học Harvard,Đại học Michigan
+516,606,Đại học Harvard,Đại học Minnesota
+516,642,Đại học Harvard,Đại học North Carolina tại Chapel Hill
+516,755,Đại học Harvard,Đại học Texas tại Austin
+516,840,Đại học Harvard,Đại học Virginia
+516,804,Đại học Harvard,Đại học Washington
+516,815,Đại học Harvard,Đại học Wisconsin–Madison
+516,398,Đại học Harvard,Đại học Brown
+516,334,Đại học Harvard,Viện Công nghệ California
+516,421,Đại học Harvard,Đại học Carnegie Mellon
+516,426,Đại học Harvard,Đại học Chicago
+516,484,Đại học Harvard,Đại học Duke
+516,537,Đại học Harvard,Đại học Johns Hopkins
+516,668,Đại học Harvard,Đại học New York
+516,690,Đại học Harvard,Đại học Pennsylvania
+516,683,Đại học Harvard,Đại học Princeton
+516,635,Đại học Harvard,Đại học McGill
+516,783,Đại học Harvard,Đại học Toronto
+518,208,Đại học Georgetown,Trường Dịch vụ Đối ngoại
+518,670,Đại học Georgetown,Đại học Phục Đán
+518,260,Đại học Georgetown,Trường sau đại học
+518,440,Đại học Georgetown,Đại học Columbia
+518,368,Đại học Georgetown,Đại học Amherst
+518,393,Đại học Georgetown,Đại học Boston
+518,334,Đại học Georgetown,Viện Công nghệ California
+518,433,Đại học Georgetown,Đại học Cornell
+518,522,Đại học Georgetown,Đại học Dartmouth
+518,537,Đại học Georgetown,Đại học Johns Hopkins
+518,617,Đại học Georgetown,Đại học Middlebury
+518,645,Đại học Georgetown,Đại học Notre Dame
+518,421,Đại học Georgetown,Đại học Carnegie Mellon
+518,635,Đại học Georgetown,Đại học McGill
+518,683,Đại học Georgetown,Đại học Princeton
+518,408,Đại học Georgetown,Đại học California tại Berkeley
+518,426,Đại học Georgetown,Đại học Chicago
+518,690,Đại học Georgetown,Đại học Pennsylvania
+518,389,Đại học Georgetown,Đại học Bocconi
+518,590,Đại học Georgetown,Đại học Luân Đôn
+518,764,Đại học Georgetown,Đại học Thanh Hoa
+518,416,Đại học Georgetown,Đại học Bắc Kinh
+518,775,Đại học Georgetown,Đại học Tokyo
+518,548,Đại học Georgetown,Đại học Keio
+518,427,Đại học Georgetown,Đại học Chiết Giang
+518,696,Đại học Georgetown,Đại học Quốc gia Singapore
+519,62,Đại học Georgia,Học viện Công nghệ Georgia
+519,840,Đại học Georgia,Đại học Virginia
+519,311,Đại học Georgia,Viện Công nghệ Georgia
+522,683,Đại học Dartmouth,Đại học Princeton
+530,475,Đại học Indonesia,Đại học Gadjah Mada
+530,597,Đại học Indonesia,Đại học Malaya
+530,678,Đại học Indonesia,Đại học Philippines
+530,837,Đại học Indonesia,Đại học Yangon
+530,696,Đại học Indonesia,Đại học Quốc gia Singapore
+530,425,Đại học Indonesia,Đại học Chulalongkorn
+530,419,Đại học Indonesia,Đại học Chiang Mai
+530,465,Đại học Indonesia,Đại học Cần Thơ
+537,411,Đại học Johns Hopkins,Đại học California
+537,408,Đại học Johns Hopkins,Đại học California tại Berkeley
+537,311,Đại học Johns Hopkins,Viện Công nghệ Georgia
+537,552,Đại học Johns Hopkins,Đại học Kansas
+537,632,Đại học Johns Hopkins,Đại học Michigan
+537,606,Đại học Johns Hopkins,Đại học Minnesota
+537,642,Đại học Johns Hopkins,Đại học North Carolina tại Chapel Hill
+537,755,Đại học Johns Hopkins,Đại học Texas tại Austin
+537,840,Đại học Johns Hopkins,Đại học Virginia
+537,804,Đại học Johns Hopkins,Đại học Washington
+537,815,Đại học Johns Hopkins,Đại học Wisconsin–Madison
+537,398,Đại học Johns Hopkins,Đại học Brown
+537,334,Đại học Johns Hopkins,Viện Công nghệ California
+537,421,Đại học Johns Hopkins,Đại học Carnegie Mellon
+537,426,Đại học Johns Hopkins,Đại học Chicago
+537,440,Đại học Johns Hopkins,Đại học Columbia
+537,433,Đại học Johns Hopkins,Đại học Cornell
+537,484,Đại học Johns Hopkins,Đại học Duke
+537,668,Đại học Johns Hopkins,Đại học New York
+537,690,Đại học Johns Hopkins,Đại học Pennsylvania
+537,683,Đại học Johns Hopkins,Đại học Princeton
+537,640,Đại học Johns Hopkins,Đại học Nam California
+537,635,Đại học Johns Hopkins,Đại học McGill
+537,783,Đại học Johns Hopkins,Đại học Toronto
+548,398,Đại học Keio,Đại học Brown
+548,775,Đại học Keio,Đại học Tokyo
+548,334,Đại học Keio,Viện Công nghệ California
+548,421,Đại học Keio,Đại học Carnegie Mellon
+548,440,Đại học Keio,Đại học Columbia
+548,518,Đại học Keio,Đại học Georgetown
+548,635,Đại học Keio,Đại học McGill
+548,683,Đại học Keio,Đại học Princeton
+548,408,Đại học Keio,Đại học California tại Berkeley
+548,426,Đại học Keio,Đại học Chicago
+548,690,Đại học Keio,Đại học Pennsylvania
+548,389,Đại học Keio,Đại học Bocconi
+548,590,Đại học Keio,Đại học Luân Đôn
+548,764,Đại học Keio,Đại học Thanh Hoa
+548,416,Đại học Keio,Đại học Bắc Kinh
+548,427,Đại học Keio,Đại học Chiết Giang
+548,696,Đại học Keio,Đại học Quốc gia Singapore
+566,479,Đại học Kỹ thuật München,Đại học Freiburg
+566,514,Đại học Kỹ thuật München,Đại học Göttingen
+566,505,Đại học Kỹ thuật München,Đại học Heidelberg
+566,589,Đại học Kỹ thuật München,Đại học Ludwig Maximilian München
+572,705,Đại học Kỹ thuật Quốc gia Moskva Bauman,Đại học Quốc gia Moskva
+572,780,Đại học Kỹ thuật Quốc gia Moskva Bauman,Đại học Tổng hợp Sankt-Peterburg
+574,690,Đại học Kyung Hee,Đại học Pennsylvania
+574,416,Đại học Kyung Hee,Đại học Bắc Kinh
+574,719,Đại học Kyung Hee,Đại học Ritsumeikan
+574,705,Đại học Kyung Hee,Đại học Quốc gia Moskva
+576,736,Đại học Linköping,Đại học Stockholm
+579,590,Đại học London,Đại học Luân Đôn
+580,589,Đại học Ludwig Maximilian Munich,Đại học Ludwig Maximilian München
+589,479,Đại học Ludwig Maximilian München,Đại học Freiburg
+589,514,Đại học Ludwig Maximilian München,Đại học Göttingen
+589,505,Đại học Ludwig Maximilian München,Đại học Heidelberg
+589,566,Đại học Ludwig Maximilian München,Đại học Kỹ thuật München
+589,369,Đại học Ludwig Maximilian München,Đại học Amsterdam
+589,385,Đại học Ludwig Maximilian München,Đại học Barcelona
+589,481,Đại học Ludwig Maximilian München,Đại học Edinburgh
+589,477,Đại học Ludwig Maximilian München,Đại học Geneva
+589,508,Đại học Ludwig Maximilian München,Đại học Helsinki
+589,571,Đại học Ludwig Maximilian München,Đại học Leiden
+589,598,Đại học Ludwig Maximilian München,Đại học Lund
+589,605,Đại học Ludwig Maximilian München,Đại học Milan
+589,743,Đại học Ludwig Maximilian München,Đại học Strasbourg
+590,511,Đại học Luân Đôn,Đại học Hoàng đế Luân Đôn
+590,224,Đại học Luân Đôn,Trường Kinh tế và Khoa học Chính trị Luân Đôn
+597,530,Đại học Malaya,Đại học Indonesia
+597,475,Đại học Malaya,Đại học Gadjah Mada
+597,678,Đại học Malaya,Đại học Philippines
+597,837,Đại học Malaya,Đại học Yangon
+597,696,Đại học Malaya,Đại học Quốc gia Singapore
+597,425,Đại học Malaya,Đại học Chulalongkorn
+597,419,Đại học Malaya,Đại học Chiang Mai
+597,465,Đại học Malaya,Đại học Cần Thơ
+598,800,Đại học Lund,Đại học Uppsala
+599,649,Đại học Leeds,Đại học Nottingham
+599,481,Đại học Leeds,Đại học Edinburgh
+599,579,Đại học Leeds,Đại học London
+599,470,Đại học Leeds,Đại học Exeter
+599,493,Đại học Leeds,Đại học Glasgow
+599,639,Đại học Leeds,Đại học Nhà vua Luân Đôn
+599,224,Đại học Leeds,Trường Kinh tế và Khoa học Chính trị Luân Đôn
+605,609,Đại học Milan,Đại học Milano
+613,705,Đại học Moskva,Đại học Quốc gia Moskva
+617,368,Đại học Middlebury,Đại học Amherst
+617,393,Đại học Middlebury,Đại học Boston
+617,334,Đại học Middlebury,Viện Công nghệ California
+617,440,Đại học Middlebury,Đại học Columbia
+617,433,Đại học Middlebury,Đại học Cornell
+617,522,Đại học Middlebury,Đại học Dartmouth
+617,518,Đại học Middlebury,Đại học Georgetown
+617,537,Đại học Middlebury,Đại học Johns Hopkins
+617,645,Đại học Middlebury,Đại học Notre Dame
+618,589,Đại học Munich,Đại học Ludwig Maximilian München
+619,589,Đại học München,Đại học Ludwig Maximilian München
+632,411,Đại học Michigan,Đại học California
+632,408,Đại học Michigan,Đại học California tại Berkeley
+632,311,Đại học Michigan,Viện Công nghệ Georgia
+632,552,Đại học Michigan,Đại học Kansas
+632,606,Đại học Michigan,Đại học Minnesota
+632,642,Đại học Michigan,Đại học North Carolina tại Chapel Hill
+632,755,Đại học Michigan,Đại học Texas tại Austin
+632,840,Đại học Michigan,Đại học Virginia
+632,804,Đại học Michigan,Đại học Washington
+632,815,Đại học Michigan,Đại học Wisconsin–Madison
+632,398,Đại học Michigan,Đại học Brown
+632,334,Đại học Michigan,Viện Công nghệ California
+632,421,Đại học Michigan,Đại học Carnegie Mellon
+632,426,Đại học Michigan,Đại học Chicago
+632,440,Đại học Michigan,Đại học Columbia
+632,433,Đại học Michigan,Đại học Cornell
+632,484,Đại học Michigan,Đại học Duke
+632,537,Đại học Michigan,Đại học Johns Hopkins
+632,668,Đại học Michigan,Đại học New York
+632,690,Đại học Michigan,Đại học Pennsylvania
+632,683,Đại học Michigan,Đại học Princeton
+632,640,Đại học Michigan,Đại học Nam California
+632,635,Đại học Michigan,Đại học McGill
+632,783,Đại học Michigan,Đại học Toronto
+635,783,Đại học McGill,Đại học Toronto
+635,537,Đại học McGill,Đại học Johns Hopkins
+635,493,Đại học McGill,Đại học Glasgow
+635,411,Đại học McGill,Đại học California
+635,408,Đại học McGill,Đại học California tại Berkeley
+635,311,Đại học McGill,Viện Công nghệ Georgia
+635,552,Đại học McGill,Đại học Kansas
+635,632,Đại học McGill,Đại học Michigan
+635,606,Đại học McGill,Đại học Minnesota
+635,642,Đại học McGill,Đại học North Carolina tại Chapel Hill
+635,755,Đại học McGill,Đại học Texas tại Austin
+635,840,Đại học McGill,Đại học Virginia
+635,804,Đại học McGill,Đại học Washington
+635,815,Đại học McGill,Đại học Wisconsin–Madison
+635,398,Đại học McGill,Đại học Brown
+635,334,Đại học McGill,Viện Công nghệ California
+635,421,Đại học McGill,Đại học Carnegie Mellon
+635,426,Đại học McGill,Đại học Chicago
+635,440,Đại học McGill,Đại học Columbia
+635,433,Đại học McGill,Đại học Cornell
+635,484,Đại học McGill,Đại học Duke
+635,668,Đại học McGill,Đại học New York
+635,690,Đại học McGill,Đại học Pennsylvania
+635,683,Đại học McGill,Đại học Princeton
+635,640,Đại học McGill,Đại học Nam California
+636,670,Đại học Nam Kinh,Đại học Phục Đán
+636,416,Đại học Nam Kinh,Đại học Bắc Kinh
+636,485,Đại học Nam Kinh,Đại học Giao thông Thượng Hải
+636,764,Đại học Nam Kinh,Đại học Thanh Hoa
+636,488,Đại học Nam Kinh,Đại học Giao thông Tây An
+636,427,Đại học Nam Kinh,Đại học Chiết Giang
+637,703,Đại học New South Wales,Đại học Quốc gia Úc
+637,741,Đại học New South Wales,Đại học Sydney
+637,358,Đại học New South Wales,Đại học Adelaide
+637,614,Đại học New South Wales,Đại học Melbourne
+637,778,Đại học New South Wales,Đại học Tây Úc
+639,590,Đại học Nhà vua Luân Đôn,Đại học Luân Đôn
+639,481,Đại học Nhà vua Luân Đôn,Đại học Edinburgh
+639,470,Đại học Nhà vua Luân Đôn,Đại học Exeter
+639,493,Đại học Nhà vua Luân Đôn,Đại học Glasgow
+639,599,Đại học Nhà vua Luân Đôn,Đại học Leeds
+639,224,Đại học Nhà vua Luân Đôn,Trường Kinh tế và Khoa học Chính trị Luân Đôn
+639,649,Đại học Nhà vua Luân Đôn,Đại học Nottingham
+640,690,Đại học Nam California,Đại học Pennsylvania
+640,408,Đại học Nam California,Đại học California tại Berkeley
+640,411,Đại học Nam California,Đại học California
+640,311,Đại học Nam California,Viện Công nghệ Georgia
+640,552,Đại học Nam California,Đại học Kansas
+640,632,Đại học Nam California,Đại học Michigan
+640,606,Đại học Nam California,Đại học Minnesota
+640,642,Đại học Nam California,Đại học North Carolina tại Chapel Hill
+640,755,Đại học Nam California,Đại học Texas tại Austin
+640,840,Đại học Nam California,Đại học Virginia
+640,804,Đại học Nam California,Đại học Washington
+640,815,Đại học Nam California,Đại học Wisconsin–Madison
+640,398,Đại học Nam California,Đại học Brown
+640,334,Đại học Nam California,Viện Công nghệ California
+640,421,Đại học Nam California,Đại học Carnegie Mellon
+640,426,Đại học Nam California,Đại học Chicago
+640,440,Đại học Nam California,Đại học Columbia
+640,433,Đại học Nam California,Đại học Cornell
+640,484,Đại học Nam California,Đại học Duke
+640,537,Đại học Nam California,Đại học Johns Hopkins
+640,668,Đại học Nam California,Đại học New York
+640,683,Đại học Nam California,Đại học Princeton
+640,635,Đại học Nam California,Đại học McGill
+640,783,Đại học Nam California,Đại học Toronto
+642,411,Đại học North Carolina tại Chapel Hill,Đại học California
+642,408,Đại học North Carolina tại Chapel Hill,Đại học California tại Berkeley
+642,311,Đại học North Carolina tại Chapel Hill,Viện Công nghệ Georgia
+642,552,Đại học North Carolina tại Chapel Hill,Đại học Kansas
+642,632,Đại học North Carolina tại Chapel Hill,Đại học Michigan
+642,606,Đại học North Carolina tại Chapel Hill,Đại học Minnesota
+642,755,Đại học North Carolina tại Chapel Hill,Đại học Texas tại Austin
+642,840,Đại học North Carolina tại Chapel Hill,Đại học Virginia
+642,804,Đại học North Carolina tại Chapel Hill,Đại học Washington
+642,815,Đại học North Carolina tại Chapel Hill,Đại học Wisconsin–Madison
+642,398,Đại học North Carolina tại Chapel Hill,Đại học Brown
+642,334,Đại học North Carolina tại Chapel Hill,Viện Công nghệ California
+642,421,Đại học North Carolina tại Chapel Hill,Đại học Carnegie Mellon
+642,426,Đại học North Carolina tại Chapel Hill,Đại học Chicago
+642,440,Đại học North Carolina tại Chapel Hill,Đại học Columbia
+642,433,Đại học North Carolina tại Chapel Hill,Đại học Cornell
+642,484,Đại học North Carolina tại Chapel Hill,Đại học Duke
+642,537,Đại học North Carolina tại Chapel Hill,Đại học Johns Hopkins
+642,668,Đại học North Carolina tại Chapel Hill,Đại học New York
+642,690,Đại học North Carolina tại Chapel Hill,Đại học Pennsylvania
+642,683,Đại học North Carolina tại Chapel Hill,Đại học Princeton
+642,640,Đại học North Carolina tại Chapel Hill,Đại học Nam California
+642,635,Đại học North Carolina tại Chapel Hill,Đại học McGill
+642,783,Đại học North Carolina tại Chapel Hill,Đại học Toronto
+643,642,Đại học North Carolina ở Chapel Hill,Đại học North Carolina tại Chapel Hill
+645,368,Đại học Notre Dame,Đại học Amherst
+645,393,Đại học Notre Dame,Đại học Boston
+645,334,Đại học Notre Dame,Viện Công nghệ California
+645,440,Đại học Notre Dame,Đại học Columbia
+645,433,Đại học Notre Dame,Đại học Cornell
+645,522,Đại học Notre Dame,Đại học Dartmouth
+645,518,Đại học Notre Dame,Đại học Georgetown
+645,537,Đại học Notre Dame,Đại học Johns Hopkins
+645,617,Đại học Notre Dame,Đại học Middlebury
+649,579,Đại học Nottingham,Đại học London
+649,481,Đại học Nottingham,Đại học Edinburgh
+649,470,Đại học Nottingham,Đại học Exeter
+649,493,Đại học Nottingham,Đại học Glasgow
+649,639,Đại học Nottingham,Đại học Nhà vua Luân Đôn
+649,599,Đại học Nottingham,Đại học Leeds
+649,224,Đại học Nottingham,Trường Kinh tế và Khoa học Chính trị Luân Đôn
+659,261,Đại học Panthéon-Assas,Trường Đại học Paris II
+660,261,Đại học Paris II,Trường Đại học Paris II
+661,485,Đại học Oulu,Đại học Giao thông Thượng Hải
+664,261,Đại học Paris,Trường Đại học Paris II
+664,665,Đại học Paris,Đại học Paris-Sorbonne
+664,142,Đại học Paris,PSL Research University
+664,667,Đại học Paris,Đại học Paris Nanterre
+665,664,Đại học Paris-Sorbonne,Đại học Paris
+667,664,Đại học Paris Nanterre,Đại học Paris
+670,636,Đại học Phục Đán,Đại học Nam Kinh
+670,416,Đại học Phục Đán,Đại học Bắc Kinh
+670,485,Đại học Phục Đán,Đại học Giao thông Thượng Hải
+670,764,Đại học Phục Đán,Đại học Thanh Hoa
+670,488,Đại học Phục Đán,Đại học Giao thông Tây An
+670,427,Đại học Phục Đán,Đại học Chiết Giang
+678,530,Đại học Philippines,Đại học Indonesia
+678,475,Đại học Philippines,Đại học Gadjah Mada
+678,597,Đại học Philippines,Đại học Malaya
+678,837,Đại học Philippines,Đại học Yangon
+678,696,Đại học Philippines,Đại học Quốc gia Singapore
+678,425,Đại học Philippines,Đại học Chulalongkorn
+678,419,Đại học Philippines,Đại học Chiang Mai
+678,465,Đại học Philippines,Đại học Cần Thơ
+682,260,Đại học Nhân dân Trung Quốc,Trường sau đại học
+682,416,Đại học Nhân dân Trung Quốc,Đại học Bắc Kinh
+682,764,Đại học Nhân dân Trung Quốc,Đại học Thanh Hoa
+682,670,Đại học Nhân dân Trung Quốc,Đại học Phục Đán
+682,427,Đại học Nhân dân Trung Quốc,Đại học Chiết Giang
+682,485,Đại học Nhân dân Trung Quốc,Đại học Giao thông Thượng Hải
+682,440,Đại học Nhân dân Trung Quốc,Đại học Columbia
+682,589,Đại học Nhân dân Trung Quốc,Đại học Ludwig Maximilian München
+682,683,Đại học Nhân dân Trung Quốc,Đại học Princeton
+682,635,Đại học Nhân dân Trung Quốc,Đại học McGill
+682,639,Đại học Nhân dân Trung Quốc,Đại học Nhà vua Luân Đôn
+682,834,Đại học Nhân dân Trung Quốc,Đại học Waseda
+682,426,Đại học Nhân dân Trung Quốc,Đại học Chicago
+682,632,Đại học Nhân dân Trung Quốc,Đại học Michigan
+683,411,Đại học Princeton,Đại học California
+683,408,Đại học Princeton,Đại học California tại Berkeley
+683,311,Đại học Princeton,Viện Công nghệ Georgia
+683,552,Đại học Princeton,Đại học Kansas
+683,632,Đại học Princeton,Đại học Michigan
+683,606,Đại học Princeton,Đại học Minnesota
+683,642,Đại học Princeton,Đại học North Carolina tại Chapel Hill
+683,755,Đại học Princeton,Đại học Texas tại Austin
+683,840,Đại học Princeton,Đại học Virginia
+683,804,Đại học Princeton,Đại học Washington
+683,815,Đại học Princeton,Đại học Wisconsin–Madison
+683,398,Đại học Princeton,Đại học Brown
+683,334,Đại học Princeton,Viện Công nghệ California
+683,421,Đại học Princeton,Đại học Carnegie Mellon
+683,426,Đại học Princeton,Đại học Chicago
+683,440,Đại học Princeton,Đại học Columbia
+683,433,Đại học Princeton,Đại học Cornell
+683,484,Đại học Princeton,Đại học Duke
+683,537,Đại học Princeton,Đại học Johns Hopkins
+683,668,Đại học Princeton,Đại học New York
+683,690,Đại học Princeton,Đại học Pennsylvania
+683,640,Đại học Princeton,Đại học Nam California
+683,635,Đại học Princeton,Đại học McGill
+683,783,Đại học Princeton,Đại học Toronto
+690,440,Đại học Pennsylvania,Đại học Columbia
+690,411,Đại học Pennsylvania,Đại học California
+690,408,Đại học Pennsylvania,Đại học California tại Berkeley
+690,311,Đại học Pennsylvania,Viện Công nghệ Georgia
+690,552,Đại học Pennsylvania,Đại học Kansas
+690,632,Đại học Pennsylvania,Đại học Michigan
+690,606,Đại học Pennsylvania,Đại học Minnesota
+690,642,Đại học Pennsylvania,Đại học North Carolina tại Chapel Hill
+690,755,Đại học Pennsylvania,Đại học Texas tại Austin
+690,840,Đại học Pennsylvania,Đại học Virginia
+690,804,Đại học Pennsylvania,Đại học Washington
+690,815,Đại học Pennsylvania,Đại học Wisconsin–Madison
+690,398,Đại học Pennsylvania,Đại học Brown
+690,334,Đại học Pennsylvania,Viện Công nghệ California
+690,421,Đại học Pennsylvania,Đại học Carnegie Mellon
+690,426,Đại học Pennsylvania,Đại học Chicago
+690,433,Đại học Pennsylvania,Đại học Cornell
+690,484,Đại học Pennsylvania,Đại học Duke
+690,537,Đại học Pennsylvania,Đại học Johns Hopkins
+690,668,Đại học Pennsylvania,Đại học New York
+690,683,Đại học Pennsylvania,Đại học Princeton
+690,640,Đại học Pennsylvania,Đại học Nam California
+690,635,Đại học Pennsylvania,Đại học McGill
+690,783,Đại học Pennsylvania,Đại học Toronto
+696,484,Đại học Quốc gia Singapore,Đại học Duke
+696,597,Đại học Quốc gia Singapore,Đại học Malaya
+696,530,Đại học Quốc gia Singapore,Đại học Indonesia
+696,475,Đại học Quốc gia Singapore,Đại học Gadjah Mada
+696,678,Đại học Quốc gia Singapore,Đại học Philippines
+696,837,Đại học Quốc gia Singapore,Đại học Yangon
+696,425,Đại học Quốc gia Singapore,Đại học Chulalongkorn
+696,419,Đại học Quốc gia Singapore,Đại học Chiang Mai
+696,465,Đại học Quốc gia Singapore,Đại học Cần Thơ
+702,640,Đại học Quốc lập Thành Công,Đại học Nam California
+702,566,Đại học Quốc lập Thành Công,Đại học Kỹ thuật München
+702,571,Đại học Quốc lập Thành Công,Đại học Leiden
+702,637,Đại học Quốc lập Thành Công,Đại học New South Wales
+702,560,Đại học Quốc lập Thành Công,Đại học Kyoto
+702,712,Đại học Quốc lập Thành Công,Đại học Quốc gia Seoul
+702,696,Đại học Quốc lập Thành Công,Đại học Quốc gia Singapore
+702,841,Đại học Quốc lập Thành Công,Đại học quốc lập Đài Loan
+703,637,Đại học Quốc gia Úc,Đại học New South Wales
+703,741,Đại học Quốc gia Úc,Đại học Sydney
+703,358,Đại học Quốc gia Úc,Đại học Adelaide
+703,614,Đại học Quốc gia Úc,Đại học Melbourne
+703,778,Đại học Quốc gia Úc,Đại học Tây Úc
+708,152,Đại học Oxford,Somerville College
+708,334,Đại học Oxford,Viện Công nghệ California
+708,481,Đại học Oxford,Đại học Edinburgh
+708,470,Đại học Oxford,Đại học Exeter
+708,493,Đại học Oxford,Đại học Glasgow
+708,639,Đại học Oxford,Đại học Nhà vua Luân Đôn
+708,599,Đại học Oxford,Đại học Leeds
+708,224,Đại học Oxford,Trường Kinh tế và Khoa học Chính trị Luân Đôn
+708,649,Đại học Oxford,Đại học Nottingham
+712,410,Đại học Quốc gia Seoul,Đại học Cao Ly
+712,690,Đại học Quốc gia Seoul,Đại học Pennsylvania
+712,484,Đại học Quốc gia Seoul,Đại học Duke
+712,416,Đại học Quốc gia Seoul,Đại học Bắc Kinh
+712,775,Đại học Quốc gia Seoul,Đại học Tokyo
+720,721,Đại học Sapienza của Rome,Đại học Roma Sapienza
+733,518,Đại học Sogang,Đại học Georgetown
+740,419,Đại học Srinakharinwirot,Đại học Chiang Mai
+740,425,Đại học Srinakharinwirot,Đại học Chulalongkorn
+740,751,Đại học Srinakharinwirot,Đại học Thammasat
+741,703,Đại học Sydney,Đại học Quốc gia Úc
+741,637,Đại học Sydney,Đại học New South Wales
+741,358,Đại học Sydney,Đại học Adelaide
+741,614,Đại học Sydney,Đại học Melbourne
+741,778,Đại học Sydney,Đại học Tây Úc
+742,683,Đại học Stanford,Đại học Princeton
+742,433,Đại học Stanford,Đại học Cornell
+742,411,Đại học Stanford,Đại học California
+742,408,Đại học Stanford,Đại học California tại Berkeley
+742,311,Đại học Stanford,Viện Công nghệ Georgia
+742,552,Đại học Stanford,Đại học Kansas
+742,632,Đại học Stanford,Đại học Michigan
+742,606,Đại học Stanford,Đại học Minnesota
+742,642,Đại học Stanford,Đại học North Carolina tại Chapel Hill
+742,755,Đại học Stanford,Đại học Texas tại Austin
+742,840,Đại học Stanford,Đại học Virginia
+742,804,Đại học Stanford,Đại học Washington
+742,815,Đại học Stanford,Đại học Wisconsin–Madison
+742,398,Đại học Stanford,Đại học Brown
+742,334,Đại học Stanford,Viện Công nghệ California
+742,421,Đại học Stanford,Đại học Carnegie Mellon
+742,426,Đại học Stanford,Đại học Chicago
+742,440,Đại học Stanford,Đại học Columbia
+742,484,Đại học Stanford,Đại học Duke
+742,537,Đại học Stanford,Đại học Johns Hopkins
+742,668,Đại học Stanford,Đại học New York
+742,690,Đại học Stanford,Đại học Pennsylvania
+742,640,Đại học Stanford,Đại học Nam California
+742,635,Đại học Stanford,Đại học McGill
+742,783,Đại học Stanford,Đại học Toronto
+748,35,Đại học South Carolina,Cử nhân Nghệ thuật
+751,419,Đại học Thammasat,Đại học Chiang Mai
+751,425,Đại học Thammasat,Đại học Chulalongkorn
+751,740,Đại học Thammasat,Đại học Srinakharinwirot
+754,712,Đại học Sungkyunkwan,Đại học Quốc gia Seoul
+755,411,Đại học Texas tại Austin,Đại học California
+755,408,Đại học Texas tại Austin,Đại học California tại Berkeley
+755,311,Đại học Texas tại Austin,Viện Công nghệ Georgia
+755,552,Đại học Texas tại Austin,Đại học Kansas
+755,632,Đại học Texas tại Austin,Đại học Michigan
+755,606,Đại học Texas tại Austin,Đại học Minnesota
+755,642,Đại học Texas tại Austin,Đại học North Carolina tại Chapel Hill
+755,840,Đại học Texas tại Austin,Đại học Virginia
+755,804,Đại học Texas tại Austin,Đại học Washington
+755,815,Đại học Texas tại Austin,Đại học Wisconsin–Madison
+755,398,Đại học Texas tại Austin,Đại học Brown
+755,334,Đại học Texas tại Austin,Viện Công nghệ California
+755,421,Đại học Texas tại Austin,Đại học Carnegie Mellon
+755,426,Đại học Texas tại Austin,Đại học Chicago
+755,440,Đại học Texas tại Austin,Đại học Columbia
+755,433,Đại học Texas tại Austin,Đại học Cornell
+755,484,Đại học Texas tại Austin,Đại học Duke
+755,537,Đại học Texas tại Austin,Đại học Johns Hopkins
+755,668,Đại học Texas tại Austin,Đại học New York
+755,690,Đại học Texas tại Austin,Đại học Pennsylvania
+755,683,Đại học Texas tại Austin,Đại học Princeton
+755,640,Đại học Texas tại Austin,Đại học Nam California
+755,635,Đại học Texas tại Austin,Đại học McGill
+755,783,Đại học Texas tại Austin,Đại học Toronto
+764,416,Đại học Thanh Hoa,Đại học Bắc Kinh
+764,670,Đại học Thanh Hoa,Đại học Phục Đán
+764,636,Đại học Thanh Hoa,Đại học Nam Kinh
+764,485,Đại học Thanh Hoa,Đại học Giao thông Thượng Hải
+764,488,Đại học Thanh Hoa,Đại học Giao thông Tây An
+764,427,Đại học Thanh Hoa,Đại học Chiết Giang
+764,334,Đại học Thanh Hoa,Viện Công nghệ California
+764,421,Đại học Thanh Hoa,Đại học Carnegie Mellon
+764,440,Đại học Thanh Hoa,Đại học Columbia
+764,518,Đại học Thanh Hoa,Đại học Georgetown
+764,635,Đại học Thanh Hoa,Đại học McGill
+764,683,Đại học Thanh Hoa,Đại học Princeton
+764,408,Đại học Thanh Hoa,Đại học California tại Berkeley
+764,426,Đại học Thanh Hoa,Đại học Chicago
+764,690,Đại học Thanh Hoa,Đại học Pennsylvania
+764,389,Đại học Thanh Hoa,Đại học Bocconi
+764,590,Đại học Thanh Hoa,Đại học Luân Đôn
+764,775,Đại học Thanh Hoa,Đại học Tokyo
+764,548,Đại học Thanh Hoa,Đại học Keio
+764,696,Đại học Thanh Hoa,Đại học Quốc gia Singapore
+773,108,Đại học Tiểu bang Kansas,Kansas State University
+775,416,Đại học Tokyo,Đại học Bắc Kinh
+775,712,Đại học Tokyo,Đại học Quốc gia Seoul
+775,334,Đại học Tokyo,Viện Công nghệ California
+775,421,Đại học Tokyo,Đại học Carnegie Mellon
+775,440,Đại học Tokyo,Đại học Columbia
+775,518,Đại học Tokyo,Đại học Georgetown
+775,635,Đại học Tokyo,Đại học McGill
+775,683,Đại học Tokyo,Đại học Princeton
+775,408,Đại học Tokyo,Đại học California tại Berkeley
+775,426,Đại học Tokyo,Đại học Chicago
+775,690,Đại học Tokyo,Đại học Pennsylvania
+775,389,Đại học Tokyo,Đại học Bocconi
+775,590,Đại học Tokyo,Đại học Luân Đôn
+775,764,Đại học Tokyo,Đại học Thanh Hoa
+775,548,Đại học Tokyo,Đại học Keio
+775,427,Đại học Tokyo,Đại học Chiết Giang
+775,696,Đại học Tokyo,Đại học Quốc gia Singapore
+778,485,Đại học Tây Úc,Đại học Giao thông Thượng Hải
+782,591,Đại học Tübingen,Đại học Marburg
+783,635,Đại học Toronto,Đại học McGill
+783,411,Đại học Toronto,Đại học California
+783,408,Đại học Toronto,Đại học California tại Berkeley
+783,311,Đại học Toronto,Viện Công nghệ Georgia
+783,552,Đại học Toronto,Đại học Kansas
+783,632,Đại học Toronto,Đại học Michigan
+783,606,Đại học Toronto,Đại học Minnesota
+783,642,Đại học Toronto,Đại học North Carolina tại Chapel Hill
+783,755,Đại học Toronto,Đại học Texas tại Austin
+783,840,Đại học Toronto,Đại học Virginia
+783,804,Đại học Toronto,Đại học Washington
+783,815,Đại học Toronto,Đại học Wisconsin–Madison
+783,398,Đại học Toronto,Đại học Brown
+783,334,Đại học Toronto,Viện Công nghệ California
+783,421,Đại học Toronto,Đại học Carnegie Mellon
+783,426,Đại học Toronto,Đại học Chicago
+783,440,Đại học Toronto,Đại học Columbia
+783,433,Đại học Toronto,Đại học Cornell
+783,484,Đại học Toronto,Đại học Duke
+783,537,Đại học Toronto,Đại học Johns Hopkins
+783,668,Đại học Toronto,Đại học New York
+783,690,Đại học Toronto,Đại học Pennsylvania
+783,683,Đại học Toronto,Đại học Princeton
+783,640,Đại học Toronto,Đại học Nam California
+784,703,Đại học Tổng hợp Kim Nhật Thành,Đại học Quốc gia Úc
+795,802,Đại học Warsaw,Đại học Warszawa
+798,531,Đại học Viên,Đại học Jagiellonia
+798,664,Đại học Viên,Đại học Paris
+798,500,Đại học Viên,Đại học Hamburg
+800,598,Đại học Uppsala,Đại học Lund
+800,508,Đại học Uppsala,Đại học Helsinki
+800,741,Đại học Uppsala,Đại học Sydney
+800,614,Đại học Uppsala,Đại học Melbourne
+800,783,Đại học Uppsala,Đại học Toronto
+800,416,Đại học Uppsala,Đại học Bắc Kinh
+800,430,Đại học Uppsala,Đại học Copenhagen
+800,745,Đại học Uppsala,Đại học Tartu
+800,479,Đại học Uppsala,Đại học Freiburg
+800,505,Đại học Uppsala,Đại học Heidelberg
+800,560,Đại học Uppsala,Đại học Kyoto
+800,834,Đại học Uppsala,Đại học Waseda
+800,571,Đại học Uppsala,Đại học Leiden
+800,650,Đại học Uppsala,Đại học Oslo
+800,481,Đại học Uppsala,Đại học Edinburgh
+800,23,Đại học Uppsala,Cornell University
+803,798,Đại học Wien,Đại học Viên
+804,411,Đại học Washington,Đại học California
+804,408,Đại học Washington,Đại học California tại Berkeley
+804,311,Đại học Washington,Viện Công nghệ Georgia
+804,552,Đại học Washington,Đại học Kansas
+804,632,Đại học Washington,Đại học Michigan
+804,606,Đại học Washington,Đại học Minnesota
+804,642,Đại học Washington,Đại học North Carolina tại Chapel Hill
+804,755,Đại học Washington,Đại học Texas tại Austin
+804,840,Đại học Washington,Đại học Virginia
+804,815,Đại học Washington,Đại học Wisconsin–Madison
+804,398,Đại học Washington,Đại học Brown
+804,334,Đại học Washington,Viện Công nghệ California
+804,421,Đại học Washington,Đại học Carnegie Mellon
+804,426,Đại học Washington,Đại học Chicago
+804,440,Đại học Washington,Đại học Columbia
+804,433,Đại học Washington,Đại học Cornell
+804,484,Đại học Washington,Đại học Duke
+804,537,Đại học Washington,Đại học Johns Hopkins
+804,668,Đại học Washington,Đại học New York
+804,690,Đại học Washington,Đại học Pennsylvania
+804,683,Đại học Washington,Đại học Princeton
+804,640,Đại học Washington,Đại học Nam California
+804,635,Đại học Washington,Đại học McGill
+804,783,Đại học Washington,Đại học Toronto
+808,812,Đại học William & Mary,Đại học William và Mary
+809,815,Đại học Wisconsin-Madison,Đại học Wisconsin–Madison
+815,411,Đại học Wisconsin–Madison,Đại học California
+815,408,Đại học Wisconsin–Madison,Đại học California tại Berkeley
+815,311,Đại học Wisconsin–Madison,Viện Công nghệ Georgia
+815,552,Đại học Wisconsin–Madison,Đại học Kansas
+815,632,Đại học Wisconsin–Madison,Đại học Michigan
+815,606,Đại học Wisconsin–Madison,Đại học Minnesota
+815,642,Đại học Wisconsin–Madison,Đại học North Carolina tại Chapel Hill
+815,755,Đại học Wisconsin–Madison,Đại học Texas tại Austin
+815,840,Đại học Wisconsin–Madison,Đại học Virginia
+815,804,Đại học Wisconsin–Madison,Đại học Washington
+815,398,Đại học Wisconsin–Madison,Đại học Brown
+815,334,Đại học Wisconsin–Madison,Viện Công nghệ California
+815,421,Đại học Wisconsin–Madison,Đại học Carnegie Mellon
+815,426,Đại học Wisconsin–Madison,Đại học Chicago
+815,440,Đại học Wisconsin–Madison,Đại học Columbia
+815,433,Đại học Wisconsin–Madison,Đại học Cornell
+815,484,Đại học Wisconsin–Madison,Đại học Duke
+815,537,Đại học Wisconsin–Madison,Đại học Johns Hopkins
+815,668,Đại học Wisconsin–Madison,Đại học New York
+815,690,Đại học Wisconsin–Madison,Đại học Pennsylvania
+815,683,Đại học Wisconsin–Madison,Đại học Princeton
+815,640,Đại học Wisconsin–Madison,Đại học Nam California
+815,635,Đại học Wisconsin–Madison,Đại học McGill
+815,783,Đại học Wisconsin–Madison,Đại học Toronto
+834,548,Đại học Waseda,Đại học Keio
+837,405,Đại học Yangon,Đại học Calcutta
+837,530,Đại học Yangon,Đại học Indonesia
+837,475,Đại học Yangon,Đại học Gadjah Mada
+837,597,Đại học Yangon,Đại học Malaya
+837,678,Đại học Yangon,Đại học Philippines
+837,696,Đại học Yangon,Đại học Quốc gia Singapore
+837,425,Đại học Yangon,Đại học Chulalongkorn
+837,419,Đại học Yangon,Đại học Chiang Mai
+837,465,Đại học Yangon,Đại học Cần Thơ
+840,808,Đại học Virginia,Đại học William & Mary
+840,642,Đại học Virginia,Đại học North Carolina tại Chapel Hill
+840,440,Đại học Virginia,Đại học Columbia
+840,484,Đại học Virginia,Đại học Duke
+840,537,Đại học Virginia,Đại học Johns Hopkins
+840,764,Đại học Virginia,Đại học Thanh Hoa
+840,89,Đại học Virginia,Học viện Quân sự Hoa Kỳ
+840,411,Đại học Virginia,Đại học California
+840,408,Đại học Virginia,Đại học California tại Berkeley
+840,311,Đại học Virginia,Viện Công nghệ Georgia
+840,552,Đại học Virginia,Đại học Kansas
+840,632,Đại học Virginia,Đại học Michigan
+840,606,Đại học Virginia,Đại học Minnesota
+840,755,Đại học Virginia,Đại học Texas tại Austin
+840,804,Đại học Virginia,Đại học Washington
+840,815,Đại học Virginia,Đại học Wisconsin–Madison
+840,398,Đại học Virginia,Đại học Brown
+840,334,Đại học Virginia,Viện Công nghệ California
+840,421,Đại học Virginia,Đại học Carnegie Mellon
+840,426,Đại học Virginia,Đại học Chicago
+840,433,Đại học Virginia,Đại học Cornell
+840,668,Đại học Virginia,Đại học New York
+840,690,Đại học Virginia,Đại học Pennsylvania
+840,683,Đại học Virginia,Đại học Princeton
+840,640,Đại học Virginia,Đại học Nam California
+840,635,Đại học Virginia,Đại học McGill
+840,783,Đại học Virginia,Đại học Toronto
+841,683,Đại học quốc lập Đài Loan,Đại học Princeton
+841,764,Đại học quốc lập Đài Loan,Đại học Thanh Hoa
+842,808,Đại học Yale,Đại học William & Mary
+842,683,Đại học Yale,Đại học Princeton
+842,696,Đại học Yale,Đại học Quốc gia Singapore
+842,426,Đại học Yale,Đại học Chicago
+842,690,Đại học Yale,Đại học Pennsylvania
+842,484,Đại học Yale,Đại học Duke
+842,411,Đại học Yale,Đại học California
+842,408,Đại học Yale,Đại học California tại Berkeley
+842,311,Đại học Yale,Viện Công nghệ Georgia
+842,552,Đại học Yale,Đại học Kansas
+842,632,Đại học Yale,Đại học Michigan
+842,606,Đại học Yale,Đại học Minnesota
+842,642,Đại học Yale,Đại học North Carolina tại Chapel Hill
+842,755,Đại học Yale,Đại học Texas tại Austin
+842,840,Đại học Yale,Đại học Virginia
+842,804,Đại học Yale,Đại học Washington
+842,815,Đại học Yale,Đại học Wisconsin–Madison
+842,398,Đại học Yale,Đại học Brown
+842,334,Đại học Yale,Viện Công nghệ California
+842,421,Đại học Yale,Đại học Carnegie Mellon
+842,440,Đại học Yale,Đại học Columbia
+842,433,Đại học Yale,Đại học Cornell
+842,537,Đại học Yale,Đại học Johns Hopkins
+842,668,Đại học Yale,Đại học New York
+842,640,Đại học Yale,Đại học Nam California
+842,635,Đại học Yale,Đại học McGill
+842,783,Đại học Yale,Đại học Toronto
