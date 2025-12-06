@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 """
-STEP 9 — Generate Edges (v4)
+STEP 9 — Generate Edges (v5)
 
 Sinh cạnh (edges) từ các file CLEAN:
 
@@ -18,6 +18,11 @@ Quan hệ được tạo:
 - spouse_of       : Person <-> Person (nếu match được)
 - same_party      : Person <-> Person (nếu có dữ liệu 'party')
 - same_country    : University <-> University (dùng cột 'country')
+- link_to         : MỌI cạnh "mention gốc" từ Step6:
+                    + Person  -> Person
+                    + Person  -> University
+                    + Univ    -> Person
+                    + Univ    -> Univ
 
 Output:
 - graph_out/neo4j_edges_clean.csv
@@ -50,32 +55,21 @@ def split_candidates(s: str) -> List[str]:
     if not s:
         return []
     s = normalize(s)
-    # Tách theo ; hoặc , hoặc từ " và "
-    parts = []
+
+    # cắt theo ; , và ' và '
+    parts = [s]
     for sep in [";", ",", " và "]:
-        if sep in s:
-            tmp = []
-            for chunk in (parts or [s]):
-                tmp.extend(chunk.split(sep))
-            parts = tmp
-        else:
-            if not parts:
-                parts = [s]
-    # Normalize từng phần
+        new_parts = []
+        for chunk in parts:
+            new_parts.extend(chunk.split(sep))
+        parts = new_parts
+
     out = []
     for p in parts:
         p = normalize(p)
         if p:
             out.append(p)
     return out
-
-def build_name_to_id_map(nodes: List[Dict[str, str]]) -> Dict[str, str]:
-    m = {}
-    for n in nodes:
-        name = normalize(n.get("name"))
-        if name:
-            m[name] = n["id"]
-    return m
 
 def match_person_by_name(cand: str, persons: List[Dict[str, str]]) -> str:
     """Tìm id person gần giống với chuỗi cand (best-effort)."""
@@ -335,6 +329,68 @@ def extract_same_country_edges(universities: List[Dict[str, str]]) -> Tuple[List
     return edges, len(id_to_country)
 
 # -------------------------------
+# 8) link_to từ các cạnh mention gốc (Step6)
+# -------------------------------
+
+def extract_link_to_edges_from_mentions(root: Path) -> List[Edge]:
+    """
+    Đọc các file neo4j_rel_*_mentions_* do Step6 sinh ra
+    và gom về một loại cạnh duy nhất: link_to
+    """
+
+    edges: List[Edge] = []
+
+    # 1) Person -> Person
+    path_pp = root / "neo4j_rel_person_mentions_person.csv"
+    if path_pp.exists():
+        with path_pp.open("r", encoding="utf-8") as f:
+            rdr = csv.DictReader(f)
+            for r in rdr:
+                src_id = r.get("src_person_id")
+                dst_id = r.get("dst_person_id")
+                if not src_id or not dst_id:
+                    continue
+                edges.append((src_id, "Person", dst_id, "Person", "link_to"))
+
+    # 2) Person -> University
+    path_pu = root / "neo4j_rel_person_mentions_university.csv"
+    if path_pu.exists():
+        with path_pu.open("r", encoding="utf-8") as f:
+            rdr = csv.DictReader(f)
+            for r in rdr:
+                src_id = r.get("src_person_id")
+                dst_id = r.get("dst_university_id")
+                if not src_id or not dst_id:
+                    continue
+                edges.append((src_id, "Person", dst_id, "University", "link_to"))
+
+    # 3) University -> Person
+    path_up = root / "neo4j_rel_university_mentions_person.csv"
+    if path_up.exists():
+        with path_up.open("r", encoding="utf-8") as f:
+            rdr = csv.DictReader(f)
+            for r in rdr:
+                src_id = r.get("src_university_id")
+                dst_id = r.get("dst_person_id")
+                if not src_id or not dst_id:
+                    continue
+                edges.append((src_id, "University", dst_id, "Person", "link_to"))
+
+    # 4) University -> University
+    path_uu = root / "neo4j_rel_university_mentions_university.csv"
+    if path_uu.exists():
+        with path_uu.open("r", encoding="utf-8") as f:
+            rdr = csv.DictReader(f)
+            for r in rdr:
+                src_id = r.get("src_university_id")
+                dst_id = r.get("dst_university_id")
+                if not src_id or not dst_id:
+                    continue
+                edges.append((src_id, "University", dst_id, "University", "link_to"))
+
+    return edges
+
+# -------------------------------
 # MAIN
 # -------------------------------
 
@@ -377,6 +433,10 @@ def main():
     same_country_edges, n_country = extract_same_country_edges(universities)
     log(f"[Step9] same_country edges   : {len(same_country_edges)}")
 
+    # 8) link_to từ các cạnh mention gốc (Step6)
+    link_to_edges = extract_link_to_edges_from_mentions(root)
+    log(f"[Step9] link_to edges       : {len(link_to_edges)}")
+
     # Gom tất cả edges, bỏ trùng
     all_edges: List[Edge] = []
     all_edges.extend(alumni_edges)
@@ -386,6 +446,7 @@ def main():
     all_edges.extend(spouse_edges)
     all_edges.extend(same_party_edges)
     all_edges.extend(same_country_edges)
+    all_edges.extend(link_to_edges)
 
     # Deduplicate
     unique_edges = list(dict.fromkeys(all_edges))
