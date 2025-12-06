@@ -1,0 +1,347 @@
+src_person_id,dst_person_id,src_person,dst_person
+1,15,Andrew Giuliani,Donald Trump
+1,41,Andrew Giuliani,Rudy Giuliani
+2,9,Christian Wulff,Angela Merkel
+2,14,Christian Wulff,Horst Köhler
+2,24,Christian Wulff,Joachim Gauck
+2,44,Christian Wulff,Sigmar Gabriel
+3,49,Beau Biden,Joe Biden
+4,15,Brett Kavanaugh,Donald Trump
+4,18,Brett Kavanaugh,George W. Bush
+4,8,Brett Kavanaugh,Bill Clinton
+5,50,Boris Nikolayevich Yeltsin,Sergei Stepashin
+5,47,Boris Nikolayevich Yeltsin,Vladimir Vladimirovich Putin
+5,17,Boris Nikolayevich Yeltsin,George H. W. Bush
+5,8,Boris Nikolayevich Yeltsin,Bill Clinton
+5,24,Boris Nikolayevich Yeltsin,Joachim Gauck
+6,18,Dick Cheney,George W. Bush
+6,49,Dick Cheney,Joe Biden
+6,17,Dick Cheney,George H. W. Bush
+6,35,Dick Cheney,John McCain
+6,43,Dick Cheney,Sarah Palin
+6,46,Dick Cheney,Theodore Roosevelt
+6,31,Dick Cheney,Mike Pence
+6,30,Dick Cheney,Kamala Harris
+6,19,Dick Cheney,JD Vance
+7,47,Dmitry Anatolyevich Medvedev,Vladimir Vladimirovich Putin
+8,17,Bill Clinton,George H. W. Bush
+8,18,Bill Clinton,George W. Bush
+8,22,Bill Clinton,Hillary Clinton
+8,35,Bill Clinton,John McCain
+8,48,Bill Clinton,Ronald Reagan
+8,51,Bill Clinton,Boris Yeltsin
+8,26,Bill Clinton,John Quincy Adams
+8,46,Bill Clinton,Theodore Roosevelt
+8,10,Bill Clinton,Barack Obama
+8,15,Bill Clinton,Donald Trump
+8,49,Bill Clinton,Joe Biden
+9,14,Angela Merkel,Horst Köhler
+9,2,Angela Merkel,Christian Wulff
+9,24,Angela Merkel,Joachim Gauck
+9,13,Angela Merkel,Frank-Walter Steinmeier
+9,12,Angela Merkel,Guido Westerwelle
+9,38,Angela Merkel,Philipp Rösler
+9,44,Angela Merkel,Sigmar Gabriel
+9,39,Angela Merkel,Olaf Scholz
+9,45,Angela Merkel,Wolfgang Schäuble
+9,16,Angela Merkel,Helmut Kohl
+9,48,Angela Merkel,Ronald Reagan
+9,17,Angela Merkel,George H. W. Bush
+9,8,Angela Merkel,Bill Clinton
+9,18,Angela Merkel,George W. Bush
+9,41,Angela Merkel,Rudy Giuliani
+9,47,Angela Merkel,Vladimir Vladimirovich Putin
+9,10,Angela Merkel,Barack Obama
+9,33,Angela Merkel,Mark Zuckerberg
+9,15,Angela Merkel,Donald Trump
+9,27,Angela Merkel,Maria Ressa
+9,49,Angela Merkel,Joe Biden
+9,30,Angela Merkel,Kamala Harris
+10,49,Barack Obama,Joe Biden
+10,18,Barack Obama,George W. Bush
+10,15,Barack Obama,Donald Trump
+10,34,Barack Obama,Michelle Obama
+10,22,Barack Obama,Hillary Clinton
+10,35,Barack Obama,John McCain
+10,32,Barack Obama,Mitt Romney
+10,8,Barack Obama,Bill Clinton
+10,36,Barack Obama,Paul Ryan
+10,48,Barack Obama,Ronald Reagan
+10,6,Barack Obama,Dick Cheney
+10,26,Barack Obama,John Quincy Adams
+10,46,Barack Obama,Theodore Roosevelt
+10,17,Barack Obama,George H. W. Bush
+10,27,Barack Obama,Maria Ressa
+10,41,Barack Obama,Rudy Giuliani
+10,47,Barack Obama,Vladimir Vladimirovich Putin
+10,33,Barack Obama,Mark Zuckerberg
+10,9,Barack Obama,Angela Merkel
+10,30,Barack Obama,Kamala Harris
+11,30,Doug Emhoff,Kamala Harris
+11,49,Doug Emhoff,Joe Biden
+12,9,Guido Westerwelle,Angela Merkel
+12,13,Guido Westerwelle,Frank-Walter Steinmeier
+12,38,Guido Westerwelle,Philipp Rösler
+12,44,Guido Westerwelle,Sigmar Gabriel
+12,39,Guido Westerwelle,Olaf Scholz
+13,9,Frank-Walter Steinmeier,Angela Merkel
+13,39,Frank-Walter Steinmeier,Olaf Scholz
+13,24,Frank-Walter Steinmeier,Joachim Gauck
+13,12,Frank-Walter Steinmeier,Guido Westerwelle
+13,44,Frank-Walter Steinmeier,Sigmar Gabriel
+13,47,Frank-Walter Steinmeier,Vladimir Vladimirovich Putin
+13,14,Frank-Walter Steinmeier,Horst Köhler
+13,2,Frank-Walter Steinmeier,Christian Wulff
+14,9,Horst Köhler,Angela Merkel
+14,2,Horst Köhler,Christian Wulff
+15,19,Donald Trump,JD Vance
+15,49,Donald Trump,Joe Biden
+15,31,Donald Trump,Mike Pence
+15,10,Donald Trump,Barack Obama
+15,21,Donald Trump,Ivanka Trump
+15,52,Donald Trump,Barron Trump
+15,46,Donald Trump,Theodore Roosevelt
+15,47,Donald Trump,Vladimir Vladimirovich Putin
+15,22,Donald Trump,Hillary Clinton
+15,4,Donald Trump,Brett Kavanaugh
+15,48,Donald Trump,Ronald Reagan
+15,32,Donald Trump,Mitt Romney
+15,8,Donald Trump,Bill Clinton
+15,17,Donald Trump,George H. W. Bush
+15,18,Donald Trump,George W. Bush
+15,36,Donald Trump,Paul Ryan
+15,40,Donald Trump,Rodrigo Duterte
+15,41,Donald Trump,Rudy Giuliani
+15,20,Donald Trump,Hunter Biden
+15,26,Donald Trump,John Quincy Adams
+15,39,Donald Trump,Olaf Scholz
+15,13,Donald Trump,Frank-Walter Steinmeier
+15,33,Donald Trump,Mark Zuckerberg
+15,9,Donald Trump,Angela Merkel
+15,27,Donald Trump,Maria Ressa
+15,30,Donald Trump,Kamala Harris
+16,45,Helmut Kohl,Wolfgang Schäuble
+16,17,Helmut Kohl,George H. W. Bush
+16,48,Helmut Kohl,Ronald Reagan
+16,9,Helmut Kohl,Angela Merkel
+16,39,Helmut Kohl,Olaf Scholz
+16,24,Helmut Kohl,Joachim Gauck
+17,48,George H. W. Bush,Ronald Reagan
+17,8,George H. W. Bush,Bill Clinton
+17,18,George H. W. Bush,George W. Bush
+17,26,George H. W. Bush,John Quincy Adams
+17,15,George H. W. Bush,Donald Trump
+17,46,George H. W. Bush,Theodore Roosevelt
+17,10,George H. W. Bush,Barack Obama
+17,49,George H. W. Bush,Joe Biden
+17,6,George H. W. Bush,Dick Cheney
+17,31,George H. W. Bush,Mike Pence
+17,30,George H. W. Bush,Kamala Harris
+17,19,George H. W. Bush,JD Vance
+17,41,George H. W. Bush,Rudy Giuliani
+17,47,George H. W. Bush,Vladimir Vladimirovich Putin
+17,33,George H. W. Bush,Mark Zuckerberg
+17,9,George H. W. Bush,Angela Merkel
+17,27,George H. W. Bush,Maria Ressa
+18,6,George W. Bush,Dick Cheney
+18,8,George W. Bush,Bill Clinton
+18,10,George W. Bush,Barack Obama
+18,37,George W. Bush,Rick Perry
+18,29,George W. Bush,Laura Bush
+18,17,George W. Bush,George H. W. Bush
+18,26,George W. Bush,John Quincy Adams
+18,48,George W. Bush,Ronald Reagan
+18,35,George W. Bush,John McCain
+18,46,George W. Bush,Theodore Roosevelt
+18,15,George W. Bush,Donald Trump
+18,49,George W. Bush,Joe Biden
+19,15,JD Vance,Donald Trump
+19,30,JD Vance,Kamala Harris
+19,49,JD Vance,Joe Biden
+19,31,JD Vance,Mike Pence
+19,46,JD Vance,Theodore Roosevelt
+19,17,JD Vance,George H. W. Bush
+19,6,JD Vance,Dick Cheney
+20,10,Hunter Biden,Barack Obama
+20,49,Hunter Biden,Joe Biden
+20,15,Hunter Biden,Donald Trump
+20,3,Hunter Biden,Beau Biden
+20,28,Hunter Biden,Jill Biden
+21,15,Ivanka Trump,Donald Trump
+21,22,Ivanka Trump,Hillary Clinton
+22,10,Hillary Clinton,Barack Obama
+22,8,Hillary Clinton,Bill Clinton
+22,29,Hillary Clinton,Laura Bush
+22,15,Hillary Clinton,Donald Trump
+22,41,Hillary Clinton,Rudy Giuliani
+22,49,Hillary Clinton,Joe Biden
+22,53,Hillary Clinton,Dmitry Medvedev
+22,34,Hillary Clinton,Michelle Obama
+22,28,Hillary Clinton,Jill Biden
+22,26,Hillary Clinton,John Quincy Adams
+22,30,Hillary Clinton,Kamala Harris
+23,48,Jerry Brown,Ronald Reagan
+23,30,Jerry Brown,Kamala Harris
+23,31,Jerry Brown,Mike Pence
+24,9,Joachim Gauck,Angela Merkel
+24,2,Joachim Gauck,Christian Wulff
+24,13,Joachim Gauck,Frank-Walter Steinmeier
+25,41,Michael Bloomberg,Rudy Giuliani
+27,40,Maria Ressa,Rodrigo Duterte
+27,46,Maria Ressa,Theodore Roosevelt
+27,10,Maria Ressa,Barack Obama
+28,49,Jill Biden,Joe Biden
+28,3,Jill Biden,Beau Biden
+28,20,Jill Biden,Hunter Biden
+28,34,Jill Biden,Michelle Obama
+28,22,Jill Biden,Hillary Clinton
+28,29,Jill Biden,Laura Bush
+29,18,Laura Bush,George W. Bush
+29,22,Laura Bush,Hillary Clinton
+29,34,Laura Bush,Michelle Obama
+29,28,Laura Bush,Jill Biden
+30,49,Kamala Harris,Joe Biden
+30,31,Kamala Harris,Mike Pence
+30,54,Kamala Harris,J.D. Vance
+30,23,Kamala Harris,Jerry Brown
+30,11,Kamala Harris,Doug Emhoff
+30,15,Kamala Harris,Donald Trump
+30,4,Kamala Harris,Brett Kavanaugh
+30,10,Kamala Harris,Barack Obama
+30,8,Kamala Harris,Bill Clinton
+30,22,Kamala Harris,Hillary Clinton
+30,34,Kamala Harris,Michelle Obama
+30,46,Kamala Harris,Theodore Roosevelt
+30,17,Kamala Harris,George H. W. Bush
+30,6,Kamala Harris,Dick Cheney
+30,19,Kamala Harris,JD Vance
+31,15,Mike Pence,Donald Trump
+31,49,Mike Pence,Joe Biden
+31,30,Mike Pence,Kamala Harris
+31,36,Mike Pence,Paul Ryan
+31,46,Mike Pence,Theodore Roosevelt
+31,17,Mike Pence,George H. W. Bush
+31,6,Mike Pence,Dick Cheney
+31,19,Mike Pence,JD Vance
+32,35,Mitt Romney,John McCain
+32,15,Mitt Romney,Donald Trump
+33,41,Mark Zuckerberg,Rudy Giuliani
+33,18,Mark Zuckerberg,George W. Bush
+33,47,Mark Zuckerberg,Vladimir Vladimirovich Putin
+33,10,Mark Zuckerberg,Barack Obama
+33,9,Mark Zuckerberg,Angela Merkel
+33,15,Mark Zuckerberg,Donald Trump
+33,27,Mark Zuckerberg,Maria Ressa
+33,49,Mark Zuckerberg,Joe Biden
+33,30,Mark Zuckerberg,Kamala Harris
+34,10,Michelle Obama,Barack Obama
+34,29,Michelle Obama,Laura Bush
+34,22,Michelle Obama,Hillary Clinton
+34,28,Michelle Obama,Jill Biden
+34,18,Michelle Obama,George W. Bush
+34,15,Michelle Obama,Donald Trump
+35,18,John McCain,George W. Bush
+35,10,John McCain,Barack Obama
+35,48,John McCain,Ronald Reagan
+35,17,John McCain,George H. W. Bush
+35,8,John McCain,Bill Clinton
+35,32,John McCain,Mitt Romney
+35,41,John McCain,Rudy Giuliani
+35,43,John McCain,Sarah Palin
+36,32,Paul Ryan,Mitt Romney
+36,43,Paul Ryan,Sarah Palin
+36,31,Paul Ryan,Mike Pence
+37,15,Rick Perry,Donald Trump
+37,18,Rick Perry,George W. Bush
+38,9,Philipp Rösler,Angela Merkel
+38,12,Philipp Rösler,Guido Westerwelle
+38,44,Philipp Rösler,Sigmar Gabriel
+38,13,Philipp Rösler,Frank-Walter Steinmeier
+38,39,Philipp Rösler,Olaf Scholz
+39,13,Olaf Scholz,Frank-Walter Steinmeier
+39,9,Olaf Scholz,Angela Merkel
+39,44,Olaf Scholz,Sigmar Gabriel
+39,45,Olaf Scholz,Wolfgang Schäuble
+39,49,Olaf Scholz,Joe Biden
+39,16,Olaf Scholz,Helmut Kohl
+39,15,Olaf Scholz,Donald Trump
+40,15,Rodrigo Duterte,Donald Trump
+40,10,Rodrigo Duterte,Barack Obama
+41,25,Rudy Giuliani,Michael Bloomberg
+41,48,Rudy Giuliani,Ronald Reagan
+41,1,Rudy Giuliani,Andrew Giuliani
+42,47,Sergey Vadimovich Stepashin,Vladimir Vladimirovich Putin
+43,35,Sarah Palin,John McCain
+43,6,Sarah Palin,Dick Cheney
+43,36,Sarah Palin,Paul Ryan
+44,9,Sigmar Gabriel,Angela Merkel
+44,13,Sigmar Gabriel,Frank-Walter Steinmeier
+44,38,Sigmar Gabriel,Philipp Rösler
+44,39,Sigmar Gabriel,Olaf Scholz
+44,2,Sigmar Gabriel,Christian Wulff
+44,15,Sigmar Gabriel,Donald Trump
+44,12,Sigmar Gabriel,Guido Westerwelle
+45,9,Wolfgang Schäuble,Angela Merkel
+45,39,Wolfgang Schäuble,Olaf Scholz
+45,16,Wolfgang Schäuble,Helmut Kohl
+46,26,Theodore Roosevelt,John Quincy Adams
+46,48,Theodore Roosevelt,Ronald Reagan
+46,17,Theodore Roosevelt,George H. W. Bush
+46,8,Theodore Roosevelt,Bill Clinton
+46,18,Theodore Roosevelt,George W. Bush
+46,10,Theodore Roosevelt,Barack Obama
+46,15,Theodore Roosevelt,Donald Trump
+46,49,Theodore Roosevelt,Joe Biden
+46,6,Theodore Roosevelt,Dick Cheney
+46,31,Theodore Roosevelt,Mike Pence
+46,30,Theodore Roosevelt,Kamala Harris
+46,19,Theodore Roosevelt,JD Vance
+47,53,Vladimir Vladimirovich Putin,Dmitry Medvedev
+47,51,Vladimir Vladimirovich Putin,Boris Yeltsin
+47,50,Vladimir Vladimirovich Putin,Sergei Stepashin
+47,46,Vladimir Vladimirovich Putin,Theodore Roosevelt
+47,15,Vladimir Vladimirovich Putin,Donald Trump
+47,22,Vladimir Vladimirovich Putin,Hillary Clinton
+47,18,Vladimir Vladimirovich Putin,George W. Bush
+47,9,Vladimir Vladimirovich Putin,Angela Merkel
+47,29,Vladimir Vladimirovich Putin,Laura Bush
+47,10,Vladimir Vladimirovich Putin,Barack Obama
+47,48,Vladimir Vladimirovich Putin,Ronald Reagan
+47,17,Vladimir Vladimirovich Putin,George H. W. Bush
+47,8,Vladimir Vladimirovich Putin,Bill Clinton
+47,41,Vladimir Vladimirovich Putin,Rudy Giuliani
+47,33,Vladimir Vladimirovich Putin,Mark Zuckerberg
+47,27,Vladimir Vladimirovich Putin,Maria Ressa
+47,49,Vladimir Vladimirovich Putin,Joe Biden
+47,30,Vladimir Vladimirovich Putin,Kamala Harris
+48,17,Ronald Reagan,George H. W. Bush
+48,23,Ronald Reagan,Jerry Brown
+48,15,Ronald Reagan,Donald Trump
+48,8,Ronald Reagan,Bill Clinton
+48,16,Ronald Reagan,Helmut Kohl
+48,18,Ronald Reagan,George W. Bush
+48,10,Ronald Reagan,Barack Obama
+48,35,Ronald Reagan,John McCain
+48,26,Ronald Reagan,John Quincy Adams
+48,46,Ronald Reagan,Theodore Roosevelt
+48,49,Ronald Reagan,Joe Biden
+49,3,Joe Biden,Beau Biden
+49,30,Joe Biden,Kamala Harris
+49,15,Joe Biden,Donald Trump
+49,10,Joe Biden,Barack Obama
+49,6,Joe Biden,Dick Cheney
+49,31,Joe Biden,Mike Pence
+49,28,Joe Biden,Jill Biden
+49,20,Joe Biden,Hunter Biden
+49,35,Joe Biden,John McCain
+49,43,Joe Biden,Sarah Palin
+49,32,Joe Biden,Mitt Romney
+49,36,Joe Biden,Paul Ryan
+49,22,Joe Biden,Hillary Clinton
+49,17,Joe Biden,George H. W. Bush
+49,48,Joe Biden,Ronald Reagan
+49,8,Joe Biden,Bill Clinton
+49,46,Joe Biden,Theodore Roosevelt
+49,19,Joe Biden,JD Vance
+49,26,Joe Biden,John Quincy Adams
+49,18,Joe Biden,George W. Bush

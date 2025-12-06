@@ -1,0 +1,123 @@
+src_university_id,dst_university_id,src_university,dst_university
+8,26,Trường Dịch vụ Đối ngoại,Đại học Georgetown
+8,28,Trường Dịch vụ Đối ngoại,Đại học Harvard
+8,19,Trường Dịch vụ Đối ngoại,Đại học Columbia
+9,28,"Đại học California, Berkeley",Đại học Harvard
+9,41,"Đại học California, Berkeley",Đại học Oxford
+9,42,"Đại học California, Berkeley",Đại học Stanford
+9,39,"Đại học California, Berkeley",Đại học Texas tại Austin
+9,19,"Đại học California, Berkeley",Đại học Columbia
+9,25,"Đại học California, Berkeley",Đại học Johns Hopkins
+9,36,"Đại học California, Berkeley",Đại học Pennsylvania
+9,31,"Đại học California, Berkeley",Đại học Princeton
+9,33,"Đại học California, Berkeley",Đại học Nam California
+9,46,"Đại học California, Berkeley",Đại học Yale
+13,31,Đại học Duke,Đại học Princeton
+13,28,Đại học Duke,Đại học Harvard
+13,39,Đại học Duke,Đại học Texas tại Austin
+13,19,Đại học Duke,Đại học Columbia
+13,25,Đại học Duke,Đại học Johns Hopkins
+13,36,Đại học Duke,Đại học Pennsylvania
+13,33,Đại học Duke,Đại học Nam California
+13,42,Đại học Duke,Đại học Stanford
+13,46,Đại học Duke,Đại học Yale
+16,30,Đại học Bonn,Đại học Hamburg
+16,29,Đại học Bonn,Đại học Göttingen
+19,46,Đại học Columbia,Đại học Yale
+19,28,Đại học Columbia,Đại học Harvard
+19,39,Đại học Columbia,Đại học Texas tại Austin
+19,25,Đại học Columbia,Đại học Johns Hopkins
+19,36,Đại học Columbia,Đại học Pennsylvania
+19,31,Đại học Columbia,Đại học Princeton
+19,33,Đại học Columbia,Đại học Nam California
+19,42,Đại học Columbia,Đại học Stanford
+19,26,Đại học Columbia,Đại học Georgetown
+19,41,Đại học Columbia,Đại học Oxford
+22,16,Đại học Heidelberg,Đại học Bonn
+22,30,Đại học Heidelberg,Đại học Hamburg
+25,28,Đại học Johns Hopkins,Đại học Harvard
+25,39,Đại học Johns Hopkins,Đại học Texas tại Austin
+25,19,Đại học Johns Hopkins,Đại học Columbia
+25,36,Đại học Johns Hopkins,Đại học Pennsylvania
+25,31,Đại học Johns Hopkins,Đại học Princeton
+25,33,Đại học Johns Hopkins,Đại học Nam California
+25,42,Đại học Johns Hopkins,Đại học Stanford
+25,46,Đại học Johns Hopkins,Đại học Yale
+26,8,Đại học Georgetown,Trường Dịch vụ Đối ngoại
+26,28,Đại học Georgetown,Đại học Harvard
+26,19,Đại học Georgetown,Đại học Columbia
+26,25,Đại học Georgetown,Đại học Johns Hopkins
+26,46,Đại học Georgetown,Đại học Yale
+26,31,Đại học Georgetown,Đại học Princeton
+26,42,Đại học Georgetown,Đại học Stanford
+26,36,Đại học Georgetown,Đại học Pennsylvania
+26,41,Đại học Georgetown,Đại học Oxford
+28,19,Đại học Harvard,Đại học Columbia
+28,46,Đại học Harvard,Đại học Yale
+28,33,Đại học Harvard,Đại học Nam California
+28,39,Đại học Harvard,Đại học Texas tại Austin
+28,25,Đại học Harvard,Đại học Johns Hopkins
+28,36,Đại học Harvard,Đại học Pennsylvania
+28,31,Đại học Harvard,Đại học Princeton
+28,42,Đại học Harvard,Đại học Stanford
+31,39,Đại học Princeton,Đại học Texas tại Austin
+31,19,Đại học Princeton,Đại học Columbia
+31,28,Đại học Princeton,Đại học Harvard
+31,25,Đại học Princeton,Đại học Johns Hopkins
+31,36,Đại học Princeton,Đại học Pennsylvania
+31,33,Đại học Princeton,Đại học Nam California
+31,42,Đại học Princeton,Đại học Stanford
+31,46,Đại học Princeton,Đại học Yale
+32,51,Đại học bang Ohio,Đại học Miami
+32,39,Đại học bang Ohio,Đại học Texas tại Austin
+32,19,Đại học bang Ohio,Đại học Columbia
+32,28,Đại học bang Ohio,Đại học Harvard
+32,25,Đại học bang Ohio,Đại học Johns Hopkins
+32,36,Đại học bang Ohio,Đại học Pennsylvania
+32,31,Đại học bang Ohio,Đại học Princeton
+32,33,Đại học bang Ohio,Đại học Nam California
+32,42,Đại học bang Ohio,Đại học Stanford
+32,46,Đại học bang Ohio,Đại học Yale
+33,36,Đại học Nam California,Đại học Pennsylvania
+33,42,Đại học Nam California,Đại học Stanford
+33,39,Đại học Nam California,Đại học Texas tại Austin
+33,19,Đại học Nam California,Đại học Columbia
+33,28,Đại học Nam California,Đại học Harvard
+33,25,Đại học Nam California,Đại học Johns Hopkins
+33,31,Đại học Nam California,Đại học Princeton
+33,46,Đại học Nam California,Đại học Yale
+36,19,Đại học Pennsylvania,Đại học Columbia
+36,28,Đại học Pennsylvania,Đại học Harvard
+36,42,Đại học Pennsylvania,Đại học Stanford
+36,39,Đại học Pennsylvania,Đại học Texas tại Austin
+36,25,Đại học Pennsylvania,Đại học Johns Hopkins
+36,31,Đại học Pennsylvania,Đại học Princeton
+36,33,Đại học Pennsylvania,Đại học Nam California
+36,46,Đại học Pennsylvania,Đại học Yale
+39,19,Đại học Texas tại Austin,Đại học Columbia
+39,28,Đại học Texas tại Austin,Đại học Harvard
+39,25,Đại học Texas tại Austin,Đại học Johns Hopkins
+39,36,Đại học Texas tại Austin,Đại học Pennsylvania
+39,31,Đại học Texas tại Austin,Đại học Princeton
+39,33,Đại học Texas tại Austin,Đại học Nam California
+39,42,Đại học Texas tại Austin,Đại học Stanford
+39,46,Đại học Texas tại Austin,Đại học Yale
+41,28,Đại học Oxford,Đại học Harvard
+41,42,Đại học Oxford,Đại học Stanford
+42,28,Đại học Stanford,Đại học Harvard
+42,46,Đại học Stanford,Đại học Yale
+42,31,Đại học Stanford,Đại học Princeton
+42,39,Đại học Stanford,Đại học Texas tại Austin
+42,19,Đại học Stanford,Đại học Columbia
+42,25,Đại học Stanford,Đại học Johns Hopkins
+42,36,Đại học Stanford,Đại học Pennsylvania
+42,33,Đại học Stanford,Đại học Nam California
+46,31,Đại học Yale,Đại học Princeton
+46,36,Đại học Yale,Đại học Pennsylvania
+46,41,Đại học Yale,Đại học Oxford
+46,39,Đại học Yale,Đại học Texas tại Austin
+46,19,Đại học Yale,Đại học Columbia
+46,28,Đại học Yale,Đại học Harvard
+46,25,Đại học Yale,Đại học Johns Hopkins
+46,33,Đại học Yale,Đại học Nam California
+46,42,Đại học Yale,Đại học Stanford

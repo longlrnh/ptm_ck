@@ -1,0 +1,27 @@
+src_university_id,dst_person_id,src_university,dst_person
+8,8,Trường Dịch vụ Đối ngoại,Bill Clinton
+8,48,Trường Dịch vụ Đối ngoại,Ronald Reagan
+8,15,Trường Dịch vụ Đối ngoại,Donald Trump
+8,10,Trường Dịch vụ Đối ngoại,Barack Obama
+15,35,Học viện Hải quân Hoa Kỳ,John McCain
+19,10,Đại học Columbia,Barack Obama
+19,46,Đại học Columbia,Theodore Roosevelt
+26,10,Đại học Georgetown,Barack Obama
+26,8,Đại học Georgetown,Bill Clinton
+26,21,Đại học Georgetown,Ivanka Trump
+28,15,Đại học Harvard,Donald Trump
+28,10,Đại học Harvard,Barack Obama
+28,26,Đại học Harvard,John Quincy Adams
+28,46,Đại học Harvard,Theodore Roosevelt
+28,18,Đại học Harvard,George W. Bush
+28,34,Đại học Harvard,Michelle Obama
+28,33,Đại học Harvard,Mark Zuckerberg
+36,15,Đại học Pennsylvania,Donald Trump
+41,48,Đại học Oxford,Ronald Reagan
+41,8,Đại học Oxford,Bill Clinton
+45,18,Đại học Miami (Florida),George W. Bush
+46,8,Đại học Yale,Bill Clinton
+46,18,Đại học Yale,George W. Bush
+46,23,Đại học Yale,Jerry Brown
+46,17,Đại học Yale,George H. W. Bush
+46,22,Đại học Yale,Hillary Clinton

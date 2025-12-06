@@ -1,1 +1,347 @@
 src_person,dst_person,relation
+Andrew Giuliani,Donald Trump,MENTIONS_PERSON
+Andrew Giuliani,Rudy Giuliani,MENTIONS_PERSON
+Christian Wulff,Angela Merkel,MENTIONS_PERSON
+Christian Wulff,Horst Köhler,MENTIONS_PERSON
+Christian Wulff,Joachim Gauck,MENTIONS_PERSON
+Christian Wulff,Sigmar Gabriel,MENTIONS_PERSON
+Beau Biden,Joe Biden,MENTIONS_PERSON
+Brett Kavanaugh,Donald Trump,MENTIONS_PERSON
+Brett Kavanaugh,George W. Bush,MENTIONS_PERSON
+Brett Kavanaugh,Bill Clinton,MENTIONS_PERSON
+Boris Nikolayevich Yeltsin,Sergei Stepashin,MENTIONS_PERSON
+Boris Nikolayevich Yeltsin,Vladimir Vladimirovich Putin,MENTIONS_PERSON
+Boris Nikolayevich Yeltsin,George H. W. Bush,MENTIONS_PERSON
+Boris Nikolayevich Yeltsin,Bill Clinton,MENTIONS_PERSON
+Boris Nikolayevich Yeltsin,Joachim Gauck,MENTIONS_PERSON
+Dick Cheney,George W. Bush,MENTIONS_PERSON
+Dick Cheney,Joe Biden,MENTIONS_PERSON
+Dick Cheney,George H. W. Bush,MENTIONS_PERSON
+Dick Cheney,John McCain,MENTIONS_PERSON
+Dick Cheney,Sarah Palin,MENTIONS_PERSON
+Dick Cheney,Theodore Roosevelt,MENTIONS_PERSON
+Dick Cheney,Mike Pence,MENTIONS_PERSON
+Dick Cheney,Kamala Harris,MENTIONS_PERSON
+Dick Cheney,JD Vance,MENTIONS_PERSON
+Dmitry Anatolyevich Medvedev,Vladimir Vladimirovich Putin,MENTIONS_PERSON
+Bill Clinton,George H. W. Bush,MENTIONS_PERSON
+Bill Clinton,George W. Bush,MENTIONS_PERSON
+Bill Clinton,Hillary Clinton,MENTIONS_PERSON
+Bill Clinton,John McCain,MENTIONS_PERSON
+Bill Clinton,Ronald Reagan,MENTIONS_PERSON
+Bill Clinton,Boris Yeltsin,MENTIONS_PERSON
+Bill Clinton,John Quincy Adams,MENTIONS_PERSON
+Bill Clinton,Theodore Roosevelt,MENTIONS_PERSON
+Bill Clinton,Barack Obama,MENTIONS_PERSON
+Bill Clinton,Donald Trump,MENTIONS_PERSON
+Bill Clinton,Joe Biden,MENTIONS_PERSON
+Angela Merkel,Horst Köhler,MENTIONS_PERSON
+Angela Merkel,Christian Wulff,MENTIONS_PERSON
+Angela Merkel,Joachim Gauck,MENTIONS_PERSON
+Angela Merkel,Frank-Walter Steinmeier,MENTIONS_PERSON
+Angela Merkel,Guido Westerwelle,MENTIONS_PERSON
+Angela Merkel,Philipp Rösler,MENTIONS_PERSON
+Angela Merkel,Sigmar Gabriel,MENTIONS_PERSON
+Angela Merkel,Olaf Scholz,MENTIONS_PERSON
+Angela Merkel,Wolfgang Schäuble,MENTIONS_PERSON
+Angela Merkel,Helmut Kohl,MENTIONS_PERSON
+Angela Merkel,Ronald Reagan,MENTIONS_PERSON
+Angela Merkel,George H. W. Bush,MENTIONS_PERSON
+Angela Merkel,Bill Clinton,MENTIONS_PERSON
+Angela Merkel,George W. Bush,MENTIONS_PERSON
+Angela Merkel,Rudy Giuliani,MENTIONS_PERSON
+Angela Merkel,Vladimir Vladimirovich Putin,MENTIONS_PERSON
+Angela Merkel,Barack Obama,MENTIONS_PERSON
+Angela Merkel,Mark Zuckerberg,MENTIONS_PERSON
+Angela Merkel,Donald Trump,MENTIONS_PERSON
+Angela Merkel,Maria Ressa,MENTIONS_PERSON
+Angela Merkel,Joe Biden,MENTIONS_PERSON
+Angela Merkel,Kamala Harris,MENTIONS_PERSON
+Barack Obama,Joe Biden,MENTIONS_PERSON
+Barack Obama,George W. Bush,MENTIONS_PERSON
+Barack Obama,Donald Trump,MENTIONS_PERSON
+Barack Obama,Michelle Obama,MENTIONS_PERSON
+Barack Obama,Hillary Clinton,MENTIONS_PERSON
+Barack Obama,John McCain,MENTIONS_PERSON
+Barack Obama,Mitt Romney,MENTIONS_PERSON
+Barack Obama,Bill Clinton,MENTIONS_PERSON
+Barack Obama,Paul Ryan,MENTIONS_PERSON
+Barack Obama,Ronald Reagan,MENTIONS_PERSON
+Barack Obama,Dick Cheney,MENTIONS_PERSON
+Barack Obama,John Quincy Adams,MENTIONS_PERSON
+Barack Obama,Theodore Roosevelt,MENTIONS_PERSON
+Barack Obama,George H. W. Bush,MENTIONS_PERSON
+Barack Obama,Maria Ressa,MENTIONS_PERSON
+Barack Obama,Rudy Giuliani,MENTIONS_PERSON
+Barack Obama,Vladimir Vladimirovich Putin,MENTIONS_PERSON
+Barack Obama,Mark Zuckerberg,MENTIONS_PERSON
+Barack Obama,Angela Merkel,MENTIONS_PERSON
+Barack Obama,Kamala Harris,MENTIONS_PERSON
+Doug Emhoff,Kamala Harris,MENTIONS_PERSON
+Doug Emhoff,Joe Biden,MENTIONS_PERSON
+Guido Westerwelle,Angela Merkel,MENTIONS_PERSON
+Guido Westerwelle,Frank-Walter Steinmeier,MENTIONS_PERSON
+Guido Westerwelle,Philipp Rösler,MENTIONS_PERSON
+Guido Westerwelle,Sigmar Gabriel,MENTIONS_PERSON
+Guido Westerwelle,Olaf Scholz,MENTIONS_PERSON
+Frank-Walter Steinmeier,Angela Merkel,MENTIONS_PERSON
+Frank-Walter Steinmeier,Olaf Scholz,MENTIONS_PERSON
+Frank-Walter Steinmeier,Joachim Gauck,MENTIONS_PERSON
+Frank-Walter Steinmeier,Guido Westerwelle,MENTIONS_PERSON
+Frank-Walter Steinmeier,Sigmar Gabriel,MENTIONS_PERSON
+Frank-Walter Steinmeier,Vladimir Vladimirovich Putin,MENTIONS_PERSON
+Frank-Walter Steinmeier,Horst Köhler,MENTIONS_PERSON
+Frank-Walter Steinmeier,Christian Wulff,MENTIONS_PERSON
+Horst Köhler,Angela Merkel,MENTIONS_PERSON
+Horst Köhler,Christian Wulff,MENTIONS_PERSON
+Donald Trump,JD Vance,MENTIONS_PERSON
+Donald Trump,Joe Biden,MENTIONS_PERSON
+Donald Trump,Mike Pence,MENTIONS_PERSON
+Donald Trump,Barack Obama,MENTIONS_PERSON
+Donald Trump,Ivanka Trump,MENTIONS_PERSON
+Donald Trump,Barron Trump,MENTIONS_PERSON
+Donald Trump,Theodore Roosevelt,MENTIONS_PERSON
+Donald Trump,Vladimir Vladimirovich Putin,MENTIONS_PERSON
+Donald Trump,Hillary Clinton,MENTIONS_PERSON
+Donald Trump,Brett Kavanaugh,MENTIONS_PERSON
+Donald Trump,Ronald Reagan,MENTIONS_PERSON
+Donald Trump,Mitt Romney,MENTIONS_PERSON
+Donald Trump,Bill Clinton,MENTIONS_PERSON
+Donald Trump,George H. W. Bush,MENTIONS_PERSON
+Donald Trump,George W. Bush,MENTIONS_PERSON
+Donald Trump,Paul Ryan,MENTIONS_PERSON
+Donald Trump,Rodrigo Duterte,MENTIONS_PERSON
+Donald Trump,Rudy Giuliani,MENTIONS_PERSON
+Donald Trump,Hunter Biden,MENTIONS_PERSON
+Donald Trump,John Quincy Adams,MENTIONS_PERSON
+Donald Trump,Olaf Scholz,MENTIONS_PERSON
+Donald Trump,Frank-Walter Steinmeier,MENTIONS_PERSON
+Donald Trump,Mark Zuckerberg,MENTIONS_PERSON
+Donald Trump,Angela Merkel,MENTIONS_PERSON
+Donald Trump,Maria Ressa,MENTIONS_PERSON
+Donald Trump,Kamala Harris,MENTIONS_PERSON
+Helmut Kohl,Wolfgang Schäuble,MENTIONS_PERSON
+Helmut Kohl,George H. W. Bush,MENTIONS_PERSON
+Helmut Kohl,Ronald Reagan,MENTIONS_PERSON
+Helmut Kohl,Angela Merkel,MENTIONS_PERSON
+Helmut Kohl,Olaf Scholz,MENTIONS_PERSON
+Helmut Kohl,Joachim Gauck,MENTIONS_PERSON
+George H. W. Bush,Ronald Reagan,MENTIONS_PERSON
+George H. W. Bush,Bill Clinton,MENTIONS_PERSON
+George H. W. Bush,George W. Bush,MENTIONS_PERSON
+George H. W. Bush,John Quincy Adams,MENTIONS_PERSON
+George H. W. Bush,Donald Trump,MENTIONS_PERSON
+George H. W. Bush,Theodore Roosevelt,MENTIONS_PERSON
+George H. W. Bush,Barack Obama,MENTIONS_PERSON
+George H. W. Bush,Joe Biden,MENTIONS_PERSON
+George H. W. Bush,Dick Cheney,MENTIONS_PERSON
+George H. W. Bush,Mike Pence,MENTIONS_PERSON
+George H. W. Bush,Kamala Harris,MENTIONS_PERSON
+George H. W. Bush,JD Vance,MENTIONS_PERSON
+George H. W. Bush,Rudy Giuliani,MENTIONS_PERSON
+George H. W. Bush,Vladimir Vladimirovich Putin,MENTIONS_PERSON
+George H. W. Bush,Mark Zuckerberg,MENTIONS_PERSON
+George H. W. Bush,Angela Merkel,MENTIONS_PERSON
+George H. W. Bush,Maria Ressa,MENTIONS_PERSON
+George W. Bush,Dick Cheney,MENTIONS_PERSON
+George W. Bush,Bill Clinton,MENTIONS_PERSON
+George W. Bush,Barack Obama,MENTIONS_PERSON
+George W. Bush,Rick Perry,MENTIONS_PERSON
+George W. Bush,Laura Bush,MENTIONS_PERSON
+George W. Bush,George H. W. Bush,MENTIONS_PERSON
+George W. Bush,John Quincy Adams,MENTIONS_PERSON
+George W. Bush,Ronald Reagan,MENTIONS_PERSON
+George W. Bush,John McCain,MENTIONS_PERSON
+George W. Bush,Theodore Roosevelt,MENTIONS_PERSON
+George W. Bush,Donald Trump,MENTIONS_PERSON
+George W. Bush,Joe Biden,MENTIONS_PERSON
+JD Vance,Donald Trump,MENTIONS_PERSON
+JD Vance,Kamala Harris,MENTIONS_PERSON
+JD Vance,Joe Biden,MENTIONS_PERSON
+JD Vance,Mike Pence,MENTIONS_PERSON
+JD Vance,Theodore Roosevelt,MENTIONS_PERSON
+JD Vance,George H. W. Bush,MENTIONS_PERSON
+JD Vance,Dick Cheney,MENTIONS_PERSON
+Hunter Biden,Barack Obama,MENTIONS_PERSON
+Hunter Biden,Joe Biden,MENTIONS_PERSON
+Hunter Biden,Donald Trump,MENTIONS_PERSON
+Hunter Biden,Beau Biden,MENTIONS_PERSON
+Hunter Biden,Jill Biden,MENTIONS_PERSON
+Ivanka Trump,Donald Trump,MENTIONS_PERSON
+Ivanka Trump,Hillary Clinton,MENTIONS_PERSON
+Hillary Clinton,Barack Obama,MENTIONS_PERSON
+Hillary Clinton,Bill Clinton,MENTIONS_PERSON
+Hillary Clinton,Laura Bush,MENTIONS_PERSON
+Hillary Clinton,Donald Trump,MENTIONS_PERSON
+Hillary Clinton,Rudy Giuliani,MENTIONS_PERSON
+Hillary Clinton,Joe Biden,MENTIONS_PERSON
+Hillary Clinton,Dmitry Medvedev,MENTIONS_PERSON
+Hillary Clinton,Michelle Obama,MENTIONS_PERSON
+Hillary Clinton,Jill Biden,MENTIONS_PERSON
+Hillary Clinton,John Quincy Adams,MENTIONS_PERSON
+Hillary Clinton,Kamala Harris,MENTIONS_PERSON
+Jerry Brown,Ronald Reagan,MENTIONS_PERSON
+Jerry Brown,Kamala Harris,MENTIONS_PERSON
+Jerry Brown,Mike Pence,MENTIONS_PERSON
+Joachim Gauck,Angela Merkel,MENTIONS_PERSON
+Joachim Gauck,Christian Wulff,MENTIONS_PERSON
+Joachim Gauck,Frank-Walter Steinmeier,MENTIONS_PERSON
+Michael Bloomberg,Rudy Giuliani,MENTIONS_PERSON
+Maria Ressa,Rodrigo Duterte,MENTIONS_PERSON
+Maria Ressa,Theodore Roosevelt,MENTIONS_PERSON
+Maria Ressa,Barack Obama,MENTIONS_PERSON
+Jill Biden,Joe Biden,MENTIONS_PERSON
+Jill Biden,Beau Biden,MENTIONS_PERSON
+Jill Biden,Hunter Biden,MENTIONS_PERSON
+Jill Biden,Michelle Obama,MENTIONS_PERSON
+Jill Biden,Hillary Clinton,MENTIONS_PERSON
+Jill Biden,Laura Bush,MENTIONS_PERSON
+Laura Bush,George W. Bush,MENTIONS_PERSON
+Laura Bush,Hillary Clinton,MENTIONS_PERSON
+Laura Bush,Michelle Obama,MENTIONS_PERSON
+Laura Bush,Jill Biden,MENTIONS_PERSON
+Kamala Harris,Joe Biden,MENTIONS_PERSON
+Kamala Harris,Mike Pence,MENTIONS_PERSON
+Kamala Harris,J.D. Vance,MENTIONS_PERSON
+Kamala Harris,Jerry Brown,MENTIONS_PERSON
+Kamala Harris,Doug Emhoff,MENTIONS_PERSON
+Kamala Harris,Donald Trump,MENTIONS_PERSON
+Kamala Harris,Brett Kavanaugh,MENTIONS_PERSON
+Kamala Harris,Barack Obama,MENTIONS_PERSON
+Kamala Harris,Bill Clinton,MENTIONS_PERSON
+Kamala Harris,Hillary Clinton,MENTIONS_PERSON
+Kamala Harris,Michelle Obama,MENTIONS_PERSON
+Kamala Harris,Theodore Roosevelt,MENTIONS_PERSON
+Kamala Harris,George H. W. Bush,MENTIONS_PERSON
+Kamala Harris,Dick Cheney,MENTIONS_PERSON
+Kamala Harris,JD Vance,MENTIONS_PERSON
+Mike Pence,Donald Trump,MENTIONS_PERSON
+Mike Pence,Joe Biden,MENTIONS_PERSON
+Mike Pence,Kamala Harris,MENTIONS_PERSON
+Mike Pence,Paul Ryan,MENTIONS_PERSON
+Mike Pence,Theodore Roosevelt,MENTIONS_PERSON
+Mike Pence,George H. W. Bush,MENTIONS_PERSON
+Mike Pence,Dick Cheney,MENTIONS_PERSON
+Mike Pence,JD Vance,MENTIONS_PERSON
+Mitt Romney,John McCain,MENTIONS_PERSON
+Mitt Romney,Donald Trump,MENTIONS_PERSON
+Mark Zuckerberg,Rudy Giuliani,MENTIONS_PERSON
+Mark Zuckerberg,George W. Bush,MENTIONS_PERSON
+Mark Zuckerberg,Vladimir Vladimirovich Putin,MENTIONS_PERSON
+Mark Zuckerberg,Barack Obama,MENTIONS_PERSON
+Mark Zuckerberg,Angela Merkel,MENTIONS_PERSON
+Mark Zuckerberg,Donald Trump,MENTIONS_PERSON
+Mark Zuckerberg,Maria Ressa,MENTIONS_PERSON
+Mark Zuckerberg,Joe Biden,MENTIONS_PERSON
+Mark Zuckerberg,Kamala Harris,MENTIONS_PERSON
+Michelle Obama,Barack Obama,MENTIONS_PERSON
+Michelle Obama,Laura Bush,MENTIONS_PERSON
+Michelle Obama,Hillary Clinton,MENTIONS_PERSON
+Michelle Obama,Jill Biden,MENTIONS_PERSON
+Michelle Obama,George W. Bush,MENTIONS_PERSON
+Michelle Obama,Donald Trump,MENTIONS_PERSON
+John McCain,George W. Bush,MENTIONS_PERSON
+John McCain,Barack Obama,MENTIONS_PERSON
+John McCain,Ronald Reagan,MENTIONS_PERSON
+John McCain,George H. W. Bush,MENTIONS_PERSON
+John McCain,Bill Clinton,MENTIONS_PERSON
+John McCain,Mitt Romney,MENTIONS_PERSON
+John McCain,Rudy Giuliani,MENTIONS_PERSON
+John McCain,Sarah Palin,MENTIONS_PERSON
+Paul Ryan,Mitt Romney,MENTIONS_PERSON
+Paul Ryan,Sarah Palin,MENTIONS_PERSON
+Paul Ryan,Mike Pence,MENTIONS_PERSON
+Rick Perry,Donald Trump,MENTIONS_PERSON
+Rick Perry,George W. Bush,MENTIONS_PERSON
+Philipp Rösler,Angela Merkel,MENTIONS_PERSON
+Philipp Rösler,Guido Westerwelle,MENTIONS_PERSON
+Philipp Rösler,Sigmar Gabriel,MENTIONS_PERSON
+Philipp Rösler,Frank-Walter Steinmeier,MENTIONS_PERSON
+Philipp Rösler,Olaf Scholz,MENTIONS_PERSON
+Olaf Scholz,Frank-Walter Steinmeier,MENTIONS_PERSON
+Olaf Scholz,Angela Merkel,MENTIONS_PERSON
+Olaf Scholz,Sigmar Gabriel,MENTIONS_PERSON
+Olaf Scholz,Wolfgang Schäuble,MENTIONS_PERSON
+Olaf Scholz,Joe Biden,MENTIONS_PERSON
+Olaf Scholz,Helmut Kohl,MENTIONS_PERSON
+Olaf Scholz,Donald Trump,MENTIONS_PERSON
+Rodrigo Duterte,Donald Trump,MENTIONS_PERSON
+Rodrigo Duterte,Barack Obama,MENTIONS_PERSON
+Rudy Giuliani,Michael Bloomberg,MENTIONS_PERSON
+Rudy Giuliani,Ronald Reagan,MENTIONS_PERSON
+Rudy Giuliani,Andrew Giuliani,MENTIONS_PERSON
+Sergey Vadimovich Stepashin,Vladimir Vladimirovich Putin,MENTIONS_PERSON
+Sarah Palin,John McCain,MENTIONS_PERSON
+Sarah Palin,Dick Cheney,MENTIONS_PERSON
+Sarah Palin,Paul Ryan,MENTIONS_PERSON
+Sigmar Gabriel,Angela Merkel,MENTIONS_PERSON
+Sigmar Gabriel,Frank-Walter Steinmeier,MENTIONS_PERSON
+Sigmar Gabriel,Philipp Rösler,MENTIONS_PERSON
+Sigmar Gabriel,Olaf Scholz,MENTIONS_PERSON
+Sigmar Gabriel,Christian Wulff,MENTIONS_PERSON
+Sigmar Gabriel,Donald Trump,MENTIONS_PERSON
+Sigmar Gabriel,Guido Westerwelle,MENTIONS_PERSON
+Wolfgang Schäuble,Angela Merkel,MENTIONS_PERSON
+Wolfgang Schäuble,Olaf Scholz,MENTIONS_PERSON
+Wolfgang Schäuble,Helmut Kohl,MENTIONS_PERSON
+Theodore Roosevelt,John Quincy Adams,MENTIONS_PERSON
+Theodore Roosevelt,Ronald Reagan,MENTIONS_PERSON
+Theodore Roosevelt,George H. W. Bush,MENTIONS_PERSON
+Theodore Roosevelt,Bill Clinton,MENTIONS_PERSON
+Theodore Roosevelt,George W. Bush,MENTIONS_PERSON
+Theodore Roosevelt,Barack Obama,MENTIONS_PERSON
+Theodore Roosevelt,Donald Trump,MENTIONS_PERSON
+Theodore Roosevelt,Joe Biden,MENTIONS_PERSON
+Theodore Roosevelt,Dick Cheney,MENTIONS_PERSON
+Theodore Roosevelt,Mike Pence,MENTIONS_PERSON
+Theodore Roosevelt,Kamala Harris,MENTIONS_PERSON
+Theodore Roosevelt,JD Vance,MENTIONS_PERSON
+Vladimir Vladimirovich Putin,Dmitry Medvedev,MENTIONS_PERSON
+Vladimir Vladimirovich Putin,Boris Yeltsin,MENTIONS_PERSON
+Vladimir Vladimirovich Putin,Sergei Stepashin,MENTIONS_PERSON
+Vladimir Vladimirovich Putin,Theodore Roosevelt,MENTIONS_PERSON
+Vladimir Vladimirovich Putin,Donald Trump,MENTIONS_PERSON
+Vladimir Vladimirovich Putin,Hillary Clinton,MENTIONS_PERSON
+Vladimir Vladimirovich Putin,George W. Bush,MENTIONS_PERSON
+Vladimir Vladimirovich Putin,Angela Merkel,MENTIONS_PERSON
+Vladimir Vladimirovich Putin,Laura Bush,MENTIONS_PERSON
+Vladimir Vladimirovich Putin,Barack Obama,MENTIONS_PERSON
+Vladimir Vladimirovich Putin,Ronald Reagan,MENTIONS_PERSON
+Vladimir Vladimirovich Putin,George H. W. Bush,MENTIONS_PERSON
+Vladimir Vladimirovich Putin,Bill Clinton,MENTIONS_PERSON
+Vladimir Vladimirovich Putin,Rudy Giuliani,MENTIONS_PERSON
+Vladimir Vladimirovich Putin,Mark Zuckerberg,MENTIONS_PERSON
+Vladimir Vladimirovich Putin,Maria Ressa,MENTIONS_PERSON
+Vladimir Vladimirovich Putin,Joe Biden,MENTIONS_PERSON
+Vladimir Vladimirovich Putin,Kamala Harris,MENTIONS_PERSON
+Ronald Reagan,George H. W. Bush,MENTIONS_PERSON
+Ronald Reagan,Jerry Brown,MENTIONS_PERSON
+Ronald Reagan,Donald Trump,MENTIONS_PERSON
+Ronald Reagan,Bill Clinton,MENTIONS_PERSON
+Ronald Reagan,Helmut Kohl,MENTIONS_PERSON
+Ronald Reagan,George W. Bush,MENTIONS_PERSON
+Ronald Reagan,Barack Obama,MENTIONS_PERSON
+Ronald Reagan,John McCain,MENTIONS_PERSON
+Ronald Reagan,John Quincy Adams,MENTIONS_PERSON
+Ronald Reagan,Theodore Roosevelt,MENTIONS_PERSON
+Ronald Reagan,Joe Biden,MENTIONS_PERSON
+Joe Biden,Beau Biden,MENTIONS_PERSON
+Joe Biden,Kamala Harris,MENTIONS_PERSON
+Joe Biden,Donald Trump,MENTIONS_PERSON
+Joe Biden,Barack Obama,MENTIONS_PERSON
+Joe Biden,Dick Cheney,MENTIONS_PERSON
+Joe Biden,Mike Pence,MENTIONS_PERSON
+Joe Biden,Jill Biden,MENTIONS_PERSON
+Joe Biden,Hunter Biden,MENTIONS_PERSON
+Joe Biden,John McCain,MENTIONS_PERSON
+Joe Biden,Sarah Palin,MENTIONS_PERSON
+Joe Biden,Mitt Romney,MENTIONS_PERSON
+Joe Biden,Paul Ryan,MENTIONS_PERSON
+Joe Biden,Hillary Clinton,MENTIONS_PERSON
+Joe Biden,George H. W. Bush,MENTIONS_PERSON
+Joe Biden,Ronald Reagan,MENTIONS_PERSON
+Joe Biden,Bill Clinton,MENTIONS_PERSON
+Joe Biden,Theodore Roosevelt,MENTIONS_PERSON
+Joe Biden,JD Vance,MENTIONS_PERSON
+Joe Biden,John Quincy Adams,MENTIONS_PERSON
+Joe Biden,George W. Bush,MENTIONS_PERSON

@@ -1,1 +1,27 @@
 src_university,dst_person,relation
+Trường Dịch vụ Đối ngoại,Bill Clinton,UNI_MENTIONS_PERSON
+Trường Dịch vụ Đối ngoại,Ronald Reagan,UNI_MENTIONS_PERSON
+Trường Dịch vụ Đối ngoại,Donald Trump,UNI_MENTIONS_PERSON
+Trường Dịch vụ Đối ngoại,Barack Obama,UNI_MENTIONS_PERSON
+Học viện Hải quân Hoa Kỳ,John McCain,UNI_MENTIONS_PERSON
+Đại học Columbia,Barack Obama,UNI_MENTIONS_PERSON
+Đại học Columbia,Theodore Roosevelt,UNI_MENTIONS_PERSON
+Đại học Georgetown,Barack Obama,UNI_MENTIONS_PERSON
+Đại học Georgetown,Bill Clinton,UNI_MENTIONS_PERSON
+Đại học Georgetown,Ivanka Trump,UNI_MENTIONS_PERSON
+Đại học Harvard,Donald Trump,UNI_MENTIONS_PERSON
+Đại học Harvard,Barack Obama,UNI_MENTIONS_PERSON
+Đại học Harvard,John Quincy Adams,UNI_MENTIONS_PERSON
+Đại học Harvard,Theodore Roosevelt,UNI_MENTIONS_PERSON
+Đại học Harvard,George W. Bush,UNI_MENTIONS_PERSON
+Đại học Harvard,Michelle Obama,UNI_MENTIONS_PERSON
+Đại học Harvard,Mark Zuckerberg,UNI_MENTIONS_PERSON
+Đại học Pennsylvania,Donald Trump,UNI_MENTIONS_PERSON
+Đại học Oxford,Ronald Reagan,UNI_MENTIONS_PERSON
+Đại học Oxford,Bill Clinton,UNI_MENTIONS_PERSON
+Đại học Miami (Florida),George W. Bush,UNI_MENTIONS_PERSON
+Đại học Yale,Bill Clinton,UNI_MENTIONS_PERSON
+Đại học Yale,George W. Bush,UNI_MENTIONS_PERSON
+Đại học Yale,Jerry Brown,UNI_MENTIONS_PERSON
+Đại học Yale,George H. W. Bush,UNI_MENTIONS_PERSON
+Đại học Yale,Hillary Clinton,UNI_MENTIONS_PERSON

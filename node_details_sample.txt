@@ -1,0 +1,17 @@
+Đang đọc file: D:\university-alumni-graph\graph_out\node_details.json
+Tổng record: 59
+Kiểu data: <class 'list'>
+
+=== 3 record đầu tiên ===
+----
+title: Christian Wulff
+type : person
+link : https://vi.wikipedia.org/wiki/Christian_Wulff
+----
+title: Andrew Giuliani
+type : person
+link : https://vi.wikipedia.org/wiki/Andrew_Giuliani
+----
+title: Bill Clinton
+type : person
+link : https://vi.wikipedia.org/wiki/Bill_Clinton

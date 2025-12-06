@@ -1,1 +1,51 @@
 src_person,dst_person,relation,count
+Beau Biden,Donald Trump,SHARED_UNI,1
+Beau Biden,Ivanka Trump,SHARED_UNI,1
+Donald Trump,Ivanka Trump,SHARED_UNI,1
+Brett Kavanaugh,Dick Cheney,SHARED_UNI,1
+Bill Clinton,Brett Kavanaugh,SHARED_UNI,1
+Brett Kavanaugh,George H. W. Bush,SHARED_UNI,1
+Brett Kavanaugh,George W. Bush,SHARED_UNI,1
+Brett Kavanaugh,JD Vance,SHARED_UNI,1
+Brett Kavanaugh,Hunter Biden,SHARED_UNI,1
+Brett Kavanaugh,Hillary Clinton,SHARED_UNI,1
+Bill Clinton,Dick Cheney,SHARED_UNI,1
+Dick Cheney,George H. W. Bush,SHARED_UNI,1
+Dick Cheney,George W. Bush,SHARED_UNI,1
+Dick Cheney,JD Vance,SHARED_UNI,1
+Dick Cheney,Hunter Biden,SHARED_UNI,1
+Dick Cheney,Hillary Clinton,SHARED_UNI,1
+Bill Clinton,George H. W. Bush,SHARED_UNI,1
+Bill Clinton,George W. Bush,SHARED_UNI,1
+Bill Clinton,JD Vance,SHARED_UNI,1
+Bill Clinton,Hunter Biden,SHARED_UNI,2
+Bill Clinton,Hillary Clinton,SHARED_UNI,1
+George H. W. Bush,George W. Bush,SHARED_UNI,1
+George H. W. Bush,JD Vance,SHARED_UNI,1
+George H. W. Bush,Hunter Biden,SHARED_UNI,1
+George H. W. Bush,Hillary Clinton,SHARED_UNI,1
+George W. Bush,JD Vance,SHARED_UNI,1
+George W. Bush,Hunter Biden,SHARED_UNI,1
+George W. Bush,Hillary Clinton,SHARED_UNI,1
+Hunter Biden,JD Vance,SHARED_UNI,1
+Hillary Clinton,JD Vance,SHARED_UNI,1
+Hillary Clinton,Hunter Biden,SHARED_UNI,1
+Dmitry Anatolyevich Medvedev,Vladimir Vladimirovich Putin,SHARED_UNI,1
+George W. Bush,Michael Bloomberg,SHARED_UNI,1
+George W. Bush,John Quincy Adams,SHARED_UNI,1
+George W. Bush,Mitt Romney,SHARED_UNI,1
+George W. Bush,Michelle Obama,SHARED_UNI,1
+George W. Bush,Theodore Roosevelt,SHARED_UNI,1
+John Quincy Adams,Michael Bloomberg,SHARED_UNI,1
+Michael Bloomberg,Mitt Romney,SHARED_UNI,1
+Michael Bloomberg,Michelle Obama,SHARED_UNI,1
+Michael Bloomberg,Theodore Roosevelt,SHARED_UNI,1
+John Quincy Adams,Mitt Romney,SHARED_UNI,1
+John Quincy Adams,Michelle Obama,SHARED_UNI,1
+John Quincy Adams,Theodore Roosevelt,SHARED_UNI,1
+Michelle Obama,Mitt Romney,SHARED_UNI,1
+Mitt Romney,Theodore Roosevelt,SHARED_UNI,1
+Michelle Obama,Theodore Roosevelt,SHARED_UNI,1
+Maria Ressa,Michelle Obama,SHARED_UNI,1
+Jill Biden,Joe Biden,SHARED_UNI,1
+Olaf Scholz,Wolfgang Schäuble,SHARED_UNI,1

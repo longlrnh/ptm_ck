@@ -1,7 +1,7 @@
 {
-  "max_person_nodes": 10,     
-  "per_depth_limit": 12,      
-  "max_depth": 1,           
-  "candidate_cap": 60,        
-  "sleep": 0.08              
+  "max_person_nodes": 1200,     
+  "per_depth_limit": 180,      
+  "max_depth": 3,           
+  "candidate_cap": 600,        
+  "sleep": 0.05              
 }

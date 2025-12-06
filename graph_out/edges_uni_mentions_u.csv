@@ -1,1 +1,123 @@
 src_university,dst_university,relation
+Trường Dịch vụ Đối ngoại,Đại học Georgetown,UNIVERSITY_MENTIONS_UNIVERSITY
+Trường Dịch vụ Đối ngoại,Đại học Harvard,UNIVERSITY_MENTIONS_UNIVERSITY
+Trường Dịch vụ Đối ngoại,Đại học Columbia,UNIVERSITY_MENTIONS_UNIVERSITY
+"Đại học California, Berkeley",Đại học Harvard,UNIVERSITY_MENTIONS_UNIVERSITY
+"Đại học California, Berkeley",Đại học Oxford,UNIVERSITY_MENTIONS_UNIVERSITY
+"Đại học California, Berkeley",Đại học Stanford,UNIVERSITY_MENTIONS_UNIVERSITY
+"Đại học California, Berkeley",Đại học Texas tại Austin,UNIVERSITY_MENTIONS_UNIVERSITY
+"Đại học California, Berkeley",Đại học Columbia,UNIVERSITY_MENTIONS_UNIVERSITY
+"Đại học California, Berkeley",Đại học Johns Hopkins,UNIVERSITY_MENTIONS_UNIVERSITY
+"Đại học California, Berkeley",Đại học Pennsylvania,UNIVERSITY_MENTIONS_UNIVERSITY
+"Đại học California, Berkeley",Đại học Princeton,UNIVERSITY_MENTIONS_UNIVERSITY
+"Đại học California, Berkeley",Đại học Nam California,UNIVERSITY_MENTIONS_UNIVERSITY
+"Đại học California, Berkeley",Đại học Yale,UNIVERSITY_MENTIONS_UNIVERSITY
+Đại học Duke,Đại học Princeton,UNIVERSITY_MENTIONS_UNIVERSITY
+Đại học Duke,Đại học Harvard,UNIVERSITY_MENTIONS_UNIVERSITY
+Đại học Duke,Đại học Texas tại Austin,UNIVERSITY_MENTIONS_UNIVERSITY
+Đại học Duke,Đại học Columbia,UNIVERSITY_MENTIONS_UNIVERSITY
+Đại học Duke,Đại học Johns Hopkins,UNIVERSITY_MENTIONS_UNIVERSITY
+Đại học Duke,Đại học Pennsylvania,UNIVERSITY_MENTIONS_UNIVERSITY
+Đại học Duke,Đại học Nam California,UNIVERSITY_MENTIONS_UNIVERSITY
+Đại học Duke,Đại học Stanford,UNIVERSITY_MENTIONS_UNIVERSITY
+Đại học Duke,Đại học Yale,UNIVERSITY_MENTIONS_UNIVERSITY
+Đại học Bonn,Đại học Hamburg,UNIVERSITY_MENTIONS_UNIVERSITY
+Đại học Bonn,Đại học Göttingen,UNIVERSITY_MENTIONS_UNIVERSITY
+Đại học Columbia,Đại học Yale,UNIVERSITY_MENTIONS_UNIVERSITY
+Đại học Columbia,Đại học Harvard,UNIVERSITY_MENTIONS_UNIVERSITY
+Đại học Columbia,Đại học Texas tại Austin,UNIVERSITY_MENTIONS_UNIVERSITY
+Đại học Columbia,Đại học Johns Hopkins,UNIVERSITY_MENTIONS_UNIVERSITY
+Đại học Columbia,Đại học Pennsylvania,UNIVERSITY_MENTIONS_UNIVERSITY
+Đại học Columbia,Đại học Princeton,UNIVERSITY_MENTIONS_UNIVERSITY
+Đại học Columbia,Đại học Nam California,UNIVERSITY_MENTIONS_UNIVERSITY
+Đại học Columbia,Đại học Stanford,UNIVERSITY_MENTIONS_UNIVERSITY
+Đại học Columbia,Đại học Georgetown,UNIVERSITY_MENTIONS_UNIVERSITY
+Đại học Columbia,Đại học Oxford,UNIVERSITY_MENTIONS_UNIVERSITY
+Đại học Heidelberg,Đại học Bonn,UNIVERSITY_MENTIONS_UNIVERSITY
+Đại học Heidelberg,Đại học Hamburg,UNIVERSITY_MENTIONS_UNIVERSITY
+Đại học Johns Hopkins,Đại học Harvard,UNIVERSITY_MENTIONS_UNIVERSITY
+Đại học Johns Hopkins,Đại học Texas tại Austin,UNIVERSITY_MENTIONS_UNIVERSITY
+Đại học Johns Hopkins,Đại học Columbia,UNIVERSITY_MENTIONS_UNIVERSITY
+Đại học Johns Hopkins,Đại học Pennsylvania,UNIVERSITY_MENTIONS_UNIVERSITY
+Đại học Johns Hopkins,Đại học Princeton,UNIVERSITY_MENTIONS_UNIVERSITY
+Đại học Johns Hopkins,Đại học Nam California,UNIVERSITY_MENTIONS_UNIVERSITY
+Đại học Johns Hopkins,Đại học Stanford,UNIVERSITY_MENTIONS_UNIVERSITY
+Đại học Johns Hopkins,Đại học Yale,UNIVERSITY_MENTIONS_UNIVERSITY
+Đại học Georgetown,Trường Dịch vụ Đối ngoại,UNIVERSITY_MENTIONS_UNIVERSITY
+Đại học Georgetown,Đại học Harvard,UNIVERSITY_MENTIONS_UNIVERSITY
+Đại học Georgetown,Đại học Columbia,UNIVERSITY_MENTIONS_UNIVERSITY
+Đại học Georgetown,Đại học Johns Hopkins,UNIVERSITY_MENTIONS_UNIVERSITY
+Đại học Georgetown,Đại học Yale,UNIVERSITY_MENTIONS_UNIVERSITY
+Đại học Georgetown,Đại học Princeton,UNIVERSITY_MENTIONS_UNIVERSITY
+Đại học Georgetown,Đại học Stanford,UNIVERSITY_MENTIONS_UNIVERSITY
+Đại học Georgetown,Đại học Pennsylvania,UNIVERSITY_MENTIONS_UNIVERSITY
+Đại học Georgetown,Đại học Oxford,UNIVERSITY_MENTIONS_UNIVERSITY
+Đại học Harvard,Đại học Columbia,UNIVERSITY_MENTIONS_UNIVERSITY
+Đại học Harvard,Đại học Yale,UNIVERSITY_MENTIONS_UNIVERSITY
+Đại học Harvard,Đại học Nam California,UNIVERSITY_MENTIONS_UNIVERSITY
+Đại học Harvard,Đại học Texas tại Austin,UNIVERSITY_MENTIONS_UNIVERSITY
+Đại học Harvard,Đại học Johns Hopkins,UNIVERSITY_MENTIONS_UNIVERSITY
+Đại học Harvard,Đại học Pennsylvania,UNIVERSITY_MENTIONS_UNIVERSITY
+Đại học Harvard,Đại học Princeton,UNIVERSITY_MENTIONS_UNIVERSITY
+Đại học Harvard,Đại học Stanford,UNIVERSITY_MENTIONS_UNIVERSITY
+Đại học Princeton,Đại học Texas tại Austin,UNIVERSITY_MENTIONS_UNIVERSITY
+Đại học Princeton,Đại học Columbia,UNIVERSITY_MENTIONS_UNIVERSITY
+Đại học Princeton,Đại học Harvard,UNIVERSITY_MENTIONS_UNIVERSITY
+Đại học Princeton,Đại học Johns Hopkins,UNIVERSITY_MENTIONS_UNIVERSITY
+Đại học Princeton,Đại học Pennsylvania,UNIVERSITY_MENTIONS_UNIVERSITY
+Đại học Princeton,Đại học Nam California,UNIVERSITY_MENTIONS_UNIVERSITY
+Đại học Princeton,Đại học Stanford,UNIVERSITY_MENTIONS_UNIVERSITY
+Đại học Princeton,Đại học Yale,UNIVERSITY_MENTIONS_UNIVERSITY
+Đại học bang Ohio,Đại học Miami,UNIVERSITY_MENTIONS_UNIVERSITY
+Đại học bang Ohio,Đại học Texas tại Austin,UNIVERSITY_MENTIONS_UNIVERSITY
+Đại học bang Ohio,Đại học Columbia,UNIVERSITY_MENTIONS_UNIVERSITY
+Đại học bang Ohio,Đại học Harvard,UNIVERSITY_MENTIONS_UNIVERSITY
+Đại học bang Ohio,Đại học Johns Hopkins,UNIVERSITY_MENTIONS_UNIVERSITY
+Đại học bang Ohio,Đại học Pennsylvania,UNIVERSITY_MENTIONS_UNIVERSITY
+Đại học bang Ohio,Đại học Princeton,UNIVERSITY_MENTIONS_UNIVERSITY
+Đại học bang Ohio,Đại học Nam California,UNIVERSITY_MENTIONS_UNIVERSITY
+Đại học bang Ohio,Đại học Stanford,UNIVERSITY_MENTIONS_UNIVERSITY
+Đại học bang Ohio,Đại học Yale,UNIVERSITY_MENTIONS_UNIVERSITY
+Đại học Nam California,Đại học Pennsylvania,UNIVERSITY_MENTIONS_UNIVERSITY
+Đại học Nam California,Đại học Stanford,UNIVERSITY_MENTIONS_UNIVERSITY
+Đại học Nam California,Đại học Texas tại Austin,UNIVERSITY_MENTIONS_UNIVERSITY
+Đại học Nam California,Đại học Columbia,UNIVERSITY_MENTIONS_UNIVERSITY
+Đại học Nam California,Đại học Harvard,UNIVERSITY_MENTIONS_UNIVERSITY
+Đại học Nam California,Đại học Johns Hopkins,UNIVERSITY_MENTIONS_UNIVERSITY
+Đại học Nam California,Đại học Princeton,UNIVERSITY_MENTIONS_UNIVERSITY
+Đại học Nam California,Đại học Yale,UNIVERSITY_MENTIONS_UNIVERSITY
+Đại học Pennsylvania,Đại học Columbia,UNIVERSITY_MENTIONS_UNIVERSITY
+Đại học Pennsylvania,Đại học Harvard,UNIVERSITY_MENTIONS_UNIVERSITY
+Đại học Pennsylvania,Đại học Stanford,UNIVERSITY_MENTIONS_UNIVERSITY
+Đại học Pennsylvania,Đại học Texas tại Austin,UNIVERSITY_MENTIONS_UNIVERSITY
+Đại học Pennsylvania,Đại học Johns Hopkins,UNIVERSITY_MENTIONS_UNIVERSITY
+Đại học Pennsylvania,Đại học Princeton,UNIVERSITY_MENTIONS_UNIVERSITY
+Đại học Pennsylvania,Đại học Nam California,UNIVERSITY_MENTIONS_UNIVERSITY
+Đại học Pennsylvania,Đại học Yale,UNIVERSITY_MENTIONS_UNIVERSITY
+Đại học Texas tại Austin,Đại học Columbia,UNIVERSITY_MENTIONS_UNIVERSITY
+Đại học Texas tại Austin,Đại học Harvard,UNIVERSITY_MENTIONS_UNIVERSITY
+Đại học Texas tại Austin,Đại học Johns Hopkins,UNIVERSITY_MENTIONS_UNIVERSITY
+Đại học Texas tại Austin,Đại học Pennsylvania,UNIVERSITY_MENTIONS_UNIVERSITY
+Đại học Texas tại Austin,Đại học Princeton,UNIVERSITY_MENTIONS_UNIVERSITY
+Đại học Texas tại Austin,Đại học Nam California,UNIVERSITY_MENTIONS_UNIVERSITY
+Đại học Texas tại Austin,Đại học Stanford,UNIVERSITY_MENTIONS_UNIVERSITY
+Đại học Texas tại Austin,Đại học Yale,UNIVERSITY_MENTIONS_UNIVERSITY
+Đại học Oxford,Đại học Harvard,UNIVERSITY_MENTIONS_UNIVERSITY
+Đại học Oxford,Đại học Stanford,UNIVERSITY_MENTIONS_UNIVERSITY
+Đại học Stanford,Đại học Harvard,UNIVERSITY_MENTIONS_UNIVERSITY
+Đại học Stanford,Đại học Yale,UNIVERSITY_MENTIONS_UNIVERSITY
+Đại học Stanford,Đại học Princeton,UNIVERSITY_MENTIONS_UNIVERSITY
+Đại học Stanford,Đại học Texas tại Austin,UNIVERSITY_MENTIONS_UNIVERSITY
+Đại học Stanford,Đại học Columbia,UNIVERSITY_MENTIONS_UNIVERSITY
+Đại học Stanford,Đại học Johns Hopkins,UNIVERSITY_MENTIONS_UNIVERSITY
+Đại học Stanford,Đại học Pennsylvania,UNIVERSITY_MENTIONS_UNIVERSITY
+Đại học Stanford,Đại học Nam California,UNIVERSITY_MENTIONS_UNIVERSITY
+Đại học Yale,Đại học Princeton,UNIVERSITY_MENTIONS_UNIVERSITY
+Đại học Yale,Đại học Pennsylvania,UNIVERSITY_MENTIONS_UNIVERSITY
+Đại học Yale,Đại học Oxford,UNIVERSITY_MENTIONS_UNIVERSITY
+Đại học Yale,Đại học Texas tại Austin,UNIVERSITY_MENTIONS_UNIVERSITY
+Đại học Yale,Đại học Columbia,UNIVERSITY_MENTIONS_UNIVERSITY
+Đại học Yale,Đại học Harvard,UNIVERSITY_MENTIONS_UNIVERSITY
+Đại học Yale,Đại học Johns Hopkins,UNIVERSITY_MENTIONS_UNIVERSITY
+Đại học Yale,Đại học Nam California,UNIVERSITY_MENTIONS_UNIVERSITY
+Đại học Yale,Đại học Stanford,UNIVERSITY_MENTIONS_UNIVERSITY

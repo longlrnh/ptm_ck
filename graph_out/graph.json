@@ -1,10 +1,1006 @@
 {
   "persons": [
-    "Natalie Portman"
+    "Andrew Giuliani",
+    "Angela Merkel",
+    "Barack Obama",
+    "Barron Trump",
+    "Beau Biden",
+    "Bill Clinton",
+    "Boris Yeltsin",
+    "Brett Kavanaugh",
+    "Christian Wulff",
+    "Dick Cheney",
+    "Dmitry Medvedev",
+    "Donald Trump",
+    "Doug Emhoff",
+    "Frank-Walter Steinmeier",
+    "George H. W. Bush",
+    "George W. Bush",
+    "Guido Westerwelle",
+    "Helmut Kohl",
+    "Hillary Clinton",
+    "Horst Köhler",
+    "Hunter Biden",
+    "Ivanka Trump",
+    "J.D. Vance",
+    "JD Vance",
+    "Jerry Brown",
+    "Jill Biden",
+    "Joachim Gauck",
+    "Joe Biden",
+    "John McCain",
+    "John Quincy Adams",
+    "Kamala Harris",
+    "Laura Bush",
+    "Maria Ressa",
+    "Mark Zuckerberg",
+    "Michael Bloomberg",
+    "Michelle Obama",
+    "Mike Pence",
+    "Mitt Romney",
+    "Olaf Scholz",
+    "Paul Ryan",
+    "Philipp Rösler",
+    "Rick Perry",
+    "Rodrigo Duterte",
+    "Ronald Reagan",
+    "Rudy Giuliani",
+    "Sarah Palin",
+    "Sergei Stepashin",
+    "Sigmar Gabriel",
+    "Theodore Roosevelt",
+    "Vladimir Vladimirovich Putin",
+    "Wolfgang Schäuble"
   ],
-  "universities": [],
-  "edges_up": [],
-  "edges_shared": [],
+  "universities": [
+    "Duke University",
+    "Hanover College",
+    "Học viện Hải quân Hoa Kỳ",
+    "Indiana University Robert H. McKinney School of Law",
+    "New York University",
+    "Texas A&M University",
+    "Trường Dịch vụ Đối ngoại",
+    "Trường Luật Hastings",
+    "Trường luật San Beda",
+    "Trường Đại học Philippines",
+    "University of California, Berkeley",
+    "Viện Chính trị Quân sự Lenin",
+    "Đại học",
+    "Đại học Bang Ohio",
+    "Đại học Bonn",
+    "Đại học Columbia",
+    "Đại học Công nghệ Quốc gia Ural",
+    "Đại học Delaware",
+    "Đại học Eureka",
+    "Đại học Freiburg",
+    "Đại học Georgetown",
+    "Đại học Giessen",
+    "Đại học Göttingen",
+    "Đại học Hamburg",
+    "Đại học Harvard",
+    "Đại học Heidelberg",
+    "Đại học Howard",
+    "Đại học Idaho",
+    "Đại học Johns Hopkins",
+    "Đại học Leipzig",
+    "Đại học Miami",
+    "Đại học Nam California",
+    "Đại học Osnabrück",
+    "Đại học Oxford",
+    "Đại học Pennsylvania",
+    "Đại học Princeton",
+    "Đại học Rostock",
+    "Đại học Stanford",
+    "Đại học Texas tại Austin",
+    "Đại học Tài chính thuộc Chính phủ Liên bang Nga",
+    "Đại học Tübingen",
+    "Đại học Tổng hợp Sankt-Peterburg",
+    "Đại học Villanova",
+    "Đại học Wyoming",
+    "Đại học Y khoa Hannover",
+    "Đại học Yale"
+  ],
+  "edges_up": [
+    [
+      "New York University",
+      "Rudy Giuliani",
+      "ALUMNI_OF",
+      ""
+    ],
+    [
+      "Đại học Princeton",
+      "Maria Ressa",
+      "ALUMNI_OF",
+      ""
+    ],
+    [
+      "Đại học Yale",
+      "George W. Bush",
+      "ALUMNI_OF",
+      ""
+    ],
+    [
+      "Đại học Harvard",
+      "George W. Bush",
+      "ALUMNI_OF",
+      ""
+    ],
+    [
+      "Đại học Leipzig",
+      "Angela Merkel",
+      "ALUMNI_OF",
+      ""
+    ],
+    [
+      "Đại học Tổng hợp Sankt-Peterburg",
+      "Vladimir Vladimirovich Putin",
+      "ALUMNI_OF",
+      ""
+    ],
+    [
+      "Đại học Columbia",
+      "Barack Obama",
+      "ALUMNI_OF",
+      ""
+    ],
+    [
+      "Đại học Harvard",
+      "Barack Obama",
+      "ALUMNI_OF",
+      ""
+    ],
+    [
+      "Đại học Delaware",
+      "Joe Biden",
+      "ALUMNI_OF",
+      ""
+    ],
+    [
+      "Đại học Pennsylvania",
+      "Donald Trump",
+      "ALUMNI_OF",
+      ""
+    ],
+    [
+      "Đại học Howard",
+      "Kamala Harris",
+      "ALUMNI_OF",
+      ""
+    ],
+    [
+      "Trường Luật Hastings",
+      "Kamala Harris",
+      "ALUMNI_OF",
+      ""
+    ],
+    [
+      "Đại học Johns Hopkins",
+      "Michael Bloomberg",
+      "ALUMNI_OF",
+      ""
+    ],
+    [
+      "Đại học",
+      "Michael Bloomberg",
+      "ALUMNI_OF",
+      ""
+    ],
+    [
+      "Đại học Harvard",
+      "Michael Bloomberg",
+      "ALUMNI_OF",
+      ""
+    ],
+    [
+      "Duke University",
+      "Andrew Giuliani",
+      "ALUMNI_OF",
+      ""
+    ],
+    [
+      "Đại học Eureka",
+      "Ronald Reagan",
+      "ALUMNI_OF",
+      ""
+    ],
+    [
+      "Trường Đại học Philippines",
+      "Rodrigo Duterte",
+      "ALUMNI_OF",
+      ""
+    ],
+    [
+      "Trường luật San Beda",
+      "Rodrigo Duterte",
+      "ALUMNI_OF",
+      ""
+    ],
+    [
+      "Đại học Harvard",
+      "Theodore Roosevelt",
+      "ALUMNI_OF",
+      ""
+    ],
+    [
+      "Đại học Yale",
+      "Dick Cheney",
+      "ALUMNI_OF",
+      ""
+    ],
+    [
+      "Đại học Wyoming",
+      "Dick Cheney",
+      "ALUMNI_OF",
+      ""
+    ],
+    [
+      "Texas A&M University",
+      "Rick Perry",
+      "ALUMNI_OF",
+      ""
+    ],
+    [
+      "Đại học Georgetown",
+      "Bill Clinton",
+      "ALUMNI_OF",
+      ""
+    ],
+    [
+      "Trường Dịch vụ Đối ngoại",
+      "Bill Clinton",
+      "ALUMNI_OF",
+      ""
+    ],
+    [
+      "Đại học Oxford",
+      "Bill Clinton",
+      "ALUMNI_OF",
+      ""
+    ],
+    [
+      "Đại học Oxford",
+      "Bill Clinton",
+      "ALUMNI_OF",
+      ""
+    ],
+    [
+      "Đại học Yale",
+      "Bill Clinton",
+      "ALUMNI_OF",
+      ""
+    ],
+    [
+      "Đại học Yale",
+      "George H. W. Bush",
+      "ALUMNI_OF",
+      ""
+    ],
+    [
+      "Đại học Harvard",
+      "John Quincy Adams",
+      "ALUMNI_OF",
+      ""
+    ],
+    [
+      "Đại học Texas tại Austin",
+      "Laura Bush",
+      "ALUMNI_OF",
+      ""
+    ],
+    [
+      "Đại học Osnabrück",
+      "Christian Wulff",
+      "ALUMNI_OF",
+      ""
+    ],
+    [
+      "Đại học Tübingen",
+      "Horst Köhler",
+      "ALUMNI_OF",
+      ""
+    ],
+    [
+      "Đại học Rostock",
+      "Joachim Gauck",
+      "ALUMNI_OF",
+      ""
+    ],
+    [
+      "Đại học Bonn",
+      "Guido Westerwelle",
+      "ALUMNI_OF",
+      ""
+    ],
+    [
+      "Đại học Giessen",
+      "Frank-Walter Steinmeier",
+      "ALUMNI_OF",
+      ""
+    ],
+    [
+      "Đại học Y khoa Hannover",
+      "Philipp Rösler",
+      "ALUMNI_OF",
+      ""
+    ],
+    [
+      "Đại học Freiburg",
+      "Wolfgang Schäuble",
+      "ALUMNI_OF",
+      ""
+    ],
+    [
+      "Đại học Hamburg",
+      "Wolfgang Schäuble",
+      "ALUMNI_OF",
+      ""
+    ],
+    [
+      "Đại học Heidelberg",
+      "Helmut Kohl",
+      "ALUMNI_OF",
+      ""
+    ],
+    [
+      "Đại học Hamburg",
+      "Olaf Scholz",
+      "ALUMNI_OF",
+      ""
+    ],
+    [
+      "Đại học Göttingen",
+      "Sigmar Gabriel",
+      "ALUMNI_OF",
+      ""
+    ],
+    [
+      "Đại học Tổng hợp Sankt-Peterburg",
+      "Dmitry Medvedev",
+      "ALUMNI_OF",
+      ""
+    ],
+    [
+      "Viện Chính trị Quân sự Lenin",
+      "Sergei Stepashin",
+      "ALUMNI_OF",
+      ""
+    ],
+    [
+      "Đại học Tài chính thuộc Chính phủ Liên bang Nga",
+      "Sergei Stepashin",
+      "ALUMNI_OF",
+      ""
+    ],
+    [
+      "Đại học Công nghệ Quốc gia Ural",
+      "Boris Yeltsin",
+      "ALUMNI_OF",
+      ""
+    ],
+    [
+      "Đại học Princeton",
+      "Michelle Obama",
+      "ALUMNI_OF",
+      ""
+    ],
+    [
+      "Đại học Harvard",
+      "Michelle Obama",
+      "ALUMNI_OF",
+      ""
+    ],
+    [
+      "Đại học Pennsylvania",
+      "Beau Biden",
+      "ALUMNI_OF",
+      ""
+    ],
+    [
+      "Đại học Yale",
+      "Hillary Clinton",
+      "ALUMNI_OF",
+      ""
+    ],
+    [
+      "Hanover College",
+      "Mike Pence",
+      "ALUMNI_OF",
+      ""
+    ],
+    [
+      "Indiana University Robert H. McKinney School of Law",
+      "Mike Pence",
+      "ALUMNI_OF",
+      ""
+    ],
+    [
+      "Học viện Hải quân Hoa Kỳ",
+      "John McCain",
+      "ALUMNI_OF",
+      ""
+    ],
+    [
+      "Đại học Georgetown",
+      "Hunter Biden",
+      "ALUMNI_OF",
+      ""
+    ],
+    [
+      "Đại học Yale",
+      "Hunter Biden",
+      "ALUMNI_OF",
+      ""
+    ],
+    [
+      "Đại học Delaware",
+      "Jill Biden",
+      "ALUMNI_OF",
+      ""
+    ],
+    [
+      "Đại học Villanova",
+      "Jill Biden",
+      "ALUMNI_OF",
+      ""
+    ],
+    [
+      "Đại học Stanford",
+      "Mitt Romney",
+      "ALUMNI_OF",
+      ""
+    ],
+    [
+      "Đại học Harvard",
+      "Mitt Romney",
+      "ALUMNI_OF",
+      ""
+    ],
+    [
+      "Đại học Miami",
+      "Paul Ryan",
+      "ALUMNI_OF",
+      ""
+    ],
+    [
+      "Đại học Idaho",
+      "Sarah Palin",
+      "ALUMNI_OF",
+      ""
+    ],
+    [
+      "Đại học Bang Ohio",
+      "JD Vance",
+      "ALUMNI_OF",
+      ""
+    ],
+    [
+      "Đại học Yale",
+      "JD Vance",
+      "ALUMNI_OF",
+      ""
+    ],
+    [
+      "Đại học Pennsylvania",
+      "Barron Trump",
+      "ALUMNI_OF",
+      ""
+    ],
+    [
+      "Đại học Pennsylvania",
+      "Ivanka Trump",
+      "ALUMNI_OF",
+      ""
+    ],
+    [
+      "Đại học Bang Ohio",
+      "J.D. Vance",
+      "ALUMNI_OF",
+      ""
+    ],
+    [
+      "Đại học Yale",
+      "J.D. Vance",
+      "ALUMNI_OF",
+      ""
+    ],
+    [
+      "Đại học Nam California",
+      "Doug Emhoff",
+      "ALUMNI_OF",
+      ""
+    ],
+    [
+      "University of California, Berkeley",
+      "Jerry Brown",
+      "ALUMNI_OF",
+      ""
+    ],
+    [
+      "Đại học Yale",
+      "Jerry Brown",
+      "ALUMNI_OF",
+      ""
+    ],
+    [
+      "Đại học Yale",
+      "Brett Kavanaugh",
+      "ALUMNI_OF",
+      ""
+    ]
+  ],
+  "edges_shared": [
+    [
+      "Maria Ressa",
+      "Michelle Obama",
+      "SHARED_UNI",
+      1
+    ],
+    [
+      "Bill Clinton",
+      "Jerry Brown",
+      "SHARED_UNI",
+      1
+    ],
+    [
+      "George H. W. Bush",
+      "Jerry Brown",
+      "SHARED_UNI",
+      1
+    ],
+    [
+      "Hillary Clinton",
+      "Jerry Brown",
+      "SHARED_UNI",
+      1
+    ],
+    [
+      "Dick Cheney",
+      "Jerry Brown",
+      "SHARED_UNI",
+      1
+    ],
+    [
+      "Hunter Biden",
+      "Jerry Brown",
+      "SHARED_UNI",
+      1
+    ],
+    [
+      "J.D. Vance",
+      "Jerry Brown",
+      "SHARED_UNI",
+      1
+    ],
+    [
+      "JD Vance",
+      "Jerry Brown",
+      "SHARED_UNI",
+      1
+    ],
+    [
+      "George W. Bush",
+      "Jerry Brown",
+      "SHARED_UNI",
+      1
+    ],
+    [
+      "Brett Kavanaugh",
+      "Jerry Brown",
+      "SHARED_UNI",
+      1
+    ],
+    [
+      "Bill Clinton",
+      "George H. W. Bush",
+      "SHARED_UNI",
+      1
+    ],
+    [
+      "Bill Clinton",
+      "Hillary Clinton",
+      "SHARED_UNI",
+      1
+    ],
+    [
+      "Bill Clinton",
+      "Dick Cheney",
+      "SHARED_UNI",
+      1
+    ],
+    [
+      "Bill Clinton",
+      "Hunter Biden",
+      "SHARED_UNI",
+      2
+    ],
+    [
+      "Bill Clinton",
+      "J.D. Vance",
+      "SHARED_UNI",
+      1
+    ],
+    [
+      "Bill Clinton",
+      "JD Vance",
+      "SHARED_UNI",
+      1
+    ],
+    [
+      "Bill Clinton",
+      "George W. Bush",
+      "SHARED_UNI",
+      1
+    ],
+    [
+      "Bill Clinton",
+      "Brett Kavanaugh",
+      "SHARED_UNI",
+      1
+    ],
+    [
+      "George H. W. Bush",
+      "Hillary Clinton",
+      "SHARED_UNI",
+      1
+    ],
+    [
+      "Dick Cheney",
+      "George H. W. Bush",
+      "SHARED_UNI",
+      1
+    ],
+    [
+      "George H. W. Bush",
+      "Hunter Biden",
+      "SHARED_UNI",
+      1
+    ],
+    [
+      "George H. W. Bush",
+      "J.D. Vance",
+      "SHARED_UNI",
+      1
+    ],
+    [
+      "George H. W. Bush",
+      "JD Vance",
+      "SHARED_UNI",
+      1
+    ],
+    [
+      "George H. W. Bush",
+      "George W. Bush",
+      "SHARED_UNI",
+      1
+    ],
+    [
+      "Brett Kavanaugh",
+      "George H. W. Bush",
+      "SHARED_UNI",
+      1
+    ],
+    [
+      "Dick Cheney",
+      "Hillary Clinton",
+      "SHARED_UNI",
+      1
+    ],
+    [
+      "Hillary Clinton",
+      "Hunter Biden",
+      "SHARED_UNI",
+      1
+    ],
+    [
+      "Hillary Clinton",
+      "J.D. Vance",
+      "SHARED_UNI",
+      1
+    ],
+    [
+      "Hillary Clinton",
+      "JD Vance",
+      "SHARED_UNI",
+      1
+    ],
+    [
+      "George W. Bush",
+      "Hillary Clinton",
+      "SHARED_UNI",
+      1
+    ],
+    [
+      "Brett Kavanaugh",
+      "Hillary Clinton",
+      "SHARED_UNI",
+      1
+    ],
+    [
+      "Dick Cheney",
+      "Hunter Biden",
+      "SHARED_UNI",
+      1
+    ],
+    [
+      "Dick Cheney",
+      "J.D. Vance",
+      "SHARED_UNI",
+      1
+    ],
+    [
+      "Dick Cheney",
+      "JD Vance",
+      "SHARED_UNI",
+      1
+    ],
+    [
+      "Dick Cheney",
+      "George W. Bush",
+      "SHARED_UNI",
+      1
+    ],
+    [
+      "Brett Kavanaugh",
+      "Dick Cheney",
+      "SHARED_UNI",
+      1
+    ],
+    [
+      "Hunter Biden",
+      "J.D. Vance",
+      "SHARED_UNI",
+      1
+    ],
+    [
+      "Hunter Biden",
+      "JD Vance",
+      "SHARED_UNI",
+      1
+    ],
+    [
+      "George W. Bush",
+      "Hunter Biden",
+      "SHARED_UNI",
+      1
+    ],
+    [
+      "Brett Kavanaugh",
+      "Hunter Biden",
+      "SHARED_UNI",
+      1
+    ],
+    [
+      "J.D. Vance",
+      "JD Vance",
+      "SHARED_UNI",
+      2
+    ],
+    [
+      "George W. Bush",
+      "J.D. Vance",
+      "SHARED_UNI",
+      1
+    ],
+    [
+      "Brett Kavanaugh",
+      "J.D. Vance",
+      "SHARED_UNI",
+      1
+    ],
+    [
+      "George W. Bush",
+      "JD Vance",
+      "SHARED_UNI",
+      1
+    ],
+    [
+      "Brett Kavanaugh",
+      "JD Vance",
+      "SHARED_UNI",
+      1
+    ],
+    [
+      "Brett Kavanaugh",
+      "George W. Bush",
+      "SHARED_UNI",
+      1
+    ],
+    [
+      "Mitt Romney",
+      "Theodore Roosevelt",
+      "SHARED_UNI",
+      1
+    ],
+    [
+      "Michael Bloomberg",
+      "Mitt Romney",
+      "SHARED_UNI",
+      1
+    ],
+    [
+      "Barack Obama",
+      "Mitt Romney",
+      "SHARED_UNI",
+      1
+    ],
+    [
+      "Michelle Obama",
+      "Mitt Romney",
+      "SHARED_UNI",
+      1
+    ],
+    [
+      "John Quincy Adams",
+      "Mitt Romney",
+      "SHARED_UNI",
+      1
+    ],
+    [
+      "George W. Bush",
+      "Mitt Romney",
+      "SHARED_UNI",
+      1
+    ],
+    [
+      "Michael Bloomberg",
+      "Theodore Roosevelt",
+      "SHARED_UNI",
+      1
+    ],
+    [
+      "Barack Obama",
+      "Theodore Roosevelt",
+      "SHARED_UNI",
+      1
+    ],
+    [
+      "Michelle Obama",
+      "Theodore Roosevelt",
+      "SHARED_UNI",
+      1
+    ],
+    [
+      "John Quincy Adams",
+      "Theodore Roosevelt",
+      "SHARED_UNI",
+      1
+    ],
+    [
+      "George W. Bush",
+      "Theodore Roosevelt",
+      "SHARED_UNI",
+      1
+    ],
+    [
+      "Barack Obama",
+      "Michael Bloomberg",
+      "SHARED_UNI",
+      1
+    ],
+    [
+      "Michael Bloomberg",
+      "Michelle Obama",
+      "SHARED_UNI",
+      1
+    ],
+    [
+      "John Quincy Adams",
+      "Michael Bloomberg",
+      "SHARED_UNI",
+      1
+    ],
+    [
+      "George W. Bush",
+      "Michael Bloomberg",
+      "SHARED_UNI",
+      1
+    ],
+    [
+      "Barack Obama",
+      "Michelle Obama",
+      "SHARED_UNI",
+      1
+    ],
+    [
+      "Barack Obama",
+      "John Quincy Adams",
+      "SHARED_UNI",
+      1
+    ],
+    [
+      "Barack Obama",
+      "George W. Bush",
+      "SHARED_UNI",
+      1
+    ],
+    [
+      "John Quincy Adams",
+      "Michelle Obama",
+      "SHARED_UNI",
+      1
+    ],
+    [
+      "George W. Bush",
+      "Michelle Obama",
+      "SHARED_UNI",
+      1
+    ],
+    [
+      "George W. Bush",
+      "John Quincy Adams",
+      "SHARED_UNI",
+      1
+    ],
+    [
+      "Dmitry Medvedev",
+      "Vladimir Vladimirovich Putin",
+      "SHARED_UNI",
+      1
+    ],
+    [
+      "Jill Biden",
+      "Joe Biden",
+      "SHARED_UNI",
+      1
+    ],
+    [
+      "Barron Trump",
+      "Donald Trump",
+      "SHARED_UNI",
+      1
+    ],
+    [
+      "Barron Trump",
+      "Ivanka Trump",
+      "SHARED_UNI",
+      1
+    ],
+    [
+      "Barron Trump",
+      "Beau Biden",
+      "SHARED_UNI",
+      1
+    ],
+    [
+      "Donald Trump",
+      "Ivanka Trump",
+      "SHARED_UNI",
+      1
+    ],
+    [
+      "Beau Biden",
+      "Donald Trump",
+      "SHARED_UNI",
+      1
+    ],
+    [
+      "Beau Biden",
+      "Ivanka Trump",
+      "SHARED_UNI",
+      1
+    ],
+    [
+      "Bill Clinton",
+      "Hunter Biden",
+      "SHARED_UNI",
+      2
+    ],
+    [
+      "Olaf Scholz",
+      "Wolfgang Schäuble",
+      "SHARED_UNI",
+      1
+    ],
+    [
+      "J.D. Vance",
+      "JD Vance",
+      "SHARED_UNI",
+      2
+    ]
+  ],
   "edges_same_grad": [],
-  "depth_stats": {}
+  "depth_stats": {
+    "1": 9,
+    "2": 41
+  }
 }

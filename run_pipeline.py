@@ -1,11 +1,12 @@
 # -*- coding: utf-8 -*-
 """
-run_pipeline_clean.py
+run_pipeline.py
 - Step 1: Crawl links/info cho ROOTS (append nếu thiếu)
 - Step 2: Build seeds/edges multi-root (ép chạy lại nếu cần)
 - Step 3: BFS mở rộng
 - Step 4: Enrich + export node_details & edges (KHÔNG LINKS_TO)
-- Step 5: Clean output — tập kết quả cuối cùng (edges, node details, graph.json, node props) phục vụ import và trực quan hóa.
+- Step 5: Clean output — tập kết quả cuối cùng (edges, node details, graph.json, node props)
+- Step 6: Export thêm các file nodes/relationships dạng Neo4j-friendly (neo4j_nodes_*, neo4j_rel_*)
 """
 
 import os, sys, subprocess, json, tempfile, shutil
@@ -18,7 +19,7 @@ from utils_wiki import normalize
 OUT = "graph_out"
 ROOTS = [
   # People
-  "Natalie Portman"
+  "Mark Zuckerberg"
   # Universities
 ]
 
@@ -32,7 +33,7 @@ STEP4_TIMEOUT = "6.0"
 
 # Chỉ giữ lại các file này sau Step 5
 KEEP_FILES = {
-    # edges
+    # edges gốc
     "edges_alumni_pu.csv",
     "edges_mentions_pp.csv",
     "edges_mentions_pu.csv",
@@ -43,9 +44,18 @@ KEEP_FILES = {
     "graph.json",
     "node_details.csv",
     "node_details.json",
-    # node props
+    # node props (infobox JSON, phục vụ enrich sau này)
     "nodes_persons_props.csv",
     "nodes_universities_props.csv",
+    # === Neo4j-friendly files (Step 6) ===
+    "neo4j_nodes_person.csv",
+    "neo4j_nodes_university.csv",
+    "neo4j_rel_alumni_of.csv",
+    "neo4j_rel_shared_university.csv",
+    "neo4j_rel_person_mentions_person.csv",
+    "neo4j_rel_person_mentions_university.csv",
+    "neo4j_rel_university_mentions_person.csv",
+    "neo4j_rel_university_mentions_university.csv",
 }
 
 # =============================
@@ -98,7 +108,7 @@ def run_cmd(cmd, desc=None):
 # ====== START PIPELINE =======
 # =============================
 
-print("=== CLEAN PIPELINE: Step1 → Step2 → Step3 → Step4 → Step5 ===")
+print("=== CLEAN PIPELINE: Step1 → Step2 → Step3 → Step4 → Step5 → Step6 ===")
 
 # 🧹 CLEAN OUTPUT
 if FORCE_CLEAN and os.path.exists(OUT):
@@ -107,7 +117,7 @@ if FORCE_CLEAN and os.path.exists(OUT):
 os.makedirs(OUT, exist_ok=True)
 
 # ---------- PHASE 1 ----------
-print("\n[PHASE 1/5] Step 1 — Crawl links & info (append nếu thiếu)")
+print("\n[PHASE 1/6] Step 1 — Crawl links & info (append nếu thiếu)")
 
 links_df = load_links_df()
 info_list = load_info_list()
@@ -132,7 +142,7 @@ for i, title in enumerate(ROOTS, 1):
 print(f"  ✓ links.csv rows = {links_df.shape[0]} | info.json roots = {len(info_list)}")
 
 # ---------- PHASE 2 ----------
-print("\n[PHASE 2/5] Step 2 — Build seeds & edges (multi-root)")
+print("\n[PHASE 2/6] Step 2 — Build seeds & edges (multi-root)")
 
 all_seeds = []
 all_person_edges = []
@@ -214,7 +224,7 @@ if root_nodes_df.empty:
         print(f"  🔁 rescued root_nodes.csv with {len(rows)} rows")
 
 # ---------- PHASE 3 ----------
-print("\n[PHASE 3/5] Step 3 — BFS mở rộng → graph_out/")
+print("\n[PHASE 3/6] Step 3 — BFS mở rộng → graph_out/")
 
 step3_cmd = [
     sys.executable, "-u", "step3_bfs_expand.py",
@@ -233,7 +243,7 @@ run_cmd(step3_cmd, desc=None)
 print("\n  ✓ Step 3 hoàn tất")
 
 # ---------- PHASE 4 ----------
-print("\n[PHASE 4/5] Step 4 — Enrich + export node_details & edges (no LINKS_TO)")
+print("\n[PHASE 4/6] Step 4 — Enrich + export node_details & edges (no LINKS_TO)")
 
 step4_cmd = [
     sys.executable, "-u", "step4_enrich_full.py",
@@ -258,8 +268,18 @@ for fn in [
     print(f"    - {fn} {'(OK)' if os.path.exists(p) else '(MISSING!)'}")
 
 # ---------- PHASE 5 ----------
-print("\n[PHASE 5/5] Clean output — chỉ giữ file cần thiết để import Neo4j")
+print("\n[PHASE 5/6] Step 5 — Clean output — chỉ giữ file cần thiết để import / phân tích")
 
 run_cmd([sys.executable, "-u", "step5_clean.py", "--outdir", OUT])
 
-print("\n✅ DONE. Các file dữ liệu cuối cùng trong graph_out/ (edges, node details, graph.json, node props).")
+# ---------- PHASE 6 ----------
+print("\n[PHASE 6/6] Step 6 — Export Neo4j-friendly nodes & relationships")
+
+run_cmd([sys.executable, "-u", "step6_export_neo4j.py", "--outdir", OUT])
+
+print("\n✅ DONE. Các file dữ liệu cuối cùng trong graph_out/:")
+print("  - edges_*.csv (edges gốc)")
+print("  - node_details.(csv|json)")
+print("  - nodes_*_props.csv")
+print("  - neo4j_nodes_*.csv (node cho Neo4j)")
+print("  - neo4j_rel_*.csv   (cạnh cho Neo4j)")
