@@ -10,19 +10,20 @@ Sinh cạnh (edges) từ các file CLEAN:
 - neo4j_nodes_university_clean.csv
 
 Quan hệ được tạo:
-- alumni_of       : Person -> University
-- same_university : Person <-> Person
-- parent_of       : Person -> Person
-- predecessor_of  : Person -> Person
-- successor_of    : Person -> Person
-- spouse_of       : Person <-> Person (nếu match được)
-- same_party      : Person <-> Person (nếu có dữ liệu 'party')
-- same_country    : University <-> University (dùng cột 'country')
-- link_to         : MỌI cạnh "mention gốc" từ Step6:
-                    + Person  -> Person
-                    + Person  -> University
-                    + Univ    -> Person
-                    + Univ    -> Univ
+- alumni_of         : Person -> University
+- same_university   : Person <-> Person
+- parent_of         : Person -> Person
+- predecessor_of    : Person -> Person
+- successor_of      : Person -> Person
+- spouse_of         : Person <-> Person (nếu match được)
+- same_party        : Person <-> Person (nếu có dữ liệu 'party')
+- same_nationality  : Person <-> Person (cùng quốc tịch)
+- same_country      : University <-> University (dùng cột 'country')
+- link_to           : MỌI cạnh "mention gốc" từ Step6:
+                      + Person  -> Person
+                      + Person  -> University
+                      + Univ    -> Person
+                      + Univ    -> Univ
 
 Output:
 - graph_out/neo4j_edges_clean.csv
@@ -51,7 +52,7 @@ def load_csv(path: Path) -> List[Dict[str, str]]:
     return out
 
 def split_candidates(s: str) -> List[str]:
-    """Tách 1 ô chứa nhiều tên thành list candidate."""
+    """Tách 1 ô chứa nhiều tên (hoặc nhiều giá trị) thành list candidate."""
     if not s:
         return []
     s = normalize(s)
@@ -294,7 +295,43 @@ def extract_same_party_edges(persons: List[Dict[str, str]]) -> List[Edge]:
     return edges
 
 # -------------------------------
-# 7) same_country giữa University
+# 7) same_nationality giữa Person
+# -------------------------------
+
+def extract_same_nationality_edges(persons: List[Dict[str, str]]) -> List[Edge]:
+    """
+    Hai Person cùng quốc tịch (hoặc citizenship) → same_nationality (2 chiều).
+    Ưu tiên cột 'nationality', nếu trống thì dùng 'citizenship' (nếu có).
+    """
+    nat_to_ids: Dict[str, List[str]] = {}
+
+    for p in persons:
+        pid = p["id"]
+        raw_nat = (p.get("nationality") or p.get("citizenship") or "").strip()
+        if not raw_nat:
+            continue
+        # cho phép nhiều quốc tịch, tách giống split_candidates
+        tokens = split_candidates(raw_nat)
+        for t in tokens:
+            nat = normalize(t)
+            if not nat:
+                continue
+            nat_to_ids.setdefault(nat, []).append(pid)
+
+    edges: List[Edge] = []
+    for nat, plist in nat_to_ids.items():
+        if len(plist) < 2:
+            continue
+        for i in range(len(plist)):
+            for j in range(i + 1, len(plist)):
+                a, b = plist[i], plist[j]
+                edges.append((a, "Person", b, "Person", "same_nationality"))
+                edges.append((b, "Person", a, "Person", "same_nationality"))
+
+    return edges
+
+# -------------------------------
+# 8) same_country giữa University
 # -------------------------------
 
 def extract_same_country_edges(universities: List[Dict[str, str]]) -> Tuple[List[Edge], int]:
@@ -329,7 +366,7 @@ def extract_same_country_edges(universities: List[Dict[str, str]]) -> Tuple[List
     return edges, len(id_to_country)
 
 # -------------------------------
-# 8) link_to từ các cạnh mention gốc (Step6)
+# 9) link_to từ các cạnh mention gốc (Step6)
 # -------------------------------
 
 def extract_link_to_edges_from_mentions(root: Path) -> List[Edge]:
@@ -407,35 +444,39 @@ def main():
 
     # 1) alumni_of
     alumni_edges = extract_alumni_edges(persons, universities)
-    log(f"[Step9] alumni_of edges      : {len(alumni_edges)}")
+    log(f"[Step9] alumni_of edges        : {len(alumni_edges)}")
 
     # 2) same_university
     same_uni_edges = extract_same_university_edges(persons)
-    log(f"[Step9] same_university edges: {len(same_uni_edges)}")
+    log(f"[Step9] same_university edges  : {len(same_uni_edges)}")
 
     # 3) parent_of
     parent_edges = extract_parent_edges(persons)
-    log(f"[Step9] parent_of edges      : {len(parent_edges)}")
+    log(f"[Step9] parent_of edges        : {len(parent_edges)}")
 
     # 4) predecessor / successor
     pre_suc_edges = extract_pre_suc_edges(persons)
-    log(f"[Step9] predecessor/successor edges: {len(pre_suc_edges)}")
+    log(f"[Step9] predecessor/successor  : {len(pre_suc_edges)}")
 
     # 5) spouse_of
     spouse_edges = extract_spouse_edges(persons)
-    log(f"[Step9] spouse_of edges      : {len(spouse_edges)}")
+    log(f"[Step9] spouse_of edges        : {len(spouse_edges)}")
 
     # 6) same_party
     same_party_edges = extract_same_party_edges(persons)
-    log(f"[Step9] same_party edges     : {len(same_party_edges)}")
+    log(f"[Step9] same_party edges       : {len(same_party_edges)}")
 
-    # 7) same_country
+    # 7) same_nationality
+    same_nat_edges = extract_same_nationality_edges(persons)
+    log(f"[Step9] same_nationality edges : {len(same_nat_edges)}")
+
+    # 8) same_country
     same_country_edges, n_country = extract_same_country_edges(universities)
-    log(f"[Step9] same_country edges   : {len(same_country_edges)}")
+    log(f"[Step9] same_country edges     : {len(same_country_edges)}")
 
-    # 8) link_to từ các cạnh mention gốc (Step6)
+    # 9) link_to từ các cạnh mention gốc (Step6)
     link_to_edges = extract_link_to_edges_from_mentions(root)
-    log(f"[Step9] link_to edges       : {len(link_to_edges)}")
+    log(f"[Step9] link_to edges          : {len(link_to_edges)}")
 
     # Gom tất cả edges, bỏ trùng
     all_edges: List[Edge] = []
@@ -445,6 +486,7 @@ def main():
     all_edges.extend(pre_suc_edges)
     all_edges.extend(spouse_edges)
     all_edges.extend(same_party_edges)
+    all_edges.extend(same_nat_edges)
     all_edges.extend(same_country_edges)
     all_edges.extend(link_to_edges)
 
