@@ -31,6 +31,31 @@ def load_csv(path):
 def has_letter(s: str) -> bool:
     return any(ch.isalpha() for ch in s)
 
+def has_university(props: Dict[str, Any]) -> bool:
+    """
+    Kiểm tra xem properties có chứa ít nhất 1 trường đại học (Alma mater) không
+    """
+    alma_mater = props.get("Alma mater")
+    if not alma_mater:
+        return False
+    
+    # Nếu là list, kiểm tra có phần tử nào là tên trường đại học thực sự không
+    if isinstance(alma_mater, list):
+        # Loại bỏ các phần tử chỉ là ký tự đặc biệt hoặc số đơn lẻ
+        valid_items = []
+        for x in alma_mater:
+            s = str(x).strip()
+            # Bỏ qua các ký tự đặc biệt và số đơn lẻ
+            if s and s not in ["[", "]", "(", ")", "1", "2", "3", "4", "5", "6", "7", "8", "9", "0"]:
+                # Kiểm tra có chứa chữ cái (tên trường đại học thường có chữ cái)
+                if has_letter(s) and len(s) > 2:
+                    valid_items.append(s)
+        return len(valid_items) > 0
+    
+    # Nếu là string, kiểm tra không rỗng và có chữ cái
+    s = str(alma_mater).strip()
+    return bool(s) and has_letter(s) and len(s) > 2
+
 # ======================================================================
 # 1. Mapping key RAW (infobox) → key CLEAN schema
 # ======================================================================
@@ -50,6 +75,7 @@ PERSON_CLEAN_MAP = {
     "Vợ/chồng": "spouse",
     "Con cái": "children",
     "Quốc tịch": "nationality",
+    "Giáo dục": "education",
 }
 
 UNIVERSITY_CLEAN_MAP = {
@@ -270,13 +296,70 @@ def write_props_csv(label: str,
 
 
 # ======================================================================
+# Helper để xuất CSV cho career và country
+# ======================================================================
+
+def write_filtered_nodes_csv(label: str,
+                             nodes: List[Dict[str, str]],
+                             matched_details: Dict[str, Dict[str, Any]],
+                             filter_field: str,
+                             filter_raw_key: str,
+                             out_path: Path):
+    """
+    Xuất CSV cho các nodes có trường filter_field (career hoặc country)
+    filter_field: "career" hoặc "country"
+    filter_raw_key: key trong properties (ví dụ "Nghề nghiệp" hoặc "Quốc tịch")
+    """
+    base_fields = ["id", "name", "label", "wiki_url", filter_field]
+    log(f"[Step8] Write filtered CSV ({filter_field}): {out_path}")
+    
+    filtered_nodes = []
+    for n in nodes:
+        nid = n.get("id")
+        d = matched_details.get(nid)
+        if d is None:
+            continue
+        
+        props = d.get("properties", d)
+        filter_value = props.get(filter_raw_key)
+        
+        if filter_value:
+            # Kiểm tra giá trị không rỗng
+            if isinstance(filter_value, list):
+                clean_values = [str(x).strip() for x in filter_value if str(x).strip()]
+                if clean_values:
+                    filtered_nodes.append({
+                        "id": nid,
+                        "name": n.get("name"),
+                        "label": n.get("label"),
+                        "wiki_url": n.get("wiki_url"),
+                        filter_field: flatten_value(filter_value)
+                    })
+            elif str(filter_value).strip():
+                filtered_nodes.append({
+                    "id": nid,
+                    "name": n.get("name"),
+                    "label": n.get("label"),
+                    "wiki_url": n.get("wiki_url"),
+                    filter_field: flatten_value(filter_value)
+                })
+    
+    log(f"[Step8] Found {len(filtered_nodes)} nodes with {filter_field}")
+    
+    with out_path.open("w", encoding="utf-8", newline="") as f:
+        writer = csv.DictWriter(f, fieldnames=base_fields)
+        writer.writeheader()
+        writer.writerows(filtered_nodes)
+
+# ======================================================================
 # CLEAN output — schema rút gọn
 # ======================================================================
 
 def write_clean_nodes_csv(label: str,
                           nodes: List[Dict[str, str]],
                           matched_details: Dict[str, Dict[str, Any]],
-                          out_path: Path):
+                          out_path: Path,
+                          filter_university: bool = False):
 
     base_fields = ["id", "name", "label", "wiki_url"]
 
@@ -294,13 +377,30 @@ def write_clean_nodes_csv(label: str,
 
     log(f"[Step8] Write CLEAN CSV: {out_path}")
     log(f"[Step8] Extra fields: {clean_fields}")
+    
+    if filter_university:
+        log(f"[Step8] Filtering: only nodes with at least 1 university")
 
     with out_path.open("w", encoding="utf-8", newline="") as f:
         writer = csv.DictWriter(f, fieldnames=fieldnames)
         writer.writeheader()
 
+        filtered_count = 0
+        total_count = 0
         for n in nodes:
             nid = n.get("id")
+            total_count += 1
+            
+            # Nếu filter_university=True và label="person", chỉ giữ nodes có university
+            if filter_university and label == "person":
+                d = matched_details.get(nid)
+                if d is None:
+                    continue
+                props = d.get("properties", d)
+                if not has_university(props):
+                    continue
+                filtered_count += 1
+            
             row = {
                 "id": nid,
                 "name": n.get("name"),
@@ -319,6 +419,9 @@ def write_clean_nodes_csv(label: str,
                     row[k] = flatten_value(clean.get(k, ""))
 
             writer.writerow(row)
+        
+        if filter_university:
+            log(f"[Step8] Filtered: {filtered_count} / {total_count} nodes have universities")
 
 
 # ======================================================================
@@ -372,10 +475,26 @@ def process_node_type(
         out_dir / f"neo4j_nodes_{label}_props.csv"
     )
 
+    # Cho person nodes: filter để chỉ giữ những node có ít nhất 1 university
+    filter_uni = (label == "person")
     write_clean_nodes_csv(
         label, nodes, matched,
-        out_dir / f"neo4j_nodes_{label}_clean.csv"
+        out_dir / f"neo4j_nodes_{label}_clean.csv",
+        filter_university=filter_uni
     )
+    
+    # Xuất các file CSV riêng cho career và country (chỉ cho person)
+    if label == "person":
+        write_filtered_nodes_csv(
+            label, nodes, matched,
+            "career", "Nghề nghiệp",
+            out_dir / "neo4j_nodes_person_career.csv"
+        )
+        write_filtered_nodes_csv(
+            label, nodes, matched,
+            "country", "Quốc tịch",
+            out_dir / "neo4j_nodes_person_country.csv"
+        )
 
 
 def main():
